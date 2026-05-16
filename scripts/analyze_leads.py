@@ -37,12 +37,11 @@ PRICING_TIERS = [
 ]
 
 NICHE_MARKET_FACTS = {
-    "gym":        "Fitness app bookings grew 47% since 2023 — gyms without online scheduling lose ~30% of after-hours sign-ups.",
-    "restaurant": "61% of diners check a restaurant's website before visiting. Google favours sites with online ordering in local pack rankings.",
-    "salon":      "Salon clients who book online spend 28% more per visit on average. 40% of salon bookings now happen outside business hours.",
-    "spa":        "Wellness searches on Google have grown 3× since 2020. Spas with booking widgets rank 2 positions higher on average.",
-    "retail":     "Local retail sites with product pages indexed by Google see 4× more foot traffic from search than those without.",
-    "default":    "Businesses with modern websites convert local search traffic at 3× the rate of those with outdated or missing sites.",
+    "restaurant":     "61% of diners check a restaurant's site before visiting. Restaurants with reels and Google ordering in their local pack get 3× more clicks than those without.",
+    "health_wellness": "Wellness content gets 2× the engagement of generic brand content. Studios with motion-heavy reels and influencer collabs fill their rosters 40% faster.",
+    "fmcg":           "Products with consistent short-form video presence convert at 4× the rate of static-only brands. UGC creator content costs 6× less than studio production.",
+    "events":         "80% of couples research venues on Instagram before enquiring. Venues without scroll-stopping video content lose enquiries before a single message is sent.",
+    "default":        "Businesses with modern visual identity and motion content convert local search traffic at 3× the rate of those with outdated or missing sites.",
 }
 
 
@@ -127,16 +126,14 @@ def find_competitor(business_name: str, niche: str, city: str) -> str:
 
 def detect_niche(name: str, url: str) -> str:
     text = (name + " " + url).lower()
-    if any(w in text for w in ["gym", "fitness", "train", "crossfit", "yoga", "pilates"]):
-        return "gym"
-    if any(w in text for w in ["restaurant", "diner", "cafe", "bistro", "kitchen", "grill", "taqueria"]):
+    if any(w in text for w in ["restaurant", "diner", "cafe", "bistro", "kitchen", "grill", "taqueria", "bar", "eatery"]):
         return "restaurant"
-    if any(w in text for w in ["nail", "hair", "salon", "beauty", "spa", "barber"]):
-        return "salon"
-    if any(w in text for w in ["spa", "wellness", "massage"]):
-        return "spa"
-    if any(w in text for w in ["shop", "store", "boutique", "retail"]):
-        return "retail"
+    if any(w in text for w in ["wellness", "supplement", "nutrition", "health", "yoga", "pilates", "spa", "massage"]):
+        return "health_wellness"
+    if any(w in text for w in ["event", "wedding", "venue", "planner", "catering"]):
+        return "events"
+    if any(w in text for w in ["food", "fmcg", "artisan", "producer", "brand", "packaged", "product", "distill", "brew", "roast"]):
+        return "fmcg"
     return "default"
 
 
@@ -236,9 +233,9 @@ def parse_leads_files() -> list[dict]:
         heading = re.search(r"^# (.+?) Outreach Leads", content, re.M)
         city = heading.group(1) if heading else city_slug.replace("-", " ").title()
 
-        # extract table rows: | name | url | phone | email | weakness |
-        rows = re.findall(r"\|\s*(.+?)\s*\|\s*(https?://\S+|-)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|", content)
-        for name, url, phone, email, weakness in rows:
+        # extract table rows: | name | url | phone | email | linkedin | weakness |
+        rows = re.findall(r"\|\s*(.+?)\s*\|\s*(https?://\S+|-)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|", content)
+        for name, url, phone, email, linkedin, weakness in rows:
             if name.lower() in ("business", "---"):
                 continue
             leads.append({
@@ -246,6 +243,7 @@ def parse_leads_files() -> list[dict]:
                 "url": url.strip() if url.strip() != "—" else "",
                 "phone": phone.strip(),
                 "email": email.strip(),
+                "linkedin": linkedin.strip(),
                 "weakness": weakness.strip(),
                 "city": city,
                 "source_file": filepath,
@@ -320,7 +318,7 @@ def main():
             f"## {rank}. {lead['name']}",
             f"**City:** {lead['city']} | **Niche:** {s['niche'].title()} | **Opportunity Score:** {s['score']}/100  ",
             f"**Package:** {s['tier_name']} — {s['tier_price']}  ",
-            f"**Contact:** {lead['phone']} | {lead['email']}  ",
+            f"**Contact:** {lead['phone']} | {lead['email']} | {lead.get('linkedin', '—')}  ",
             f"**Their site:** {lead['url'] or '_(none)_'} ({s['client_pages']} pages)  ",
             f"**Top competitor:** {s['comp_url'] or '_(not found)_'} ({s['comp_pages']} pages)  ",
             f"**Missing pages:** {', '.join(s['missing'][:6]) or 'none detected'}  ",
@@ -337,13 +335,13 @@ def main():
         "",
         "## Quick-Reference Table",
         "",
-        "| Rank | Business | City | Score | Package | Price | Email |",
-        "|---|---|---|---|---|---|---|",
+        "| Rank | Business | City | Score | Package | Price | Email | LinkedIn |",
+        "|---|---|---|---|---|---|---|---|",
     ]
     for rank, s in enumerate(scored, 1):
         lead = s["lead"]
         summary.append(
-            f"| {rank} | {lead['name']} | {lead['city']} | {s['score']} | {s['tier_name']} | {s['tier_price']} | {lead['email']} |"
+            f"| {rank} | {lead['name']} | {lead['city']} | {s['score']} | {s['tier_name']} | {s['tier_price']} | {lead['email']} | {lead.get('linkedin', '—')} |"
         )
     summary.append("")
 
