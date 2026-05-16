@@ -77,7 +77,7 @@ The analysis workflow runs 1 hour after the leads workflow so fresh leads are al
 
 ## Daily workflow skills
 
-Six skills are installed at `~/.claude/skills/` for the daily outreach loop:
+Eight skills are installed at `~/.claude/skills/` for the daily outreach loop:
 
 | Skill | Trigger | Purpose |
 |---|---|---|
@@ -85,12 +85,27 @@ Six skills are installed at `~/.claude/skills/` for the daily outreach loop:
 | `outreach` | `/outreach` | Drafts 5 personalised cold emails from today's leads file |
 | `dm` | `/dm` | Drafts LinkedIn connection notes + follow-up DMs per decision maker |
 | `reply` | `/reply [paste]` | Identifies pipeline stage from a lead's reply, drafts next message |
-| `post` | `/post [company]` | Generates a Higgsfield AI prompt + reference image brief + company data card for a lead who replied |
+| `post` | `/post [company]` | Generates a platform-specific prompt + reference image brief + company data card for a lead who replied. Asks which platform (Higgsfield, Midjourney, Runway, Firefly) before generating |
 | `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city — then auto-triggers /audit |
 | `audit` | `/audit` | Scores the day across 6 areas (1–5), logs mistakes, writes tomorrow's fix list, appends to audit/log.md |
 | `connect` | `/connect` | Walks through connecting any tool in NINE's stack |
 
+Daily sequence: `/morning` → `/outreach` → `/dm` → `/reply [paste]` → `/post [company]` → `/eod` → `/audit` (auto)
+
 Daily outreach targets: **30 businesses found / 20 emails sent / 20–40 LinkedIn connections / 5–10 chats started / 2–3 serious leads.**
+
+## Knowledge skills
+
+Six knowledge skills are installed at `~/.claude/skills/` and trigger automatically on relevant questions:
+
+| Skill | Triggers on |
+|---|---|
+| `claude-101` | Claude features, projects, artifacts, research mode, getting better results |
+| `claude-api` | Building with the API, automation, tool use, RAG, pipelines, structured output |
+| `mcp-intro` | Connecting Claude to external tools via MCP, CRM/scraper integrations |
+| `agent-skills` | Writing SKILL.md files, encoding SOPs as skills, skill triggers |
+| `subagents` | Delegating to subagents, parallel tasks, multi-step workflow automation |
+| `ai-fluency` | Explaining AI to clients, 4D Framework, ethical AI, client education materials |
 
 ## Agency context (for outreach copy)
 
