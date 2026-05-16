@@ -84,6 +84,7 @@ Six skills are installed at `~/.claude/skills/` for the daily outreach loop:
 | `outreach` | `/outreach` | Drafts 5 personalised cold emails from today's leads file |
 | `dm` | `/dm` | Drafts LinkedIn connection notes + follow-up DMs per decision maker |
 | `reply` | `/reply [paste]` | Identifies pipeline stage from a lead's reply, drafts next message |
+| `post` | `/post [company]` | Generates a Higgsfield AI prompt + reference image brief + company data card for a lead who replied |
 | `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city |
 | `connect` | `/connect` | Walks through connecting any tool in NINE's stack |
 
