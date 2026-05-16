@@ -67,6 +67,7 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 |---|---|---|
 | `outreach/leads-{city}-{date}.md` | `research_leads.py` | Raw leads grouped by niche with pitch angles and LinkedIn search links |
 | `analysis/client-ranking-{date}.md` | `analyze_leads.py` | Scored + ranked leads with pricing, competitor comparison, and first-email hooks |
+| `audit/log.md` | `/audit` skill | Appended daily — scores, issues, and tomorrow's fixes across all 6 audit areas |
 
 ## GitHub Actions
 
@@ -85,7 +86,8 @@ Six skills are installed at `~/.claude/skills/` for the daily outreach loop:
 | `dm` | `/dm` | Drafts LinkedIn connection notes + follow-up DMs per decision maker |
 | `reply` | `/reply [paste]` | Identifies pipeline stage from a lead's reply, drafts next message |
 | `post` | `/post [company]` | Generates a Higgsfield AI prompt + reference image brief + company data card for a lead who replied |
-| `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city |
+| `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city — then auto-triggers /audit |
+| `audit` | `/audit` | Scores the day across 6 areas (1–5), logs mistakes, writes tomorrow's fix list, appends to audit/log.md |
 | `connect` | `/connect` | Walks through connecting any tool in NINE's stack |
 
 Daily outreach targets: **30 businesses found / 20 emails sent / 20–40 LinkedIn connections / 5–10 chats started / 2–3 serious leads.**
