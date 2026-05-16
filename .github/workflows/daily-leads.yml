@@ -1,0 +1,42 @@
+name: Daily NINE Lead Research
+
+on:
+  schedule:
+    - cron: "0 19 * * *"   # 7pm UTC every day
+  workflow_dispatch:         # allow manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Run lead research
+        id: research
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          filename=$(python scripts/research_leads.py)
+          echo "filename=$filename" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push leads file
+        run: |
+          git config user.name "NINE Lead Bot"
+          git config user.email "leads-bot@nine.agency"
+          git add outreach/
+          git diff --cached --quiet && echo "No new leads file" && exit 0
+          git commit -m "Daily leads: ${{ steps.research.outputs.filename }}"
+          git push
