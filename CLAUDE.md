@@ -42,16 +42,37 @@ City is selected by `date.toordinal() % len(CITIES)` — 50 US cities. Rotation 
 
 ### Target niches
 
-`research_leads.py` searches three niches per city:
-- `gyms` — gym, fitness studio, personal training
-- `restaurants` — independent restaurant, diner, cafe
-- `salons` — nail salon, hair salon, spa, beauty
+`research_leads.py` searches four niches per city, benchmarked against category leaders:
 
-### Leads table format
+| Niche | Search terms | Benchmarks |
+|---|---|---|
+| `restaurants` | independent restaurant, cafe, bistro | Sweetgreen, Erewhon, Blank Street Coffee |
+| `health_wellness` | wellness studio, spa, supplement brand | Equinox, Seed Health, Goop |
+| `fmcg` | artisan food/drink producer, packaged goods brand | Oatly, Fly By Jing, OffLimits Cereal |
+| `events` | event venue, wedding venue, event planner | Zola, Peerspace, The Knot |
 
-Each leads file has columns: `Business | Website | Phone | Email | Web Issue`
+### Per-lead gap audit
 
-Results are sorted into a **Priority Send Order** section: no-website leads first, then email-available leads, then the rest. Aggregators (Yelp, TripAdvisor, YellowPages, Google, Facebook) are filtered from search results.
+For each business found, the script fetches the homepage and runs a signal-based audit:
+
+**Brand health score (1–10)** — heuristic based on: template builder detection, social channel presence, video/motion content, blog/editorial, booking or ordering system, brand narrative.
+
+**Gap identification** — up to 4 gaps per lead, each with:
+- Specific detail (what's missing and why it costs them)
+- Competitor benchmark (what a category leader does instead)
+- NINE services mapped to that gap
+
+**NINE services triggered by gaps:**
+- `Branding Design` — template builders, no ownable visual identity
+- `Static Content Creation` — no social presence or single-platform
+- `Motion Video Editing` / `2D-3D Motion Graphics` — no video or reels anywhere
+- `Research & Strategy` — no ordering/booking, unclear positioning, no brand narrative
+
+**Cold outreach email** — generated per lead, ready to send with zero editing. Opens with a specific observation about that business's gap (not a generic intro), frames the benchmark, pitches the relevant NINE service, and closes with a low-friction CTA.
+
+### Output format
+
+Each leads file is a strategic gap audit report — one section per niche, one detailed block per business, then a **Priority Hit List** table ranked by brand health score (lowest score = most opportunity for NINE).
 
 ### CRM merge (`crm_merge.py`)
 
