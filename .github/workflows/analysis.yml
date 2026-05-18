@@ -1,0 +1,37 @@
+name: NINE Client Opportunity Analysis
+
+on:
+  schedule:
+    - cron: "0 20 */2 * *"   # 8pm UTC every 2 days (1hr after leads run)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run analysis
+        id: analysis
+        run: |
+          filename=$(python scripts/analyze_leads.py)
+          echo "filename=$filename" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push analysis
+        run: |
+          git config user.name "NINE Analysis Bot"
+          git config user.email "analysis-bot@nine.agency"
+          git add analysis/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Analysis: ${{ steps.analysis.outputs.filename }}"
+          git push
