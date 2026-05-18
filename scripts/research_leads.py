@@ -126,18 +126,55 @@ def ddg_search(query: str) -> str:
         return ""
 
 
+SKIP_DOMAINS = [
+    "yelp.com", "tripadvisor", "yellowpages", "google.com", "facebook.com",
+    "instagram.com", "twitter.com", "tiktok.com", "linkedin.com",
+    "thrillist.com", "timeout.com", "eater.com", "zagat.com",
+    "azcentral.com", "usatoday.com", "buzzfeed.com", "huffpost.com",
+    "nytimes.com", "forbes.com", "entrepreneur.com", "reddit.com",
+    "nextdoor.com", "citysearch.com", "foursquare.com", "mapquest.com",
+    "bbb.org", "chamberofcommerce.com", "angi.com", "thumbtack.com",
+    "houzz.com", "homeadvisor.com", "angieslist.com",
+]
+
+ARTICLE_TITLE_RE = re.compile(
+    r"^(\d+[\s\-]|best |top |guide |review |where |how |what |why |the best )",
+    re.I,
+)
+
+ARTICLE_URL_RE = re.compile(
+    r"/(best-|top-|guide|article|story|blog|list|review|news|feature|ranking)",
+    re.I,
+)
+
+
 def extract_results(html: str, limit: int = 8) -> list[dict]:
     results = []
-    # DuckDuckGo HTML result titles are in <a class="result__a">
     titles = re.findall(r'class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', html, re.S)
     snippets = re.findall(r'class="result__snippet">(.*?)</span>', html, re.S)
 
-    for i, (url, title) in enumerate(titles[:limit]):
+    seen_domains = set()
+    for i, (url, title) in enumerate(titles):
+        if len(results) >= limit:
+            break
         title = re.sub(r"<[^>]+>", "", title).strip()
         snippet = re.sub(r"<[^>]+>", "", snippets[i]).strip() if i < len(snippets) else ""
-        # skip aggregator sites — we want direct business pages
-        if any(d in url for d in ["yelp.com", "tripadvisor", "yellowpages", "google.com", "facebook.com"]):
+
+        if any(d in url for d in SKIP_DOMAINS):
             continue
+        if ARTICLE_TITLE_RE.match(title):
+            continue
+        if ARTICLE_URL_RE.search(url):
+            continue
+        # one result per domain to avoid the same business appearing twice
+        try:
+            domain = urllib.parse.urlparse(url).netloc
+        except Exception:
+            domain = url
+        if domain in seen_domains:
+            continue
+        seen_domains.add(domain)
+
         results.append({"title": title, "url": url, "snippet": snippet})
 
     return results
