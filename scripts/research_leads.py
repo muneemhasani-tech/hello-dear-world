@@ -14,62 +14,66 @@ import urllib.parse
 import urllib.request
 
 CITIES = [
-    "Los Angeles, CA",
-    "Chicago, IL",
-    "Houston, TX",
-    "Phoenix, AZ",
-    "Philadelphia, PA",
-    "San Antonio, TX",
-    "San Diego, CA",
-    "Dallas, TX",
-    "Jacksonville, FL",
-    "Austin, TX",
-    "Columbus, OH",
-    "Charlotte, NC",
-    "Indianapolis, IN",
-    "San Francisco, CA",
-    "Seattle, WA",
-    "Denver, CO",
-    "Nashville, TN",
-    "Oklahoma City, OK",
-    "El Paso, TX",
-    "Portland, OR",
-    "Las Vegas, NV",
-    "Memphis, TN",
-    "Louisville, KY",
-    "Baltimore, MD",
-    "Milwaukee, WI",
-    "Albuquerque, NM",
-    "Tucson, AZ",
-    "Fresno, CA",
-    "Sacramento, CA",
-    "Mesa, AZ",
-    "Atlanta, GA",
-    "Miami, FL",
-    "Minneapolis, MN",
-    "New Orleans, LA",
-    "Cleveland, OH",
-    "Tampa, FL",
-    "Pittsburgh, PA",
-    "Raleigh, NC",
-    "Kansas City, MO",
-    "Virginia Beach, VA",
-    "Omaha, NE",
-    "Colorado Springs, CO",
-    "Long Beach, CA",
-    "Bakersfield, CA",
-    "Aurora, CO",
-    "Honolulu, HI",
-    "Anaheim, CA",
-    "Santa Ana, CA",
-    "Corpus Christi, TX",
-    "Riverside, CA",
+    # US Tier 2 — lower competition, commercially ready budgets
+    "Asheville, NC",
+    "Boise, ID",
+    "Chattanooga, TN",
+    "Greenville, SC",
+    "Savannah, GA",
+    "Fort Collins, CO",
+    "Eugene, OR",
+    "Spokane, WA",
+    "Knoxville, TN",
+    "Huntsville, AL",
+    "Madison, WI",
+    "Ann Arbor, MI",
+    "Burlington, VT",
+    "Charlottesville, VA",
+    "Flagstaff, AZ",
+    "Santa Fe, NM",
+    "Bend, OR",
+    "Fayetteville, AR",
+    "Lexington, KY",
+    "Columbia, SC",
+    "Wilmington, NC",
+    "Richmond, VA",
+    "Tulsa, OK",
+    "Des Moines, IA",
+    "Grand Rapids, MI",
+    "Dayton, OH",
+    "Springfield, MO",
+    "Peoria, IL",
+    "Wichita, KS",
+    "Little Rock, AR",
+    # UK Tier 2
+    "Brighton, UK",
+    "Bristol, UK",
+    "Edinburgh, UK",
+    "Cardiff, UK",
+    "Norwich, UK",
+    "Exeter, UK",
+    "Bath, UK",
+    "York, UK",
+    "Oxford, UK",
+    "Coventry, UK",
+    # Australia Tier 2
+    "Byron Bay, Australia",
+    "Noosa, Australia",
+    "Hobart, Australia",
+    "Geelong, Australia",
+    "Launceston, Australia",
+    "Cairns, Australia",
+    "Townsville, Australia",
+    "Wollongong, Australia",
+    "Gold Coast, Australia",
+    "Sunshine Coast, Australia",
 ]
 
 NICHES = [
-    ("gyms", "gym fitness studio personal training"),
-    ("restaurants", "independent restaurant diner cafe"),
-    ("salons", "nail salon hair salon spa beauty"),
+    ("restaurants", "independent restaurant cafe bistro bar food"),
+    ("health_wellness", "health wellness supplement nutrition studio spa"),
+    ("fmcg", "food brand packaged goods artisan producer local product"),
+    ("events", "event venue wedding venue event planner"),
 ]
 
 HEADERS = {
@@ -80,9 +84,10 @@ HEADERS = {
 }
 
 PITCH = {
-    "gyms": "No online class booking or sign-up → losing revenue at 11pm when people decide to join",
-    "restaurants": "No online ordering or Google-optimised menu → competitors are taking that traffic",
-    "salons": "Great reviews, no way to book from them → losing walk-in conversions every day",
+    "restaurants":    "Stunning food, flat socials — reels + a Google-optimised site turns browsers into bookings",
+    "health_wellness": "Wellness is booming but their content doesn't show it — motion-heavy reels + influencer collab fills the gap",
+    "fmcg":           "Great product, no visual identity online — brand spine + creator UGC puts product in front of buyers",
+    "events":         "Event venues live and die by scroll-stopping visuals — no reel strategy = invisible to the couples/planners searching now",
 }
 
 EMAIL_TEMPLATE = """---
@@ -165,6 +170,12 @@ def web_weakness(url: str, snippet: str) -> str:
     return "Check site for booking/SEO gaps"
 
 
+def linkedin_search_url(business_name: str, city: str) -> str:
+    city_name = city.split(",")[0]
+    query = urllib.parse.quote(f"{business_name} {city_name}")
+    return f"https://www.linkedin.com/search/results/companies/?keywords={query}"
+
+
 def research_niche(city: str, niche_key: str, niche_query: str) -> list[dict]:
     query = f'independent {niche_query} in "{city}" -chain -franchise'
     print(f"  Searching: {query}", file=sys.stderr)
@@ -179,6 +190,7 @@ def research_niche(city: str, niche_key: str, niche_query: str) -> list[dict]:
             "url": r["url"] if r["url"].startswith("http") else "—",
             "phone": find_phone(r["snippet"]),
             "email": find_email(r["snippet"], r["url"]),
+            "linkedin": linkedin_search_url(r["title"], city),
             "weakness": web_weakness(r["url"], r["snippet"]),
         })
     return leads
@@ -198,10 +210,10 @@ def build_report(city: str, date: datetime.date) -> str:
         leads = research_niche(city, niche_key, niche_query)
         lines += [f"## {niche_key.title()}", ""]
         lines += [f"*Pitch: {PITCH[niche_key]}*", ""]
-        lines += ["| Business | Website | Phone | Email | Web Issue |", "|---|---|---|---|---|"]
+        lines += ["| Business | Website | Phone | Email | LinkedIn | Web Issue |", "|---|---|---|---|---|---|"]
         for lead in leads:
             lines.append(
-                f"| {lead['name']} | {lead['url']} | {lead['phone']} | {lead['email']} | {lead['weakness']} |"
+                f"| {lead['name']} | {lead['url']} | {lead['phone']} | {lead['email']} | [Search]({lead['linkedin']}) | {lead['weakness']} |"
             )
             all_leads.append((niche_key, lead))
         lines.append("")
