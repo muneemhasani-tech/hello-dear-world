@@ -68,12 +68,16 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 | `outreach/leads-{city}-{date}.md` | `research_leads.py` | Raw leads grouped by niche with pitch angles and LinkedIn search links |
 | `analysis/client-ranking-{date}.md` | `analyze_leads.py` | Scored + ranked leads with pricing, competitor comparison, and first-email hooks |
 | `audit/log.md` | `/audit` skill | Appended daily — scores, issues, and tomorrow's fixes across all 6 audit areas |
+| `crm/week-{YYYY}-W{NN}.md` | `/crm` skill (via `/eod`) | Weekly lead tracker — all pipeline activity for the week |
+| `crm/monthly-{YYYY-MM}.md` | `crm_merge.py` | Monthly CRM report — pipeline funnel, revenue forecast, niche + city breakdown |
 
 ## GitHub Actions
 
-Both workflows have `workflow_dispatch` enabled — trigger manually from the Actions tab without waiting for the schedule.
+All workflows have `workflow_dispatch` enabled — trigger manually from the Actions tab without waiting for the schedule.
 
 The analysis workflow runs 1 hour after the leads workflow so fresh leads are always included.
+
+The CRM merge workflow runs on the 1st of each month at 9am UTC. Trigger it manually with optional `year` and `month` inputs to regenerate any month.
 
 ## Daily workflow skills
 
@@ -86,11 +90,21 @@ Eight skills are installed at `~/.claude/skills/` for the daily outreach loop:
 | `dm` | `/dm` | Drafts LinkedIn connection notes + follow-up DMs per decision maker |
 | `reply` | `/reply [paste]` | Identifies pipeline stage from a lead's reply, drafts next message |
 | `post` | `/post [company]` | Generates a platform-specific prompt + reference image brief + company data card for a lead who replied. Asks which platform (Higgsfield, Midjourney, Runway, Firefly) before generating |
-| `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city — then auto-triggers /audit |
+| `crm` | `/crm` | Logs or updates leads in the current week's CRM file; shows pipeline summary when called standalone |
+| `eod` | `/eod` | Scores day against targets, flags follow-ups, confirms tomorrow's city — then auto-triggers /crm and /audit |
 | `audit` | `/audit` | Scores the day across 6 areas (1–5), logs mistakes, writes tomorrow's fix list, appends to audit/log.md |
 | `connect` | `/connect` | Walks through connecting any tool in NINE's stack |
 
-Daily sequence: `/morning` → `/outreach` → `/dm` → `/reply [paste]` → `/post [company]` → `/eod` → `/audit` (auto)
+Daily sequence: `/morning` → `/outreach` → `/dm` → `/reply [paste]` → `/post [company]` → `/eod` → `/crm` (auto) → `/audit` (auto)
+
+### CRM system
+
+Weekly files (`crm/week-{YYYY}-W{NN}.md`) are created and updated automatically during `/eod`. Each lead touched that day gets a row with stage, last action, next action, and value.
+
+Monthly merge runs on the 1st via GitHub Actions (`crm_merge.py`). To generate manually:
+```bash
+python scripts/crm_merge.py 2026 5   # for May 2026
+```
 
 Daily outreach targets: **30 businesses found / 20 emails sent / 20–40 LinkedIn connections / 5–10 chats started / 2–3 serious leads.**
 

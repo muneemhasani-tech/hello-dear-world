@@ -1,0 +1,40 @@
+name: Monthly CRM Merge
+
+on:
+  schedule:
+    - cron: "0 9 1 * *"   # 9am UTC on the 1st of every month
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Year (e.g. 2026)"
+        required: false
+      month:
+        description: "Month number (e.g. 5)"
+        required: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run CRM merge
+        run: |
+          if [ -n "${{ github.event.inputs.year }}" ] && [ -n "${{ github.event.inputs.month }}" ]; then
+            python scripts/crm_merge.py ${{ github.event.inputs.year }} ${{ github.event.inputs.month }}
+          else
+            python scripts/crm_merge.py
+          fi
+
+      - name: Commit monthly report
+        run: |
+          git config user.name "NINE CRM Bot"
+          git config user.email "crm-bot@nine.agency"
+          git add crm/monthly-*.md
+          git diff --cached --quiet || git commit -m "chore: monthly CRM report $(date +%Y-%m)"
+          git push
