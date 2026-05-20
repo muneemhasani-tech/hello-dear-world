@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: claude/automated-outreach-system-FqALG
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,13 +32,17 @@ jobs:
           NOTEBOOKLM_STORAGE_STATE: ${{ secrets.NOTEBOOKLM_STORAGE_STATE }}
         run: python scripts/export_notebook_knowledge.py
 
-      - name: Commit knowledge base
+      - name: Commit and push knowledge base
         run: |
           git config user.name "NINE Knowledge Bot"
           git config user.email "knowledge-bot@nine.agency"
+          # Stash the generated file, sync to latest remote, restore
+          cp knowledge/nine-brand-knowledge.md /tmp/nine-brand-knowledge.md
           git fetch origin claude/automated-outreach-system-FqALG
-          git rebase origin/claude/automated-outreach-system-FqALG
-          git add knowledge/ 2>/dev/null || true
+          git reset --hard origin/claude/automated-outreach-system-FqALG
+          mkdir -p knowledge
+          cp /tmp/nine-brand-knowledge.md knowledge/nine-brand-knowledge.md
+          git add knowledge/nine-brand-knowledge.md
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Knowledge base: refreshed from NotebookLM"
           git push origin HEAD:claude/automated-outreach-system-FqALG
