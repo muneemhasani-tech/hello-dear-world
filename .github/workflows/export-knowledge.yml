@@ -30,16 +30,22 @@ jobs:
       - name: Query notebook and write knowledge base
         env:
           NOTEBOOKLM_STORAGE_STATE: ${{ secrets.NOTEBOOKLM_STORAGE_STATE }}
-        run: python scripts/export_notebook_knowledge.py
+        run: |
+          if [ -n "$NOTEBOOKLM_STORAGE_STATE" ]; then
+            echo "$NOTEBOOKLM_STORAGE_STATE" > /tmp/nlm_storage.json
+          fi
+          python scripts/export_notebook_knowledge.py
 
-      - name: Commit and push knowledge base
+      - name: Commit knowledge base
         run: |
           git config user.name "NINE Knowledge Bot"
           git config user.email "knowledge-bot@nine.agency"
-          # Stash the generated file, sync to latest remote, restore
+          # Save generated file before re-syncing with remote
           cp knowledge/nine-brand-knowledge.md /tmp/nine-brand-knowledge.md
+          # Re-sync to pick up any commits that landed during the ~3min query run
           git fetch origin claude/automated-outreach-system-FqALG
           git reset --hard origin/claude/automated-outreach-system-FqALG
+          # Restore generated file and commit
           mkdir -p knowledge
           cp /tmp/nine-brand-knowledge.md knowledge/nine-brand-knowledge.md
           git add knowledge/nine-brand-knowledge.md
