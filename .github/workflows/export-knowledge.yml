@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: claude/automated-outreach-system-FqALG
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,7 +40,15 @@ jobs:
         run: |
           git config user.name "NINE Knowledge Bot"
           git config user.email "knowledge-bot@nine.agency"
-          git add knowledge/
+          # Save generated file before re-syncing with remote
+          cp knowledge/nine-brand-knowledge.md /tmp/nine-brand-knowledge.md
+          # Re-sync to pick up any commits that landed during the ~3min query run
+          git fetch origin claude/automated-outreach-system-FqALG
+          git reset --hard origin/claude/automated-outreach-system-FqALG
+          # Restore generated file and commit
+          mkdir -p knowledge
+          cp /tmp/nine-brand-knowledge.md knowledge/nine-brand-knowledge.md
+          git add knowledge/nine-brand-knowledge.md
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Knowledge base: refreshed from NotebookLM"
-          git push
+          git push origin HEAD:claude/automated-outreach-system-FqALG
