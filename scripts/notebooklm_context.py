@@ -27,7 +27,10 @@ def _write_storage_state() -> bool:
         return False
     try:
         json.loads(state)
-        Path(_STORAGE_PATH).write_text(state)
+        # Write to the default profile path notebooklm-py expects
+        profile_path = Path.home() / ".notebooklm" / "profiles" / "default"
+        profile_path.mkdir(parents=True, exist_ok=True)
+        (profile_path / "storage_state.json").write_text(state)
         return True
     except Exception as e:
         print(f"  [NotebookLM] Bad storage state JSON: {e}", file=sys.stderr)
@@ -35,10 +38,10 @@ def _write_storage_state() -> bool:
 
 
 async def _async_query(question: str) -> str:
-    from notebooklm import NotebookLM  # type: ignore
-    async with NotebookLM(storage_state=_STORAGE_PATH) as nlm:
-        notebook = await nlm.get_notebook(NOTEBOOK_ID)
-        return str(await notebook.query(question))
+    from notebooklm import NotebookLMClient  # type: ignore
+    async with NotebookLMClient.from_storage() as client:
+        result = await client.chat.ask(NOTEBOOK_ID, question)
+        return str(result)
 
 
 def query(question: str) -> str:

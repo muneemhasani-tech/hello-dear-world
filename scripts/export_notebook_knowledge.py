@@ -37,10 +37,10 @@ QUESTIONS = [
 
 
 async def _query(question: str) -> str:
-    from notebooklm import NotebookLM  # type: ignore
-    async with NotebookLM(storage_state=STORAGE_PATH) as nlm:
-        notebook = await nlm.get_notebook(NOTEBOOK_ID)
-        return str(await notebook.query(question))
+    from notebooklm import NotebookLMClient  # type: ignore
+    async with NotebookLMClient.from_storage() as client:
+        result = await client.chat.ask(NOTEBOOK_ID, question)
+        return str(result)
 
 
 def query(label: str, question: str) -> str:
@@ -95,7 +95,10 @@ def main():
 
     try:
         json.loads(state)
-        Path(STORAGE_PATH).write_text(state)
+        # Write to the default profile path notebooklm-py expects
+        profile_path = Path.home() / ".notebooklm" / "profiles" / "default"
+        profile_path.mkdir(parents=True, exist_ok=True)
+        (profile_path / "storage_state.json").write_text(state)
     except Exception as e:
         print(f"ERROR: Bad storage state JSON: {e}", file=sys.stderr)
         sys.exit(1)
