@@ -16,7 +16,7 @@ python scripts/research_leads.py
 python scripts/analyze_leads.py
 ```
 
-Both scripts use Python 3.12+ stdlib only — no `pip install` needed.
+`research_leads.py` and `analyze_leads.py` require `pip install -r requirements.txt` and `playwright install chromium` (for the NotebookLM browser auth path). `crm_merge.py` remains stdlib-only.
 
 Output files are printed to stdout (the filename); progress/errors go to stderr.
 
