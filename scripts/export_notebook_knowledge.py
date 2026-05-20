@@ -39,7 +39,7 @@ QUESTIONS = [
 async def _query_all() -> dict:
     from notebooklm import NotebookLMClient  # type: ignore
     results = {}
-    async with NotebookLMClient.from_storage() as client:
+    async with await NotebookLMClient.from_storage() as client:
         for label, question in QUESTIONS:
             print(f"  [{label}] querying...", file=sys.stderr)
             try:
