@@ -33,6 +33,11 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
+      - name: Restore NotebookLM auth
+        run: |
+          mkdir -p ~/.notebooklm
+          echo '${{ secrets.NOTEBOOKLM_STORAGE_STATE }}' > ~/.notebooklm/storage_state.json
+
       - name: Run analysis
         id: analysis
         run: |
