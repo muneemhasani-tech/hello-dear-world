@@ -44,7 +44,7 @@ async def _async_query(question: str) -> str:
     from notebooklm import NotebookLMClient  # type: ignore
     async with await NotebookLMClient.from_storage() as client:
         result = await client.chat.ask(NOTEBOOK_ID, question)
-        return str(result)
+        return getattr(result, "answer", None) or getattr(result, "text", None) or str(result)
 
 
 def query(question: str) -> str:

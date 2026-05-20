@@ -44,7 +44,9 @@ async def _query_all() -> dict:
             print(f"  [{label}] querying...", file=sys.stderr)
             try:
                 result = await client.chat.ask(NOTEBOOK_ID, question)
-                results[label] = str(result)
+                # Unwrap AskResult object to plain string
+                text = getattr(result, "answer", None) or getattr(result, "text", None) or str(result)
+                results[label] = text
                 print(f"  [{label}] OK — {len(results[label])} chars", file=sys.stderr)
             except Exception as e:
                 print(f"  [{label}] FAILED: {e}", file=sys.stderr)
