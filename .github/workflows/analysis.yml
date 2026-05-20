@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "NINE Analysis Bot"
           git config user.email "analysis-bot@nine.agency"
-          git add analysis/
-          git diff --cached --quiet && echo "No changes" && exit 0
+          git add analysis/ 2>/dev/null || true
+          git diff --cached --quiet && echo "No analysis changes to commit" && exit 0
           git commit -m "Analysis: ${{ steps.analysis.outputs.filename }}"
           git push

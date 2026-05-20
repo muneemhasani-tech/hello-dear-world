@@ -263,13 +263,17 @@ def parse_leads_files() -> list[dict]:
         city = heading.group(1) if heading else city_slug.replace("-", " ").title()
 
         # extract table rows: | name | url | phone | email | linkedin | weakness |
-        rows = re.findall(r"\|\s*(.+?)\s*\|\s*(https?://\S+|-)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|", content)
-        for name, url, phone, email, linkedin, weakness in rows:
-            if name.lower() in ("business", "---"):
+        rows = re.findall(r"\|\s*(.+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|", content)
+        for name, url_raw, phone, email, linkedin, weakness in rows:
+            if name.lower().strip() in ("business", "---"):
                 continue
+            url = url_raw.strip()
+            # Only keep real URLs — discard platform names like "OpenTable", "Yelp", etc.
+            if not url.startswith("http"):
+                url = ""
             leads.append({
                 "name": name.strip(),
-                "url": url.strip() if url.strip() != "—" else "",
+                "url": url,
                 "phone": phone.strip(),
                 "email": email.strip(),
                 "linkedin": linkedin.strip(),
