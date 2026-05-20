@@ -36,11 +36,20 @@ QUESTIONS = [
 ]
 
 
-async def _query(question: str) -> str:
+async def _query_all() -> dict:
     from notebooklm import NotebookLMClient  # type: ignore
+    results = {}
     async with NotebookLMClient.from_storage() as client:
-        result = await client.chat.ask(NOTEBOOK_ID, question)
-        return str(result)
+        for label, question in QUESTIONS:
+            print(f"  [{label}] querying...", file=sys.stderr)
+            try:
+                result = await client.chat.ask(NOTEBOOK_ID, question)
+                results[label] = str(result)
+                print(f"  [{label}] OK — {len(results[label])} chars", file=sys.stderr)
+            except Exception as e:
+                print(f"  [{label}] FAILED: {e}", file=sys.stderr)
+                results[label] = "_Not available — re-run to retry._"
+    return results
 
 
 def query(label: str, question: str) -> str:
@@ -107,7 +116,7 @@ def main():
         sys.exit(1)
 
     print(f"Querying {len(QUESTIONS)} sections from notebook {NOTEBOOK_ID}...", file=sys.stderr)
-    answers = {label: query(label, q) for label, q in QUESTIONS}
+    answers = asyncio.run(_query_all())
 
     Path("knowledge").mkdir(exist_ok=True)
     Path(OUTPUT_FILE).write_text(build_md(answers))
