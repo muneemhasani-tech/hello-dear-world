@@ -29,12 +29,7 @@ jobs:
       - name: Query notebook and write knowledge base
         env:
           NOTEBOOKLM_STORAGE_STATE: ${{ secrets.NOTEBOOKLM_STORAGE_STATE }}
-        run: |
-          if [ -n "$NOTEBOOKLM_STORAGE_STATE" ]; then
-            mkdir -p ~/.notebooklm/profiles/default
-            echo "$NOTEBOOKLM_STORAGE_STATE" > ~/.notebooklm/profiles/default/storage_state.json
-          fi
-          python scripts/export_notebook_knowledge.py
+        run: python scripts/export_notebook_knowledge.py
 
       - name: Commit knowledge base
         run: |
