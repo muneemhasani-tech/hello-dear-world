@@ -94,11 +94,14 @@ def main():
         sys.exit(1)
 
     try:
-        json.loads(state)
+        # raw_decode ignores any trailing characters after the JSON object
+        decoder = json.JSONDecoder()
+        parsed, _ = decoder.raw_decode(state)
+        clean_state = json.dumps(parsed)
         # Write to the default profile path notebooklm-py expects
         profile_path = Path.home() / ".notebooklm" / "profiles" / "default"
         profile_path.mkdir(parents=True, exist_ok=True)
-        (profile_path / "storage_state.json").write_text(state)
+        (profile_path / "storage_state.json").write_text(clean_state)
     except Exception as e:
         print(f"ERROR: Bad storage state JSON: {e}", file=sys.stderr)
         sys.exit(1)
