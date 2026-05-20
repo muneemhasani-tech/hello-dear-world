@@ -17,6 +17,12 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
+try:
+    import notebooklm_context as nlm
+    _NLM_AVAILABLE = True
+except ImportError:
+    _NLM_AVAILABLE = False
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -184,19 +190,28 @@ def pricing_tier(score: int) -> tuple:
 def generate_insight(lead: dict, client_profile: dict, comp_profile: dict, niche: str, score: int) -> str:
     name = lead["name"]
     city = lead.get("city", "your city")
+    weakness = lead.get("weakness", "")
     market_fact = NICHE_MARKET_FACTS.get(niche, NICHE_MARKET_FACTS["default"])
 
     lines = []
 
-    if client_profile["total"] == 0:
-        lines.append(f"**{name} has no website** — every Google search for {niche}s in {city} sends potential customers to competitors.")
-    else:
-        gap = comp_profile["total"] - client_profile["total"]
-        if gap > 0:
-            lines.append(
-                f"**{name}'s site has {client_profile['total']} pages** vs your top competitor's {comp_profile['total']} — "
-                f"that's {gap} fewer pages indexed by Google, meaning less search visibility."
-            )
+    # ── NotebookLM hook (NINE brand voice from notebook) ──────────────────────
+    if _NLM_AVAILABLE:
+        hook = nlm.get_email_hook(niche, city, weakness or _infer_weakness(client_profile, comp_profile))
+        if hook:
+            lines.append(hook)
+
+    # ── Fallback / supplementary data-driven lines ───────────────────────────
+    if not lines:
+        if client_profile["total"] == 0:
+            lines.append(f"**{name} has no website** — every Google search for {niche}s in {city} sends potential customers to competitors.")
+        else:
+            gap = comp_profile["total"] - client_profile["total"]
+            if gap > 0:
+                lines.append(
+                    f"**{name}'s site has {client_profile['total']} pages** vs your top competitor's {comp_profile['total']} — "
+                    f"that's {gap} fewer pages indexed by Google, meaning less search visibility."
+                )
 
     if not client_profile["has_booking"] and comp_profile["has_booking"]:
         lines.append("Your competitor accepts bookings online — you don't, which means you're invisible to anyone searching after hours.")
@@ -210,6 +225,20 @@ def generate_insight(lead: dict, client_profile: dict, comp_profile: dict, niche
     lines.append(f"**Recommended package:** {tier_name} ({tier_price}) — {tier_desc}.")
 
     return "\n> ".join(lines)
+
+
+def _infer_weakness(client_profile: dict, comp_profile: dict) -> str:
+    """Build a weakness description from sitemap gap data when lead.weakness is empty."""
+    parts = []
+    if client_profile["total"] == 0:
+        parts.append("no website")
+    if not client_profile["has_booking"]:
+        parts.append("no online booking")
+    if not client_profile["has_menu_or_services"]:
+        parts.append("no services/pricing page")
+    if not client_profile["has_gallery"] and comp_profile.get("has_gallery"):
+        parts.append("no gallery")
+    return ", ".join(parts) if parts else "weak online presence"
 
 
 # ── Lead parsing ─────────────────────────────────────────────────────────────
