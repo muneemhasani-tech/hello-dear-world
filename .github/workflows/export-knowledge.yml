@@ -35,6 +35,8 @@ jobs:
         run: |
           git config user.name "NINE Knowledge Bot"
           git config user.email "knowledge-bot@nine.agency"
+          git fetch origin claude/automated-outreach-system-FqALG
+          git rebase origin/claude/automated-outreach-system-FqALG
           git add knowledge/ 2>/dev/null || true
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "Knowledge base: refreshed from NotebookLM"
