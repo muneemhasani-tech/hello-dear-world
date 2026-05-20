@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-Automated outreach pipeline for **NINE** — a creative agency (Bangladesh-based, international clients) specialising in motion graphics, branding, and influencer content for restaurants, health/wellness, FMCG, and events businesses. Two GitHub Actions workflows run on a schedule, scrape public data, and commit structured markdown files back to the repo. No external API keys or paid services are used anywhere.
+Automated outreach pipeline for **NINE** — a creative agency (Bangladesh-based, international clients) specialising in motion graphics, branding, and influencer content for restaurants, health/wellness, FMCG, and events businesses. GitHub Actions workflows run on a schedule, scrape public data, and commit structured markdown files back to the repo.
 
 ## Running the scripts locally
 
@@ -14,38 +14,55 @@ python scripts/research_leads.py
 
 # Analyse all leads files and produce a ranked report
 python scripts/analyze_leads.py
+
+# Export NINE brand knowledge from NotebookLM to knowledge/nine-brand-knowledge.md
+# Requires: pip install "notebooklm-py[browser]" && playwright install chromium
+# Requires: NOTEBOOKLM_STORAGE_STATE env var (full JSON from browser storage)
+python scripts/export_notebook_knowledge.py
+
+# Generate monthly CRM report manually
+python scripts/crm_merge.py 2026 5   # year month
 ```
 
-Both scripts use Python 3.12+ stdlib only — no `pip install` needed.
+`research_leads.py`, `analyze_leads.py`, and `crm_merge.py` use Python 3.12+ stdlib only — no `pip install` needed. `export_notebook_knowledge.py` and the NotebookLM hook in `analyze_leads.py` require `notebooklm-py[browser]` + Playwright (optional — pipeline degrades gracefully without it).
 
 Output files are printed to stdout (the filename); progress/errors go to stderr.
+
+## Branch structure
+
+- **`claude/automated-outreach-system-FqALG`** — active development branch; all script changes go here
+- **`claude/new-session-467CY`** — default branch; scheduled GitHub Actions runs execute from here; workflow files are kept in sync between both branches
+
+When pushing changes: push to `claude/automated-outreach-system-FqALG`. Mirror workflow file changes to `claude/new-session-467CY` via GitHub MCP (`mcp__github__push_files`) so they appear in the Actions sidebar.
 
 ## Architecture
 
 ### Pipeline flow
 
 ```
-Daily (7pm UTC)                Every 2 days (8pm UTC)
-research_leads.py         →    analyze_leads.py
-  picks city by date             reads outreach/leads-*.md
-  scrapes DuckDuckGo HTML        fetches sitemaps (client + competitor)
-  writes outreach/leads-         scores gap (0–100)
-    {city}-{date}.md             maps to pricing tier
+Daily (7pm UTC)                Every 2 days (8pm UTC)        1st of month (9am UTC)
+research_leads.py         →    analyze_leads.py          →   crm_merge.py
+  picks city by date             reads outreach/leads-*.md     reads crm/week-*.md
+  scrapes DuckDuckGo HTML        fetches sitemaps               deduplicates leads
+  writes outreach/leads-         queries NotebookLM for         writes crm/monthly-
+    {city}-{date}.md             brand-voice email hooks          {YYYY-MM}.md
+                                 scores gap (0–100)
                                  writes analysis/
                                    client-ranking-{date}.md
+
+Manual trigger only:
+export_notebook_knowledge.py
+  queries 15 sections from NINE NotebookLM notebook
+  writes knowledge/nine-brand-knowledge.md
 ```
 
 ### City rotation (`research_leads.py`)
 
-City is selected by `date.toordinal() % len(CITIES)` — 50 Tier 2 cities across US, UK, and Australia (avoids over-served metros like NYC, London, Austin). Cities include Asheville NC, Brighton UK, Byron Bay AU, Boise ID, etc. Rotation is deterministic by date.
+City is selected by `date.toordinal() % len(CITIES)` — 50 Tier 2 cities across US, UK, and Australia (avoids over-served metros like NYC, London, Austin). Rotation is deterministic by date.
 
 ### Target niches
 
-`research_leads.py` searches four niches per city:
-- `restaurants` — independent restaurants, cafes, bistros
-- `health_wellness` — wellness studios, supplement brands, spas
-- `fmcg` — artisan food/drink producers, packaged goods brands
-- `events` — event venues, wedding venues, planners
+`research_leads.py` searches four niches per city: `restaurants`, `health_wellness`, `fmcg`, `events`.
 
 ### Leads table format
 
@@ -59,7 +76,18 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 - Scores each lead 0–100 based on page count vs competitor + missing key pages (booking, services, blog, gallery, contact)
 - Maps score to pricing tier: Full Rebuild ($8k–$18k) → Growth → Upgrade → Quick-Win → SEO/Maintenance ($300–$800/mo)
 - Competitor found via DuckDuckGo search, skipping aggregators (Yelp, TripAdvisor, etc.)
-- Analysis output includes a LinkedIn column in the quick-reference table
+- Before drafting email hooks, optionally calls `notebooklm_context.py` if `NOTEBOOKLM_STORAGE_STATE` is set
+
+### NotebookLM integration
+
+`scripts/notebooklm_context.py` is a utility module imported by `analyze_leads.py`. It queries the NINE NotebookLM notebook (`2d54d3d9-bc8d-42b7-8db7-1ac2dee912a7`) for brand-voice hooks before each email draft. Key behaviours:
+- Results cached in-memory (same question never asked twice per run)
+- Fails silently — always returns `""` on any error, never breaks the pipeline
+- Uses `async with await NotebookLMClient.from_storage() as client:` — the `await` is required because `from_storage()` is a coroutine
+- Storage state written to `~/.notebooklm/profiles/default/storage_state.json` (not `/tmp`)
+- Parses `NOTEBOOKLM_STORAGE_STATE` with `json.JSONDecoder().raw_decode()` to tolerate trailing characters from GitHub Secrets
+
+`scripts/export_notebook_knowledge.py` runs all 15 notebook queries inside a **single** `async with await NotebookLMClient.from_storage() as client:` block (one browser launch). Results unwrapped via `getattr(result, "answer", None) or str(result)`.
 
 ### Output files
 
@@ -67,6 +95,7 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 |---|---|---|
 | `outreach/leads-{city}-{date}.md` | `research_leads.py` | Raw leads grouped by niche with pitch angles and LinkedIn search links |
 | `analysis/client-ranking-{date}.md` | `analyze_leads.py` | Scored + ranked leads with pricing, competitor comparison, and first-email hooks |
+| `knowledge/nine-brand-knowledge.md` | `export_notebook_knowledge.py` | NINE brand knowledge base — 15 sections queried from NotebookLM |
 | `audit/log.md` | `/audit` skill | Appended daily — scores, issues, and tomorrow's fixes across all 6 audit areas |
 | `crm/week-{YYYY}-W{NN}.md` | `/crm` skill (via `/eod`) | Weekly lead tracker — all pipeline activity for the week |
 | `crm/monthly-{YYYY-MM}.md` | `crm_merge.py` | Monthly CRM report — pipeline funnel, revenue forecast, niche + city breakdown |
@@ -75,9 +104,14 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 
 All workflows have `workflow_dispatch` enabled — trigger manually from the Actions tab without waiting for the schedule.
 
-The analysis workflow runs 1 hour after the leads workflow so fresh leads are always included.
+| Workflow | Schedule | Requires secret |
+|---|---|---|
+| `daily-leads.yml` | 7pm UTC daily | — |
+| `analysis.yml` | 8pm UTC every 2 days | `NOTEBOOKLM_STORAGE_STATE` (optional) |
+| `export-knowledge.yml` | Manual only | `NOTEBOOKLM_STORAGE_STATE` |
+| `crm-monthly.yml` | 9am UTC on 1st | — |
 
-The CRM merge workflow runs on the 1st of each month at 9am UTC. Trigger it manually with optional `year` and `month` inputs to regenerate any month.
+`analysis.yml` installs `notebooklm-py[browser]` + Playwright before running. `export-knowledge.yml` checks out `claude/automated-outreach-system-FqALG` explicitly (scripts live there), runs the export, then `fetch + reset --hard + restore` to avoid push rejection from concurrent commits during the ~3-minute query window.
 
 ## Daily workflow skills
 
@@ -101,10 +135,7 @@ Daily sequence: `/morning` → `/outreach` → `/dm` → `/reply [paste]` → `/
 
 Weekly files (`crm/week-{YYYY}-W{NN}.md`) are created and updated automatically during `/eod`. Each lead touched that day gets a row with stage, last action, next action, and value.
 
-Monthly merge runs on the 1st via GitHub Actions (`crm_merge.py`). To generate manually:
-```bash
-python scripts/crm_merge.py 2026 5   # for May 2026
-```
+`crm_merge.py` deduplicates across week files by keeping the most advanced pipeline stage per business name. Pipeline stages in order: Found → Emailed → DM'd → Replied → Warm → Call Booked → Proposal Sent → Won → Lost.
 
 Daily outreach targets: **30 businesses found / 20 emails sent / 20–40 LinkedIn connections / 5–10 chats started / 2–3 serious leads.**
 
@@ -127,3 +158,4 @@ Six knowledge skills are installed at `~/.claude/skills/` and trigger automatica
 - First offer is always the **Content Sprint**: 2-week trial — brand spine + 15 reels + creator collab
 - Pitch angle: businesses with stunning products but flat socials or fragmented UGC
 - Decision makers to target: Owners, Founders, CMOs at 11–1000 employee companies
+- Full brand knowledge (voice, niche angles, objection handling, email guidelines) in `knowledge/nine-brand-knowledge.md`
