@@ -26,15 +26,15 @@ jobs:
           python -m pip install "notebooklm-py[browser]"
           python -m playwright install chromium --with-deps
 
-      - name: Write NotebookLM credentials
-        if: ${{ secrets.NOTEBOOKLM_STORAGE_STATE != '' }}
-        run: echo '${{ secrets.NOTEBOOKLM_STORAGE_STATE }}' > /tmp/nlm_storage.json
-
       - name: Run analysis
         id: analysis
         env:
           NOTEBOOKLM_STORAGE_STATE: ${{ secrets.NOTEBOOKLM_STORAGE_STATE }}
         run: |
+          # Write NotebookLM credentials if secret is present
+          if [ -n "$NOTEBOOKLM_STORAGE_STATE" ]; then
+            echo "$NOTEBOOKLM_STORAGE_STATE" > /tmp/nlm_storage.json
+          fi
           filename=$(python scripts/analyze_leads.py)
           echo "filename=$filename" >> "$GITHUB_OUTPUT"
 
