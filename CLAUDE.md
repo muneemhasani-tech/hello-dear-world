@@ -30,10 +30,10 @@ Output files are printed to stdout (the filename); progress/errors go to stderr.
 
 ## Branch structure
 
-- **`claude/automated-outreach-system-FqALG`** — active development branch; all script changes go here
-- **`claude/new-session-467CY`** — default branch; scheduled GitHub Actions runs execute from here; workflow files are kept in sync between both branches
+- **`main`** — stable branch; scheduled GitHub Actions runs execute from here
+- Feature branches follow the `claude/{description}-{id}` pattern
 
-When pushing changes: push to `claude/automated-outreach-system-FqALG`. Mirror workflow file changes to `claude/new-session-467CY` via GitHub MCP (`mcp__github__push_files`) so they appear in the Actions sidebar.
+When pushing changes: push to the current feature branch, then merge to `main` when stable so the GitHub Actions workflows pick up the changes.
 
 ## Architecture
 
@@ -111,11 +111,11 @@ All workflows have `workflow_dispatch` enabled — trigger manually from the Act
 | `export-knowledge.yml` | Manual only | `NOTEBOOKLM_STORAGE_STATE` |
 | `crm-monthly.yml` | 9am UTC on 1st | — |
 
-`analysis.yml` installs `notebooklm-py[browser]` + Playwright before running. `export-knowledge.yml` checks out `claude/automated-outreach-system-FqALG` explicitly (scripts live there), runs the export, then `fetch + reset --hard + restore` to avoid push rejection from concurrent commits during the ~3-minute query window.
+`analysis.yml` installs `notebooklm-py[browser]` + Playwright before running. `export-knowledge.yml` runs the export then `fetch + reset --hard + restore` to avoid push rejection from concurrent commits during the ~3-minute query window.
 
 ## Daily workflow skills
 
-Eight skills are installed at `~/.claude/skills/` for the daily outreach loop:
+All skills live in `.claude/skills/` in this repo and are automatically available in every Claude Code web session. Eight skills handle the daily outreach loop:
 
 | Skill | Trigger | Purpose |
 |---|---|---|
@@ -141,7 +141,7 @@ Daily outreach targets: **30 businesses found / 20 emails sent / 20–40 LinkedI
 
 ## Knowledge skills
 
-Six knowledge skills are installed at `~/.claude/skills/` and trigger automatically on relevant questions:
+Six knowledge skills live in `.claude/skills/` and trigger automatically on relevant questions:
 
 | Skill | Triggers on |
 |---|---|

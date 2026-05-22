@@ -13,7 +13,7 @@ import os
 import sys
 from pathlib import Path
 
-NOTEBOOK_ID = "2d54d3d9-bc8d-42b7-8db7-1ac2dee912a7"
+NOTEBOOK_ID = os.environ.get("NOTEBOOKLM_NOTEBOOK_ID", "2d54d3d9-bc8d-42b7-8db7-1ac2dee912a7")
 STORAGE_PATH = "/tmp/nlm_storage.json"
 OUTPUT_FILE = "knowledge/nine-brand-knowledge.md"
 
