@@ -127,3 +127,68 @@ Six knowledge skills are installed at `~/.claude/skills/` and trigger automatica
 - First offer is always the **Content Sprint**: 2-week trial — brand spine + 15 reels + creator collab
 - Pitch angle: businesses with stunning products but flat socials or fragmented UGC
 - Decision makers to target: Owners, Founders, CMOs at 11–1000 employee companies
+
+---
+
+## NINE-OS: Full Identity Sync
+Last updated: 2026-05-22
+
+### Operator
+Name: Syed Tahsin
+Agency: NINE (The Corp Nine)
+Email: tahsin@thecorpnine.com
+Backup: corp.nine4@gmail.com
+Timezone: GMT+6 (Bangladesh)
+Daily routine: 2:15–2:45pm GMT+6 — NINE Daily Outreach Checklist
+
+### Revenue Target
+$10,000–$15,000 MRR at 60–70% gross margins
+
+### Active Client Projects
+Kaizen Connects Limited
+- Japanese skincare, Bangladesh market
+- Status: active (Jan–Feb 2026)
+- Docs in Google Drive
+
+SAVEE
+- Skincare brand, Bangladesh
+- Status: active (Feb 2026)
+
+US Cold Outreach Pipeline
+- Cities: Whitefish MT + 3 others
+- Named target: Hellroaring Saloon (Whitefish MT)
+- Status: active daily
+
+### Team
+Md. Saif Uz Zaman — FMCG/commercial background, Bangladesh
+Role: hire candidate or contractor (confirm with Nine)
+
+### Active Tools
+Apollo — prospecting
+Bright Data — scraping and research
+Mailsuite — email tracking (upgraded)
+Supermetrics — analytics (trial, started 2026-05-20)
+Gmail — outreach sending
+Google Drive — all docs and SOPs
+Google Calendar — daily routine trigger
+
+### Key Google Drive Doc IDs
+Daily Workflow Reference: 11CqndlryByRO9N2gIzr-vgq8Fp3HZPw1b0qc8-BFKnU
+Tools & Plugins Reference: 12dhOQoorZIbHgsishN22l-Cd_GUvXqu0DtVBX5qWMP8
+Pipeline Backlog (4 cities): 1F_A_tfrarrJLgdwdWGBD8WFx8EvL_9KejnGxhtyumVQ
+Company Tracker Whitefish: 1UiNVdDdAoQ9XG1aA9Zi6_MTlNHNEE-GipW7zbfYeD_g
+Daily Work Log Whitefish: 1mSEoWNS9-5rKdvwFuWi0ApdebQ9DbqbrgfNrCG1_5ww
+Claude System Prompt doc: 15xi5JBIZ6spteYjYJ63zxXWFrv1Lg4HzIA3PxRociaA
+Pricing Table: 1THag3wt_ENRNwpDgnh1TM4jPln0CrFVX7jIVhUhfsS8
+
+### What GitHub Actions Produce Daily
+outreach/leads-{city}-{date}.md — scraped leads
+analysis/client-ranking-{date}.md — scored opportunities
+crm/monthly-{YYYY}-{MM}.md — pipeline rollup (1st of month)
+
+### Critical Fixes Still Needed
+1. All 15 NINE skill files missing from ~/.claude/skills/
+2. Phoenix leads scraper pulling articles not businesses
+3. export_notebook_knowledge.py script does not exist
+4. CRM week files never created — monthly merge has nothing to merge
+5. Claude system prompt in Drive not connected to Claude Code
