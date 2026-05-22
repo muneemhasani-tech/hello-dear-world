@@ -70,6 +70,9 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 | `audit/log.md` | `/audit` skill | Appended daily — scores, issues, and tomorrow's fixes across all 6 audit areas |
 | `crm/week-{YYYY}-W{NN}.md` | `/crm` skill (via `/eod`) | Weekly lead tracker — all pipeline activity for the week |
 | `crm/monthly-{YYYY-MM}.md` | `crm_merge.py` | Monthly CRM report — pipeline funnel, revenue forecast, niche + city breakdown |
+| `NINE-OS/system-prompt.md` | Drive sync (manual) | Claude system prompt — NINE identity, services, tasks, constraints |
+
+System prompt: ./NINE-OS/system-prompt.md
 
 ## GitHub Actions
 
