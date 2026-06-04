@@ -17,7 +17,7 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
-| Richmond Wellness Center - The Feel Better Lounge | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Richmond%20Wellness%20Center%20-%20The%20Feel%20Better%20Lounge%20Richmond) | No online booking mentioned — clear gap |
+| Medical &amp; Wellness Studio | DermaHue Total Wellness Studio | Richmond, VA | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Medical%20%26amp%3B%20Wellness%20Studio%20%7C%20DermaHue%20Total%20Wellness%20Studio%20%7C%20Richmond%2C%20VA%20Richmond) | No online booking mentioned — clear gap |
 
 ## Fmcg
 
@@ -36,7 +36,7 @@
 ## Priority Send Order
 
 1. **Metzger Bar &amp; Butchery** (restaurants) — No online booking mentioned — clear gap
-2. **Richmond Wellness Center - The Feel Better Lounge** (health_wellness) — No online booking mentioned — clear gap
+2. **Medical &amp; Wellness Studio | DermaHue Total Wellness Studio | Richmond, VA** (health_wellness) — No online booking mentioned — clear gap
 ---
 
 ## Email Template
