@@ -9,7 +9,11 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
 | The Silos | Food Hall &amp; Bar - Dayton, OH | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=The%20Silos%20%7C%20Food%20Hall%20%26amp%3B%20Bar%20-%20Dayton%2C%20OH%20Dayton) | No online booking mentioned — clear gap |
+=======
+| Coco&#x27;s Bistro Restaurant - Dayton, OH | OpenTable | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Coco%26%23x27%3Bs%20Bistro%20Restaurant%20-%20Dayton%2C%20OH%20%7C%20OpenTable%20Dayton) | No online booking mentioned — clear gap |
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 
 ## Health_Wellness
 
@@ -35,7 +39,11 @@
 
 ## Priority Send Order
 
+<<<<<<< HEAD
 1. **The Silos | Food Hall &amp; Bar - Dayton, OH** (restaurants) — No online booking mentioned — clear gap
+=======
+1. **Coco&#x27;s Bistro Restaurant - Dayton, OH | OpenTable** (restaurants) — No online booking mentioned — clear gap
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 2. **Menu — The Wellness Studio** (health_wellness) — No online booking mentioned — clear gap
 ---
 

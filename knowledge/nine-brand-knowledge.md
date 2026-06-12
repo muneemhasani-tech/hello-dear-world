@@ -327,6 +327,45 @@ Best,
 
 ---
 
+## Preferred Cold Outreach Template (CorpNine — Active Use)
+
+> **Status: Primary template for all cold email outreach as of June 2026.**
+> This template is the preferred format for daily outreach. It replaces the longer, restaurant-specific example above for general use. Do not remove the example above — it remains valid for highly personalised, niche-specific campaigns.
+
+---
+
+**Subject:** What we noticed about [Business Name]
+
+Hi [First Name],
+
+The quality of [Business Name]'s [relevant word — treatments/food/experience] is already there. The gap is in how they're being shown.
+
+Most [business type — restaurants/spas/wellness studios] post outcomes. The ones that grow build a feeling, one that makes people book before they even research pricing.
+
+At CorpNine, we specialise in exactly that. We turn brand experiences into content that builds perception, drives engagement, and creates lasting growth. We precisely build your Ideal Customer Profiles and tailor the contents based on what your customers can relate to, instead of a generic strategy. We know what moves the needle for brands like yours.
+
+We have specific ideas for [Business Name]. Open to a quick conversation?
+
+Looking forward to your response.
+
+Best regards,
+
+---
+
+### How to Personalise This Template
+
+*   **[First Name]** — always use the confirmed owner or decision-maker's first name. Never "Hi there" unless the owner is unconfirmed.
+*   **[relevant word]** — pick the single word that best captures the business's core output:
+    *   Restaurants / cafés → *food*
+    *   Med spas / day spas → *treatments*
+    *   Fitness studios / gyms → *coaching*
+    *   Wellness / holistic → *approach* or *care*
+    *   Golf clubs / venues → *experience*
+*   **[business type]** — use the plural category that matches (e.g. *restaurants*, *med spas*, *wellness studios*, *boutique gyms*, *gastropubs*, *day spas*).
+*   **Subject line** — keep "What we noticed about [Business Name]" exactly as written. The word "noticed" signals observation over pitch.
+
+---
+
 ## Handling Objections
 
 While the sources focus heavily on targeting and outreach strategies, they identify several core objections NINE is likely to face—particularly regarding location and competition—and provide specific frameworks for handling them.

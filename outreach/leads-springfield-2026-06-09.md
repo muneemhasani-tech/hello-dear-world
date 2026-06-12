@@ -9,7 +9,11 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
 | HOME - Rebar Kitchen &amp; Taproom | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=HOME%20-%20Rebar%20Kitchen%20%26amp%3B%20Taproom%20Springfield) | No online booking mentioned — clear gap |
+=======
+| The Table | Counter Service Restaurant in Springfield, MO | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=The%20Table%20%7C%20Counter%20Service%20Restaurant%20in%20Springfield%2C%20MO%20Springfield) | No online booking mentioned — clear gap |
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 
 ## Health_Wellness
 
@@ -17,7 +21,11 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
 | SuperBloom Aesthetics + Wellness Springfield, MO | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=SuperBloom%20Aesthetics%20%2B%20Wellness%20Springfield%2C%20MO%20Springfield) | No online booking mentioned — clear gap |
+=======
+| Breathe Health Spa | Medical Spa | Halotherapy | Springfield, MO | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Breathe%20Health%20Spa%20%7C%20Medical%20Spa%20%7C%20Halotherapy%20%7C%20Springfield%2C%20MO%20Springfield) | No online booking mentioned — clear gap |
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 
 ## Fmcg
 
@@ -35,8 +43,13 @@
 
 ## Priority Send Order
 
+<<<<<<< HEAD
 1. **HOME - Rebar Kitchen &amp; Taproom** (restaurants) — No online booking mentioned — clear gap
 2. **SuperBloom Aesthetics + Wellness Springfield, MO** (health_wellness) — No online booking mentioned — clear gap
+=======
+1. **The Table | Counter Service Restaurant in Springfield, MO** (restaurants) — No online booking mentioned — clear gap
+2. **Breathe Health Spa | Medical Spa | Halotherapy | Springfield, MO** (health_wellness) — No online booking mentioned — clear gap
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 ---
 
 ## Email Template

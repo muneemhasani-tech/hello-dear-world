@@ -9,7 +9,10 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
 | Casual dining | Bella Luna Café | Wichita | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Casual%20dining%20%7C%20Bella%20Luna%20Caf%C3%A9%20%7C%20Wichita%20Wichita) | No online booking mentioned — clear gap |
+=======
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 
 ## Health_Wellness
 
@@ -17,7 +20,10 @@
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
 | Med Spa &amp; Day Spa in Wichita, KS | Healing Waters | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=Med%20Spa%20%26amp%3B%20Day%20Spa%20in%20Wichita%2C%20KS%20%7C%20Healing%20Waters%20Wichita) | No online booking mentioned — clear gap |
+=======
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 
 ## Fmcg
 
@@ -35,8 +41,11 @@
 
 ## Priority Send Order
 
+<<<<<<< HEAD
 1. **Casual dining | Bella Luna Café | Wichita** (restaurants) — No online booking mentioned — clear gap
 2. **Med Spa &amp; Day Spa in Wichita, KS | Healing Waters** (health_wellness) — No online booking mentioned — clear gap
+=======
+>>>>>>> 1f40398 (updated knowledge base with new email template and fixed research_leads.py)
 ---
 
 ## Email Template
