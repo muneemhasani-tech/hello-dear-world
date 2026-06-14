@@ -3,36 +3,38 @@
 **Target:** Local service businesses in Bristol, UK with weak web presence  
 **Qualifier:** No online booking, outdated site, no SEO, Wix/GoDaddy templates  
 
-## Restaurants
+## Restaurants & F&B
 
 *Pitch: Stunning food, flat socials — reels + a Google-optimised site turns browsers into bookings*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
+| The Malago - 220 North Street, Bedminster, Bristol, UK | — | — | — | [Search](https://www.linkedin.com/search/results/companies/?keywords=The%20Malago%20-%20220%20North%20Street%2C%20Bedminster%2C%20Bristol%2C%20UK%20Bristol) | **No website found** — best pitch |
 
-## Health_Wellness
+## Health & Wellness
 
 *Pitch: Wellness is booming but their content doesn't show it — motion-heavy reels + influencer collab fills the gap*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
-## Fmcg
+## FMCG & Artisan Products
 
 *Pitch: Great product, no visual identity online — brand spine + creator UGC puts product in front of buyers*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
-## Events
+## Events & Venues
 
-*Pitch: Event venues live and die by scroll-stopping visuals — no reel strategy = invisible to the couples/planners searching now*
+*Pitch: Event venues live and die by scroll-stopping visuals — no reel strategy = invisible to couples/planners searching now*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
 ## Priority Send Order
 
+1. **The Malago - 220 North Street, Bedminster, Bristol, UK** (restaurants) — **No website found** — best pitch
 ---
 
 ## Email Template
