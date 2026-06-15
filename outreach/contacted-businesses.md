@@ -293,7 +293,7 @@
 ### Section D — June 15, 2026 Edinburgh Batch (30 businesses)
 
 *City: Edinburgh, UK | research_leads.py city rotation index 32 | DDG rate-limited; leads found via WebSearch + direct site fetch.*
-*All 30 confirmed new — none previously in contacted list. Emails drafted using Preferred Cold Outreach Template.*
+*30 businesses contacted. 6 borderline/wrong-target swapped post-audit: Complete Movement, Energy Gym, CrossFit Skirmish, Art & Spirituality CIC, Rutland Square Spirits, Hidden Door Festival replaced with NINE-compliant businesses across Bath, Cardiff, Noosa, Hobart, Exeter.*
 
 | # | Business | City | Email | Industry | Status | Date Sent |
 |---|---|---|---|---|---|---|
@@ -306,15 +306,15 @@
 | 219 | The Hanging Bat | Edinburgh, UK | manager@thehangingbat.com | FMCG | Drafted | Jun 15 |
 | 220 | Edinburgh Beer Factory | Edinburgh, UK | info@edinburghbeerfactory.co.uk | FMCG | Drafted | Jun 15 |
 | 221 | Tribe Yoga | Edinburgh, UK | vc@tribe.yoga | Wellness | Drafted | Jun 15 |
-| 222 | Complete Movement | Edinburgh, UK | maureen@completemovement.co.uk | Wellness | Drafted | Jun 15 |
+| 222 | OREN Wellness | Cardiff, UK | oren@orenwellness.co.uk | Wellness | Drafted | Jun 15 |
 | 223 | Brewhemia | Edinburgh, UK | info@brewhemia.co.uk | F&B | Drafted | Jun 15 |
 | 224 | Beyond Aesthetic Clinic | Edinburgh, UK | Edinburgh@beyondmedispa.co.uk | Wellness | Drafted | Jun 15 |
 | 225 | IVMedispa | Edinburgh, UK | info@ivmedispa.com | Wellness | Drafted | Jun 15 |
 | 226 | Ginger Coo Cafe | Edinburgh, UK | customers@gingercoocafe.com | F&B | Drafted | Jun 15 |
 | 227 | Urban Angel | Edinburgh, UK | info@urban-angel.co.uk | F&B | Drafted | Jun 15 |
-| 228 | Energy Gym | Edinburgh, UK | siobhan@energygym.co.uk | Fitness | Drafted | Jun 15 |
+| 228 | The Olive Tree | Bath, UK | reservations@thequeensberry.co.uk | F&B | Drafted | Jun 15 |
 | 229 | Athlos Fitness | Edinburgh, UK | hello@athlosfitness.co.uk | Fitness | Drafted | Jun 15 |
-| 230 | CrossFit Skirmish | Edinburgh, UK | crossfitskirmish@gmail.com | Fitness | Drafted | Jun 15 |
+| 230 | Vibes Yoga Bar | Cardiff, UK | hello@vibesyogabar.com | Wellness | Drafted | Jun 15 |
 | 231 | Tigerlily Edinburgh | Edinburgh, UK | info@tigerlilyedinburgh.co.uk | Events | Drafted | Jun 15 |
 | 232 | OMH Therapies | Edinburgh, UK | admin@omhtherapies.com | Wellness | Drafted | Jun 15 |
 | 233 | Meadows Retreat | Edinburgh, UK | info@meadowsretreat.co.uk | Wellness | Drafted | Jun 15 |
@@ -322,8 +322,8 @@
 | 235 | Lannan Bakery | Edinburgh, UK | info@lannan.co.uk | F&B | Drafted | Jun 15 |
 | 236 | KOA Edinburgh | Edinburgh, UK | hello@koa-edinburgh.co.uk | Wellness | Drafted | Jun 15 |
 | 237 | David Bann | Edinburgh, UK | mail@davidbann.co.uk | F&B | Drafted | Jun 15 |
-| 238 | Art and Spirituality CIC | Edinburgh, UK | info@artandspirituality.co.uk | Wellness | Drafted | Jun 15 |
-| 239 | Rutland Square Spirits | Edinburgh, UK | hello@rutlandsquare.com | FMCG | Drafted | Jun 15 |
+| 238 | Sensaura Day Spa | Noosa, AU | info@sensaura.com.au | Wellness | Drafted | Jun 15 |
+| 239 | Hobart Brewing Co | Hobart, AU | info@hobartbrewingco.com.au | FMCG | Drafted | Jun 15 |
 | 240 | Summerhall Distillery | Edinburgh, UK | marketing@summerhalldistillery.com | FMCG | Drafted | Jun 15 |
 | 241 | Throwback Events | Edinburgh, UK | hello@throwbackevents.co.uk | Events | Drafted | Jun 15 |
-| 242 | Hidden Door Festival | Edinburgh, UK | hello@hiddendoorarts.org | Events | Drafted | Jun 15 |
+| 242 | The Exeter Brewery | Exeter, UK | enquiries@exeterbrewery.co.uk | FMCG | Drafted | Jun 15 |
