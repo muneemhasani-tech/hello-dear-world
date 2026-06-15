@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 15, 2026
-**Total unique businesses:** 242
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch (30)
+**Total unique businesses:** 272
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch (30) + June 15 Multi-City batch #2 (30)
 
 ---
 
@@ -327,3 +327,44 @@
 | 240 | Summerhall Distillery | Edinburgh, UK | marketing@summerhalldistillery.com | FMCG | Drafted | Jun 15 |
 | 241 | Throwback Events | Edinburgh, UK | hello@throwbackevents.co.uk | Events | Drafted | Jun 15 |
 | 242 | The Exeter Brewery | Exeter, UK | enquiries@exeterbrewery.co.uk | FMCG | Drafted | Jun 15 |
+
+---
+
+### Section E — June 15, 2026 Multi-City Batch #2 (30 businesses)
+
+*Cities: Grand Rapids MI, Spokane WA, Columbia SC (US) · Norwich, Sheffield, Nottingham, Oxford, Coventry (UK) · Gold Coast, Wollongong, Townsville, Launceston (AU)*
+*All 30 confirmed new — cross-checked against full 242-business list. Zero duplicates. All NINE-compliant independent commercial businesses.*
+*Emails drafted using Preferred Cold Outreach Template and saved to Gmail drafts.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 243 | So Hum Yoga Studio | Grand Rapids, MI, US | hello@sohumyogagr.com | Wellness | Drafted | Jun 15 |
+| 244 | Saint John Craft Beer Bar | Launceston, AU | info@saintjohncraftbeer.com.au | FMCG | Drafted | Jun 15 |
+| 245 | Rooted Yoga and Wellness | Spokane, WA, US | rootedyogapnw@gmail.com | Wellness | Drafted | Jun 15 |
+| 246 | Yantra Studio | Norwich, UK | hello@yantrastudio.co.uk | Wellness | Drafted | Jun 15 |
+| 247 | Redwell Brewing Co | Norwich, UK | hello@redwellbrewing.com | FMCG | Drafted | Jun 15 |
+| 248 | R1SE | Sheffield, UK | hello@r1se.co.uk | Wellness | Drafted | Jun 15 |
+| 249 | Townsville Brewing Co | Townsville, AU | venue@townsvillebrewery.com | FMCG | Drafted | Jun 15 |
+| 250 | Hot Yoga Nottingham | Nottingham, UK | admin@hotyoganottingham.co.uk | Wellness | Drafted | Jun 15 |
+| 251 | Soul Yoga & Retreats | Gold Coast, AU | donna@soulyogaandretreats.com.au | Wellness | Drafted | Jun 15 |
+| 252 | Tribe Yoga and Wellness | Columbia, SC, US | prana@tribeyogawellness.com | Wellness | Drafted | Jun 15 |
+| 253 | IS Pilates Oxford | Oxford, UK | info@oxfordpilatesyoga.com | Wellness | Drafted | Jun 15 |
+| 254 | Wellness Centre Wollongong | Wollongong, AU | gethealthy@wellnesscentre.net.au | Wellness | Drafted | Jun 15 |
+| 255 | Innerbloom Yoga | Gold Coast, AU | info@innerbloomyoga.com.au | Wellness | Drafted | Jun 15 |
+| 256 | Rooted Yoga | Columbia, SC, US | annemilleryogi@gmail.com | Wellness | Drafted | Jun 15 |
+| 257 | Castle Rock Brewery | Nottingham, UK | marketing@castlerockbrewery.co.uk | FMCG | Drafted | Jun 15 |
+| 258 | Ritual Studios | Gold Coast, AU | hello@ritualstudios.com.au | Wellness | Drafted | Jun 15 |
+| 259 | Tropical North Day Spa | Townsville, AU | info@tnds.com.au | Wellness | Drafted | Jun 15 |
+| 260 | Prana Yoga Oxford | Oxford, UK | info@pranayogaoxford.com | Wellness | Drafted | Jun 15 |
+| 261 | Revive Wellness Club | Coventry, UK | info@revivecoventry.co.uk | Wellness | Drafted | Jun 15 |
+| 262 | Pure Hot Yoga GR | Grand Rapids, MI, US | purehotyogami@gmail.com | Wellness | Drafted | Jun 15 |
+| 263 | Five Barrel Brewing | Wollongong, AU | taproom@fivebarrels.com.au | FMCG | Drafted | Jun 15 |
+| 264 | Columbia Craft Brewing | Columbia, SC, US | info@columbiacraft.com | FMCG | Drafted | Jun 15 |
+| 265 | Abbeydale Brewery | Sheffield, UK | social@abbeydalebrewery.co.uk | FMCG | Drafted | Jun 15 |
+| 266 | The Yoga Loft | Launceston, AU | info@theyogaloft.com.au | Wellness | Drafted | Jun 15 |
+| 267 | No-Li Brewhouse | Spokane, WA, US | jackb@nolibrewhouse.com | FMCG | Drafted | Jun 15 |
+| 268 | The Mitten Brewing Co | Grand Rapids, MI, US | info@mittenbrewing.com | FMCG | Drafted | Jun 15 |
+| 269 | Vocation & Co | Sheffield, UK | sheffield@vocationbrewery.com | FMCG | Drafted | Jun 15 |
+| 270 | Ujjayi Yoga Tasmania | Launceston, AU | ujjayiyogatas@gmail.com | Wellness | Drafted | Jun 15 |
+| 271 | The Illawarra Brewery | Wollongong, AU | manager@thebrewery.net.au | FMCG | Drafted | Jun 15 |
+| 272 | Figbar | Norwich, UK | hello@figbarnorwich.com | F&B | Drafted | Jun 15 |
