@@ -3,30 +3,30 @@
 **Target:** Local service businesses in Cardiff, UK with weak web presence  
 **Qualifier:** No online booking, outdated site, no SEO, Wix/GoDaddy templates  
 
-## Restaurants
+## Restaurants & F&B
 
 *Pitch: Stunning food, flat socials — reels + a Google-optimised site turns browsers into bookings*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
-## Health_Wellness
+## Health & Wellness
 
 *Pitch: Wellness is booming but their content doesn't show it — motion-heavy reels + influencer collab fills the gap*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
-## Fmcg
+## FMCG & Artisan Products
 
 *Pitch: Great product, no visual identity online — brand spine + creator UGC puts product in front of buyers*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
 
-## Events
+## Events & Venues
 
-*Pitch: Event venues live and die by scroll-stopping visuals — no reel strategy = invisible to the couples/planners searching now*
+*Pitch: Event venues live and die by scroll-stopping visuals — no reel strategy = invisible to couples/planners searching now*
 
 | Business | Website | Phone | Email | LinkedIn | Web Issue |
 |---|---|---|---|---|---|
