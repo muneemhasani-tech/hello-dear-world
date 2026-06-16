@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 15, 2026
-**Total unique businesses:** 302
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch (30) + June 15 Multi-City batch #2 (30) + June 16 Multi-City batch #3 (30)
+**Total unique businesses:** 332
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 (30)
 
 ---
 
@@ -409,3 +409,44 @@
 | 300 | Rare Studios AU | Sydney, AU | hello@rarestudiosau.com | Wellness | Drafted | Jun 16 |
 | 301 | The Austin Beer Garden Brewing | Austin, TX, US | yall@theabgb.com | FMCG | Drafted | Jun 16 |
 | 302 | Phoenix Yoga Studios | Melbourne, AU | hello@phoenixyogastudios.com.au | Wellness | Drafted | Jun 16 |
+
+---
+
+### Section G — June 16, 2026 Multi-City Batch #4 (30 businesses)
+
+*Cities: Chattanooga TN, Lexington KY, Madison WI, Bend OR, San Antonio TX, Richmond VA, Wilmington NC, Springfield MO, Dayton OH (US) · Chester, Inverness, Leicester (UK) · Bendigo, Ballarat, Darwin (AU) · Cork, Galway (IE)*
+*All 30 confirmed new — cross-checked against 302-business list. Zero duplicates. All NINE-compliant.*
+*Named contacts: Scott (Freetail), Andrew (Align RVA), Shane (Sage Studio), Amy (Indigo Yoga), Mollie (Hot Yoga Dayton).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 303 | Chattanooga Brewing Co | Chattanooga, TN, US | info@chattabrew.com | FMCG | Drafted | Jun 16 |
+| 304 | Uile-bheist Distillery | Inverness, UK | sales@uilebheist.com | FMCG | Drafted | Jun 16 |
+| 305 | Hot Yoga Cork | Cork, IE | info@hotyogacork.ie | Wellness | Drafted | Jun 16 |
+| 306 | Galway Bay Brewery | Galway, IE | gbb.office@galwaybaybrewery.com | FMCG | Drafted | Jun 16 |
+| 307 | Bendigo Brewing | Bendigo, AU | hello@bendigobrewing.com.au | FMCG | Drafted | Jun 16 |
+| 308 | Elbow Lane | Cork, IE | info@elbowlane.ie | F&B | Drafted | Jun 16 |
+| 309 | Galway Hooker | Galway, IE | info@galwayhooker.ie | FMCG | Drafted | Jun 16 |
+| 310 | Thrive Studio Chester | Chester, UK | thrive.chester@gmail.com | Wellness | Drafted | Jun 16 |
+| 311 | Rage Fitness Chester | Chester, UK | info@ragefitnesscompany.com | Wellness | Drafted | Jun 16 |
+| 312 | Lexington Brewing & Distilling | Lexington, KY, US | info@lexingtonbrewingco.com | FMCG | Drafted | Jun 16 |
+| 313 | MBS Fitness | San Antonio, TX, US | info@mbslife.com | Wellness | Drafted | Jun 16 |
+| 314 | Freetail Brewing | San Antonio, TX, US | scott@freetailbrewing.com | FMCG | Drafted | Jun 16 |
+| 315 | Active Culture Cafe | Bend, OR, US | info@activeculturecafe.com | F&B | Drafted | Jun 16 |
+| 316 | Perennial Yoga | Madison, WI, US | membership@perennial-yoga.com | Wellness | Drafted | Jun 16 |
+| 317 | Aunty Jacks | Ballarat, AU | info@auntyjacks.com.au | FMCG | Drafted | Jun 16 |
+| 318 | Align RVA | Richmond, VA, US | align.richmondva@gmail.com | Wellness | Drafted | Jun 16 |
+| 319 | Dragonfly Hot Yoga | Madison, WI, US | info@dragonflyhotyoga.com | Wellness | Drafted | Jun 16 |
+| 320 | One Mile Brewery | Darwin, AU | admin@onemilebrewery.com.au | FMCG | Drafted | Jun 16 |
+| 321 | Evoke Mind + Body | Wilmington, NC, US | info@evokemindandbody.com | Wellness | Drafted | Jun 16 |
+| 322 | Bend Brewing Company | Bend, OR, US | info@bendbrewingco.com | FMCG | Drafted | Jun 16 |
+| 323 | Lighthouse Yoga Studio | Wilmington, NC, US | adik@lighthouseyoga.studio | Wellness | Drafted | Jun 16 |
+| 324 | Springfield Brewing Company | Springfield, MO, US | info@springfieldbrewing.com | FMCG | Drafted | Jun 16 |
+| 325 | Wildfire Yoga | Lexington, KY, US | wildfireyoga1@gmail.com | Wellness | Drafted | Jun 16 |
+| 326 | LexMethod | Lexington, KY, US | info@lexmethod.com | Wellness | Drafted | Jun 16 |
+| 327 | Sage Studio Yoga | Springfield, MO, US | shamanshaneknox@gmail.com | Wellness | Drafted | Jun 16 |
+| 328 | Black Isle Bar | Inverness, UK | inverness@blackislebar.com | F&B | Drafted | Jun 16 |
+| 329 | The Yoga Room Leicester | Leicester, UK | info@theyogaroomleicester.co.uk | Wellness | Drafted | Jun 16 |
+| 330 | The Veil Brewing | Richmond, VA, US | sa@theveilbrewing.com | FMCG | Drafted | Jun 16 |
+| 331 | Indigo Yoga Dayton | Dayton, OH, US | amy@indigoyogadayton.com | Wellness | Drafted | Jun 16 |
+| 332 | Hot Yoga Dayton | Dayton, OH, US | mollie@hotyogadayton.com | Wellness | Drafted | Jun 16 |
