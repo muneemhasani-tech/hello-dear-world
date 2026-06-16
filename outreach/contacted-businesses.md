@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 15, 2026
-**Total unique businesses:** 272
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch (30) + June 15 Multi-City batch #2 (30)
+**Total unique businesses:** 302
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch (30) + June 15 Multi-City batch #2 (30) + June 16 Multi-City batch #3 (30)
 
 ---
 
@@ -368,3 +368,44 @@
 | 270 | Ujjayi Yoga Tasmania | Launceston, AU | ujjayiyogatas@gmail.com | Wellness | Drafted | Jun 15 |
 | 271 | The Illawarra Brewery | Wollongong, AU | manager@thebrewery.net.au | FMCG | Drafted | Jun 15 |
 | 272 | Figbar | Norwich, UK | hello@figbarnorwich.com | F&B | Drafted | Jun 15 |
+
+---
+
+### Section F — June 16, 2026 Multi-City Batch #3 (30 businesses)
+
+*Cities: Nashville TN, Raleigh NC, Durham NC, Austin TX, Boulder CO (US) · Brighton, Glasgow, Leeds, Newcastle, Harrogate (UK) · Geelong, Brisbane, Melbourne, Sunshine Coast, Sydney (AU)*
+*All 30 confirmed new — cross-checked against 272-business exclusion list. Zero duplicates. All NINE-compliant.*
+*Named contacts: Ute (Yoga Harrogate), Sophie (GOYOGA), Jesse (Bull City), Gina (Boulder Social).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 273 | Nashville Yoga Co | Nashville, TN, US | hi@nashvilleyogaco.com | Wellness | Drafted | Jun 16 |
+| 274 | Sanctuary For Yoga | Nashville, TN, US | studio@sanctuaryforyoga.com | Wellness | Drafted | Jun 16 |
+| 275 | Dose Yoga + Café | Raleigh, NC, US | downtownraleigh@doseyogastudios.com | Wellness | Drafted | Jun 16 |
+| 276 | The Charm Brighton | Brighton, UK | info@thecharmbrighton.co.uk | Events | Drafted | Jun 16 |
+| 277 | Reset Studio Glasgow | Glasgow, UK | hello@resetyogaglasgow.com | Wellness | Drafted | Jun 16 |
+| 278 | Ebb & Flow Wellness Studio | Geelong, AU | hello@ebbandflowwellness.com.au | Wellness | Drafted | Jun 16 |
+| 279 | Aether Brewing | Brisbane, AU | info@aetherbrewing.com.au | FMCG | Drafted | Jun 16 |
+| 280 | WONDER YOGA | Geelong, AU | hello@wonderyoga.com.au | Wellness | Drafted | Jun 16 |
+| 281 | We Are Wellness | Leeds, UK | info@wearewellness.co.uk | Wellness | Drafted | Jun 16 |
+| 282 | COVE Lifestyle Studios | Newcastle, UK | info@covelifestylestudios.com | Wellness | Drafted | Jun 16 |
+| 283 | The Holistic Warehouse | Glasgow, UK | operations@theholisticwarehouse.com | Wellness | Drafted | Jun 16 |
+| 284 | Ying Yoga | Austin, TX, US | ying25@icloud.com | Wellness | Drafted | Jun 16 |
+| 285 | Hot Yoga Glasgow | Glasgow, UK | info@hotyogaglasgow.com | Wellness | Drafted | Jun 16 |
+| 286 | Good Folk Yoga | Geelong, AU | hello@goodfolkyoga.com.au | Wellness | Drafted | Jun 16 |
+| 287 | St Julien Hotel & Spa | Boulder, CO, US | sjreservations@stjulien.com | Events | Drafted | Jun 16 |
+| 288 | A-Lodge Boulder | Boulder, CO, US | lodge@a-lodge.com | Events | Drafted | Jun 16 |
+| 289 | Bull City Burger and Brewery | Durham, NC, US | jesse@bullcityburgerandbrewery.com | F&B | Drafted | Jun 16 |
+| 290 | Brinkburn Brewery | Newcastle, UK | info@brinkburnbrewery.co.uk | FMCG | Drafted | Jun 16 |
+| 291 | Range Brewing | Brisbane, AU | hello@patiobyrange.com | FMCG | Drafted | Jun 16 |
+| 292 | Yoga Kula Leeds | Leeds, UK | info@yogakulaleeds.co.uk | Wellness | Drafted | Jun 16 |
+| 293 | Stomping Ground Brewing Co | Melbourne, AU | marketing@stompingground.beer | FMCG | Drafted | Jun 16 |
+| 294 | Moffat Beach Brewing Co | Sunshine Coast, AU | functions@moffatbeachbrewingco.beer | FMCG | Drafted | Jun 16 |
+| 295 | Yoga Harrogate | Harrogate, UK | ute@yoga-harrogate.com | Wellness | Drafted | Jun 16 |
+| 296 | GOYOGA Harrogate | Harrogate, UK | info@goyogaharrogate.com | Wellness | Drafted | Jun 16 |
+| 297 | Terre à Terre | Brighton, UK | mail@terreaterre.co.uk | F&B | Drafted | Jun 16 |
+| 298 | InYoga | Sydney, AU | hello@inyoga.com.au | Wellness | Drafted | Jun 16 |
+| 299 | Boulder Social | Boulder, CO, US | info@bouldersocial.com | F&B | Drafted | Jun 16 |
+| 300 | Rare Studios AU | Sydney, AU | hello@rarestudiosau.com | Wellness | Drafted | Jun 16 |
+| 301 | The Austin Beer Garden Brewing | Austin, TX, US | yall@theabgb.com | FMCG | Drafted | Jun 16 |
+| 302 | Phoenix Yoga Studios | Melbourne, AU | hello@phoenixyogastudios.com.au | Wellness | Drafted | Jun 16 |
