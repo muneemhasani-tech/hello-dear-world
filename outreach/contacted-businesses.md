@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 17, 2026
-**Total unique businesses:** 362
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 (30)
+**Total unique businesses:** 392
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
 
@@ -327,6 +327,46 @@
 | 360 | YOU Massage Therapy | Southampton UK | contact@massagesouthampton.co.uk | Wellness | Drafted | Jun 17 |
 | 361 | Vinda Yoga | Toowoomba QLD, AU | christy@vindayoga.com.au | Wellness | Drafted | Jun 17 |
 | 362 | Roots Specialty Services | Providence RI, US | yoga@rootsspecialty.com | Wellness | Drafted | Jun 17 |
+
+---
+
+### Section I — June 17, 2026 Multi-City Batch #6 — No UK (30 businesses)
+
+*Cities: Indianapolis IN, Buffalo NY, Columbus OH, Sioux Falls SD, Sacramento CA, Portland OR, Flagstaff AZ, Missoula MT (US) · Perth/Fremantle WA, Mackay QLD (AU) · Rotorua, Tauranga, Hamilton (NZ) · Limerick, Waterford (IE)*
+*All 30 confirmed new — cross-checked against 362-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebFetch/WebSearch. All 30 drafts displayed in terminal.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 363 | Breathe Studio | Indianapolis IN, US | hello@breatheindy.com | Wellness | Drafted | Jun 17 |
+| 364 | Invoke Yoga & Pilates | Indianapolis IN, US | info@invokestudio.com | Wellness | Drafted | Jun 17 |
+| 365 | Santosha School | Indianapolis IN, US | santosha.school@gmail.com | Wellness | Drafted | Jun 17 |
+| 366 | Shakti Yoga | Buffalo NY, US | michelle@shaktibuffalo.com | Wellness | Drafted | Jun 17 |
+| 367 | Evolation Yoga | Buffalo NY, US | buffalo@evolationyoga.com | Wellness | Drafted | Jun 17 |
+| 368 | Hand to Heart Yoga | Buffalo NY, US | handtoheartyoga@gmail.com | Wellness | Drafted | Jun 17 |
+| 369 | Big Ditch Brewing | Buffalo NY, US | info@bigditchbrewing.com | FMCG | Drafted | Jun 17 |
+| 370 | Hoster Brewing | Columbus OH, US | sales@hosterbeer.com | FMCG | Drafted | Jun 17 |
+| 371 | Conscious Yoga & Wellness | Columbus OH, US | jesse@consciousyogaandwellness.com | Wellness | Drafted | Jun 17 |
+| 372 | Kula Yoga and Wellness | Columbus OH area, US | yoga@kulayogaandwellness.com | Wellness | Drafted | Jun 17 |
+| 373 | Remedy Brewing Company | Sioux Falls SD, US | taproom@remedybrewco.com | FMCG | Drafted | Jun 17 |
+| 374 | Fernson Brewing Company | Sioux Falls SD, US | hello@fernson.com | FMCG | Drafted | Jun 17 |
+| 375 | Falls Overlook Cafe | Sioux Falls SD, US | fallsoverlook@gmail.com | F&B | Drafted | Jun 17 |
+| 376 | THE SPACE Studios | Sacramento CA, US | info@thespacestudios.com | Wellness | Drafted | Jun 17 |
+| 377 | Purely Hot Yoga | Sacramento CA, US | purelyhotyoga@gmail.com | Wellness | Drafted | Jun 17 |
+| 378 | SacYard Community Tap House | Sacramento CA, US | info@sacyard.beer | FMCG | Drafted | Jun 17 |
+| 379 | The Independent PDX | Portland OR, US | info@independentpdx.com | F&B | Drafted | Jun 17 |
+| 380 | Masu Sushi | Portland OR, US | hello@masusushi.com | F&B | Drafted | Jun 17 |
+| 381 | ESenEM Yoga | Flagstaff AZ, US | steve@esenem.rocks | Wellness | Drafted | Jun 17 |
+| 382 | Hot House Yoga | Missoula MT, US | hotyogamissoula@gmail.com | Wellness | Drafted | Jun 17 |
+| 383 | Fremantle Yoga Centre | Perth WA, AU | kate@fremantleyoga.com | Wellness | Drafted | Jun 17 |
+| 384 | Yogaveda Wellness Centre | Fremantle WA, AU | nikki@yogavedawellness.com | Wellness | Drafted | Jun 17 |
+| 385 | Inner Life Works | Mackay QLD, AU | jgrieve.innerlifeworks@gmail.com | Wellness | Drafted | Jun 17 |
+| 386 | Hello Stranger Cafe | Rotorua NZ | hellostrangercafe@yahoo.com | F&B | Drafted | Jun 17 |
+| 387 | Urbano Bistro | Rotorua NZ | info@urbanobistro.co.nz | F&B | Drafted | Jun 17 |
+| 388 | House of Wellness | Tauranga NZ | Connect@houseofwellness.nz | Wellness | Drafted | Jun 17 |
+| 389 | Tauranga Yoga Centre | Tauranga NZ | info@taurangayoga.org.nz | Wellness | Drafted | Jun 17 |
+| 390 | The Breathing Room | Hamilton NZ | hello@thebreathingroom.co.nz | Wellness | Drafted | Jun 17 |
+| 391 | House Limerick | Limerick IE | welcome@houselimerick.ie | F&B | Drafted | Jun 17 |
+| 392 | Mara Restaurant | Waterford IE | info@marawaterford.com | F&B | Drafted | Jun 17 |
 
 ---
 
