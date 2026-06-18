@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 17, 2026
-**Total unique businesses:** 392
+**Last updated:** June 18, 2026
+**Total unique businesses:** 422
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -530,3 +530,43 @@
 | 330 | The Veil Brewing | Richmond, VA, US | sa@theveilbrewing.com | FMCG | Drafted | Jun 16 |
 | 331 | Indigo Yoga Dayton | Dayton, OH, US | amy@indigoyogadayton.com | Wellness | Drafted | Jun 16 |
 | 332 | Hot Yoga Dayton | Dayton, OH, US | mollie@hotyogadayton.com | Wellness | Drafted | Jun 16 |
+
+---
+
+### Section J — June 18, 2026 Multi-City Batch #7 — No UK (30 businesses)
+
+*Cities: Provo UT, Corpus Christi TX, Gainesville FL, Amarillo TX, Pensacola FL, Rochester MN, Duluth MN, Harrisburg PA, New Haven/West Hartford CT, Rochester NY (US) · Wagga Wagga NSW, Orange NSW, Bunbury WA (AU) · Napier, New Plymouth, Nelson, Gisborne (NZ) · Sligo (IE)*
+*All 30 confirmed new — cross-checked against 392-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebFetch/WebSearch. All 30 drafts displayed in terminal.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 393 | The Yoga Underground | Provo UT, US | yogaunderground@gmail.com | Wellness | Drafted | Jun 18 |
+| 394 | Wildflowers Yoga | Gainesville FL, US | info@wildflowersyoga.com | Wellness | Drafted | Jun 18 |
+| 395 | Citrus Bistro | Corpus Christi TX, US | citrussssbistro@yahoo.com | F&B | Drafted | Jun 18 |
+| 396 | Six Car Pub & Brewery | Amarillo TX, US | info@sixcarpub.com | FMCG | Drafted | Jun 18 |
+| 397 | Native Cafe | Pensacola FL, US | nativenights@thenativecafe.com | F&B | Drafted | Jun 18 |
+| 398 | Cafe Single Fin | Pensacola FL, US | help@waterboyz.com | F&B | Drafted | Jun 18 |
+| 399 | SoulTree | Rochester MN, US | jaketa@soultreeyogi.com | Wellness | Drafted | Jun 18 |
+| 400 | Radiant SōL Yoga Studio | Rochester MN, US | radiantsolyogastudio@gmail.com | Wellness | Drafted | Jun 18 |
+| 401 | Ursa Minor Brewing | Duluth MN, US | info@ursaminorbrewing.com | FMCG | Drafted | Jun 18 |
+| 402 | Svalja Whole-Being | Duluth MN, US | hello@svalja.yoga | Wellness | Drafted | Jun 18 |
+| 403 | Just Plain Yoga | Harrisburg PA, US | info@justplainyoga.com | Wellness | Drafted | Jun 18 |
+| 404 | One Love Yoga | Harrisburg PA, US | info@oneloveyogaharrisburg.com | Wellness | Drafted | Jun 18 |
+| 405 | The Yoga Room CT | New Haven CT, US | Theyogaroomct@gmail.com | Wellness | Drafted | Jun 18 |
+| 406 | New Park Brewing | West Hartford CT, US | jimmy@newparkbrewing.com | FMCG | Drafted | Jun 18 |
+| 407 | Strangebird Beer | Rochester NY, US | info@strangebirdbeer.com | FMCG | Drafted | Jun 18 |
+| 408 | Three Heads Brewing | Rochester NY, US | dan@threeheadsbrewing.com | FMCG | Drafted | Jun 18 |
+| 409 | The Yoga Collab | Bunbury WA, AU | deb@thehappymatyoga.com | Wellness | Drafted | Jun 18 |
+| 410 | Sangha Studio Wagga | Wagga Wagga NSW, AU | namaste@sanghastudiowagga.com | Wellness | Drafted | Jun 18 |
+| 411 | Holistic Wellness Australia | Wagga Wagga NSW, AU | admin@holisticwellnessaustralia.com.au | Wellness | Drafted | Jun 18 |
+| 412 | Studio Seed | Orange NSW, AU | hello@studioseedorange.com.au | Wellness | Drafted | Jun 18 |
+| 413 | The Yoga Room Orange | Orange NSW, AU | tricia@orangeyogaroom.com.au | Wellness | Drafted | Jun 18 |
+| 414 | Wellness Sanctuary | Napier NZ | hello@wellnesssanctuary.co.nz | Wellness | Drafted | Jun 18 |
+| 415 | Ashtanga Yoga Hawke's Bay | Napier NZ | ashtangayoganz@yahoo.co.nz | Wellness | Drafted | Jun 18 |
+| 416 | Social Kitchen | New Plymouth NZ | contact@social-kitchen.co.nz | F&B | Drafted | Jun 18 |
+| 417 | Charred Cafe | New Plymouth NZ | charred.social@gmail.com | F&B | Drafted | Jun 18 |
+| 418 | Body Haven Spa | Nelson NZ | nelson@bodyhaven.co.nz | Wellness | Drafted | Jun 18 |
+| 419 | Tahu Restaurant | Gisborne NZ | book@tahu.co.nz | F&B | Drafted | Jun 18 |
+| 420 | Flipside | Sligo IE | hello@flipside.ie | F&B | Drafted | Jun 18 |
+| 421 | WB's Coffee House | Sligo IE | hello@wbscoffeehouse.ie | F&B | Drafted | Jun 18 |
+| 422 | Nook Cafe & Restaurant | Sligo IE | eatatnook@gmail.com | F&B | Drafted | Jun 18 |
