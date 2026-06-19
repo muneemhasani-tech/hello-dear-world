@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 18, 2026
-**Total unique businesses:** 422
+**Last updated:** June 19, 2026
+**Total unique businesses:** 452
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -570,3 +570,43 @@
 | 420 | Flipside | Sligo IE | hello@flipside.ie | F&B | Drafted | Jun 18 |
 | 421 | WB's Coffee House | Sligo IE | hello@wbscoffeehouse.ie | F&B | Drafted | Jun 18 |
 | 422 | Nook Cafe & Restaurant | Sligo IE | eatatnook@gmail.com | F&B | Drafted | Jun 18 |
+
+---
+
+### Section K — June 19, 2026 Multi-City Batch #8 (30 businesses)
+
+*Cities: Queenstown, Palmerston North (NZ) · Ballarat VIC, Rockhampton QLD (AU) · Canterbury, Exeter, Worcester, Plymouth (UK) · Galway, Limerick (IE) · Portsmouth NH, Kalamazoo MI, Traverse City MI, Fargo ND, Fayetteville AR, Waco TX, Billings MT, Medford OR (US)*
+*All 30 confirmed new — cross-checked against 422-business exclusion list. Zero duplicates. All NINE-compliant. Emails sourced externally and verified. All 30 drafts displayed in terminal.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 423 | Nadi Wellness | Queenstown NZ | info@nadiwellness.co.nz | Wellness | Drafted | Jun 19 |
+| 424 | Brew Union Brewing | Palmerston North NZ | book@brewunion.co.nz | FMCG | Drafted | Jun 19 |
+| 425 | Ballarat Iyengar Yoga | Ballarat VIC, AU | biyinfo@ballaratyoga.com.au | Wellness | Drafted | Jun 19 |
+| 426 | Headricks Lane | Rockhampton QLD, AU | info@headrickslane.co | F&B | Drafted | Jun 19 |
+| 427 | Canterbury Yoga | Canterbury UK | cora@canterburyyoga.co.uk | Wellness | Drafted | Jun 19 |
+| 428 | Derekthedog Yoga & Wellbeing | Exeter UK | fran@derekthedog.co.uk | Wellness | Drafted | Jun 19 |
+| 429 | Worcester Wellness | Worcester UK | info@worcesterwellness.co.uk | Wellness | Drafted | Jun 19 |
+| 430 | House of Yoga | Plymouth UK | contact@houseofyoga.co.uk | Wellness | Drafted | Jun 19 |
+| 431 | Roam Brewing Co. | Plymouth UK | vicky@roambrewco.uk | FMCG | Drafted | Jun 19 |
+| 432 | An Seomra Yoga | Galway IE | info@anseomrayoga.com | Wellness | Drafted | Jun 19 |
+| 433 | Align | Limerick IE | info@alignlimerick.ie | Wellness | Drafted | Jun 19 |
+| 434 | Barre & Soul | Portsmouth NH, US | por@barresoul.com | Wellness | Drafted | Jun 19 |
+| 435 | Solstice Yoga | Portsmouth NH, US | solsticeyoga.portsmouth@gmail.com | Wellness | Drafted | Jun 19 |
+| 436 | Bent9 Hot Yoga | Kalamazoo MI, US | hannah@bent9.com | Wellness | Drafted | Jun 19 |
+| 437 | KP Fitness | Kalamazoo MI, US | info@kpeacefitness.com | Wellness | Drafted | Jun 19 |
+| 438 | Where You're At Yoga | Kalamazoo MI, US | whereyoureatyoga@gmail.com | Wellness | Drafted | Jun 19 |
+| 439 | The Filling Station Microbrewery | Traverse City MI, US | todd@thefillingstationmicrobrewery.com | FMCG | Drafted | Jun 19 |
+| 440 | Yen Yoga & Fitness | Traverse City MI, US | info@yenyogafitness.com | Wellness | Drafted | Jun 19 |
+| 441 | DharamsalaTC | Traverse City MI, US | info@dharamsalatc.com | Wellness | Drafted | Jun 19 |
+| 442 | Yuj Yoga | Fargo ND, US | hello@yujyogafargo.com | Wellness | Drafted | Jun 19 |
+| 443 | Indigo Bloom Yoga | Fargo ND, US | indigobloomyoga@gmail.com | Wellness | Drafted | Jun 19 |
+| 444 | Arkansas Yoga & Therapy Center | Fayetteville AR, US | yogalady@aryoga.com | Wellness | Drafted | Jun 19 |
+| 445 | Trailside Yoga | Fayetteville AR, US | info@trailsideyoga.com | Wellness | Drafted | Jun 19 |
+| 446 | Columbus House Brewery | Fayetteville AR, US | columbushousebrewery@gmail.com | FMCG | Drafted | Jun 19 |
+| 447 | Brotherwell Brewing | Waco TX, US | Taproom@Brotherwell.com | FMCG | Drafted | Jun 19 |
+| 448 | Yoga8 | Waco TX, US | info@yogaeight.net | Wellness | Drafted | Jun 19 |
+| 449 | By All Means Brewing | Billings MT, US | Chandler@byallmeans.beer | FMCG | Drafted | Jun 19 |
+| 450 | Santosha Yoga & Wellness | Billings MT, US | heightsmtyoga@gmail.com | Wellness | Drafted | Jun 19 |
+| 451 | Southern Oregon OM | Medford OR, US | southernoregonom@gmail.com | Wellness | Drafted | Jun 19 |
+| 452 | Common Block Brewing | Medford OR, US | danielle@commonblockbrewing.com | FMCG | Drafted | Jun 19 |
