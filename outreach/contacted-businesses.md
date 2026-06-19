@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 19, 2026
-**Total unique businesses:** 452
+**Total unique businesses:** 482
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -610,3 +610,43 @@
 | 450 | Santosha Yoga & Wellness | Billings MT, US | heightsmtyoga@gmail.com | Wellness | Drafted | Jun 19 |
 | 451 | Southern Oregon OM | Medford OR, US | southernoregonom@gmail.com | Wellness | Drafted | Jun 19 |
 | 452 | Common Block Brewing | Medford OR, US | danielle@commonblockbrewing.com | FMCG | Drafted | Jun 19 |
+
+---
+
+### Section L — June 19, 2026 Multi-City Batch #9 (30 businesses)
+
+*Cities: Dubbo NSW, Albury NSW, Mildura VIC, Bundaberg QLD (AU) · Invercargill, Whanganui, Whangarei (NZ) · Tralee (IE) · Little Rock AR, Fort Myers FL, Cape Coral FL, Lakeland FL, Ocala FL, Daytona Beach FL, Augusta GA, Montgomery AL, Mobile AL, Lafayette LA, Shreveport LA (US)*
+*All 30 confirmed new — cross-checked against 452-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebFetch/WebSearch. 30 Gmail drafts saved.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 453 | One or Two Brewing Co. | Dubbo NSW, AU | info@oneortwobrewing.com.au | FMCG | Drafted | Jun 19 |
+| 454 | Devil's Hollow Brewery | Dubbo NSW, AU | cheers@devilshollow.com.au | FMCG | Drafted | Jun 19 |
+| 455 | Inspire Health Albury | Albury NSW, AU | admin@inspirehealthalbury.com.au | Wellness | Drafted | Jun 19 |
+| 456 | Bodywork Essentials Studio | Mildura VIC, AU | info@bodyworkessentials.studio | Wellness | Drafted | Jun 19 |
+| 457 | Melanie Wellness | Mildura VIC, AU | admin@melaniewellness.com.au | Wellness | Drafted | Jun 19 |
+| 458 | Essential Wellness Within | Bundaberg QLD, AU | sjeww@outlook.com | Wellness | Drafted | Jun 19 |
+| 459 | Hot Yoga Invercargill | Invercargill NZ | info@hotyogainvercargill.com | Wellness | Drafted | Jun 19 |
+| 460 | Yoga Spirit | Whanganui NZ | helloyogaspirit@gmail.com | Wellness | Drafted | Jun 19 |
+| 461 | The Loft Studio | Whangarei NZ | info@theloftstudio.co.nz | Wellness | Drafted | Jun 19 |
+| 462 | Cafe Buttermilk | Tralee IE | Info@cafebuttermilk.com | F&B | Drafted | Jun 19 |
+| 463 | Kirby's Brogue Inn | Tralee IE | info@thebrogue.ie | F&B | Drafted | Jun 19 |
+| 464 | Acadiana Yoga & Wellness | Lafayette LA, US | info@acadianayoga.com | Wellness | Drafted | Jun 19 |
+| 465 | Ascend Wellness Studio | Lafayette LA, US | Connect@ascendwellness.life | Wellness | Drafted | Jun 19 |
+| 466 | Great Raft Brewing | Shreveport LA, US | info@greatraftbrewing.com | FMCG | Drafted | Jun 19 |
+| 467 | Savannah River Brewing Co. | Augusta GA, US | info@savannahriverbrew.com | FMCG | Drafted | Jun 19 |
+| 468 | Frog Hollow Tavern | Augusta GA, US | info@froghollowtavern.com | F&B | Drafted | Jun 19 |
+| 469 | Breezeville Yoga | Montgomery AL, US | BreezevilleYoga@gmail.com | Wellness | Drafted | Jun 19 |
+| 470 | D'Road Cafe | Montgomery AL, US | droadcafe@gmail.com | F&B | Drafted | Jun 19 |
+| 471 | Central | Montgomery AL, US | info@central129coosa.com | F&B | Drafted | Jun 19 |
+| 472 | Braided River Brewing | Mobile AL, US | david@braidedriverbrewing.com | FMCG | Drafted | Jun 19 |
+| 473 | Sip & Sizzle | Fort Myers FL, US | info@sipsizzle.com | F&B | Drafted | Jun 19 |
+| 474 | Come To Life Yoga | Fort Myers FL, US | cometolifeyoga@gmail.com | Wellness | Drafted | Jun 19 |
+| 475 | Fort Myers Brewing Company | Fort Myers FL, US | info@fmbrew.com | FMCG | Drafted | Jun 19 |
+| 476 | Penny's Coffee Bar | Cape Coral FL, US | pennyscoffeebar24@gmail.com | F&B | Drafted | Jun 19 |
+| 477 | Dena's Place | Lakeland FL, US | denasplacediner@gmail.com | F&B | Drafted | Jun 19 |
+| 478 | Nineteen61 | Lakeland FL, US | info@nineteen61.com | F&B | Drafted | Jun 19 |
+| 479 | Ocala Yoga Center | Ocala FL, US | ocalayogacenter@gmail.com | Wellness | Drafted | Jun 19 |
+| 480 | ONE Hot Studio | Ocala FL, US | onehotocala@gmail.com | Wellness | Drafted | Jun 19 |
+| 481 | Dancing Avocado Kitchen | Daytona Beach FL, US | dancingavocadokitchen@gmail.com | F&B | Drafted | Jun 19 |
+| 482 | Studio 311 Yoga & Fitness | Daytona Beach FL, US | hello@studio311yoga.com | Wellness | Drafted | Jun 19 |
