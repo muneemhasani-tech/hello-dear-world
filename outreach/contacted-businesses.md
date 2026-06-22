@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 19, 2026
-**Total unique businesses:** 482
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
+**Last updated:** June 22, 2026
+**Total unique businesses:** 512
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch #10 (30)
 
 ---
 
@@ -650,3 +650,43 @@
 | 480 | ONE Hot Studio | Ocala FL, US | onehotocala@gmail.com | Wellness | Drafted | Jun 19 |
 | 481 | Dancing Avocado Kitchen | Daytona Beach FL, US | dancingavocadokitchen@gmail.com | F&B | Drafted | Jun 19 |
 | 482 | Studio 311 Yoga & Fitness | Daytona Beach FL, US | hello@studio311yoga.com | Wellness | Drafted | Jun 19 |
+
+---
+
+### Section M — June 22, 2026 Multi-City Batch #10 (30 businesses)
+
+*Cities: Athens GA, Baton Rouge LA, Green Bay WI, Eau Claire WI, Evansville IN, Rapid City SD, Great Falls MT, Salem OR (US) · Cambridge, Bournemouth (UK) · Tamworth NSW, Bathurst NSW (AU) · Taupo, Blenheim (NZ)*
+*All 30 confirmed new — cross-checked against 482-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 drafts displayed in terminal.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 483 | Yoga Tree Taupo | Taupo NZ | hello@yogatreetaupo.co.nz | Wellness | Drafted | Jun 22 |
+| 484 | Boom Town Brewing Co | Blenheim NZ | sales@boomtown.nz | FMCG | Drafted | Jun 22 |
+| 485 | Southern Alps Brewing Co | Blenheim NZ | hello@southernalpsbrewing.com | FMCG | Drafted | Jun 22 |
+| 486 | 11:11 Yoga | Tamworth NSW, AU | hello@1111yoga.com.au | Wellness | Drafted | Jun 22 |
+| 487 | Pranayoga Bathurst | Bathurst NSW, AU | pranayoga@optusnet.com.au | Wellness | Drafted | Jun 22 |
+| 488 | Studio Benefit | Bathurst NSW, AU | studiobenefit@icloud.com | Wellness | Drafted | Jun 22 |
+| 489 | CAMYOGA | Cambridge UK | info@camyoga.co.uk | Wellness | Drafted | Jun 22 |
+| 490 | Fancett's Bistro | Cambridge UK | contact@fancetts.com | F&B | Drafted | Jun 22 |
+| 491 | Market House | Cambridge UK | enquiry@markethouse.co.uk | F&B | Drafted | Jun 22 |
+| 492 | Yoga Lounge Bournemouth | Bournemouth UK | info@yoga-lounge.co.uk | Wellness | Drafted | Jun 22 |
+| 493 | Creature Comforts Brewing | Athens GA, US | curious@ccbeerco.com | FMCG | Drafted | Jun 22 |
+| 494 | M3Yoga | Athens GA, US | team@m3yoga.com | Wellness | Drafted | Jun 22 |
+| 495 | Feel Free Yoga and Wellness Studio | Athens GA, US | info@feelfreeyogawellness.com | Wellness | Drafted | Jun 22 |
+| 496 | Fuel Hot Yoga | Athens GA, US | hi@fuelhotyoga.com | Wellness | Drafted | Jun 22 |
+| 497 | Akademia Brewing Company | Athens GA, US | brewpub@akademiabc.com | FMCG | Drafted | Jun 22 |
+| 498 | Cecelia Creole Bistro | Baton Rouge LA, US | sara@ceceliabr.com | F&B | Drafted | Jun 22 |
+| 499 | Leela Yoga Lifestyle | Baton Rouge LA, US | allie@leelayogalifestyle.com | Wellness | Drafted | Jun 22 |
+| 500 | Evolve Studio | Baton Rouge LA, US | info@evolvestudiosla.com | Wellness | Drafted | Jun 22 |
+| 501 | Rally Cap Brewing Company | Baton Rouge LA, US | info@rallycapbrewing.com | FMCG | Drafted | Jun 22 |
+| 502 | Hinterland Brewery | Green Bay WI, US | info@hinterlandbeer.com | FMCG | Drafted | Jun 22 |
+| 503 | Jenstar Movement Studio | Green Bay WI, US | hello@jenstaryoga.com | Wellness | Drafted | Jun 22 |
+| 504 | Modicum Brewing Co | Eau Claire WI, US | eric@modicumbrewing.com | FMCG | Drafted | Jun 22 |
+| 505 | Latitude 44 Yoga Studio | Eau Claire WI, US | info@latitude44yoga.com | Wellness | Drafted | Jun 22 |
+| 506 | Barker Brewhouse | Evansville IN, US | info@barkerbrewhouse.com | FMCG | Drafted | Jun 22 |
+| 507 | The Yoga Space | Evansville IN, US | Evansville.YogaSpace@gmail.com | Wellness | Drafted | Jun 22 |
+| 508 | Loam Yoga | Rapid City SD, US | rapidcityyoga@yahoo.com | Wellness | Drafted | Jun 22 |
+| 509 | Firehouse Brewing Company | Rapid City SD, US | gm@firehousebrewing.com | FMCG | Drafted | Jun 22 |
+| 510 | habit, Yoga Studio | Great Falls MT, US | info@habitmt.com | Wellness | Drafted | Jun 22 |
+| 511 | Mighty Mo Brewing Company | Great Falls MT, US | taproom@mightymobrewco.com | FMCG | Drafted | Jun 22 |
+| 512 | Resonance Yoga Collective | Salem OR, US | hello@resonanceyogacollective.com | Wellness | Drafted | Jun 22 |
