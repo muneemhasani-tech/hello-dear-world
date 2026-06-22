@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 22, 2026
-**Total unique businesses:** 540
+**Total unique businesses:** 542
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -729,3 +729,14 @@
 | 538 | habit, Yoga Studio | Great Falls MT, US | info@habitmt.com | Wellness | Drafted | Jun 22 |
 | 539 | Mighty Mo Brewing Company | Great Falls MT, US | taproom@mightymobrewco.com | FMCG | Drafted | Jun 22 |
 | 540 | Resonance Yoga Collective | Salem OR, US | hello@resonanceyogacollective.com | Wellness | Drafted | Jun 22 |
+
+---
+
+### Section O — June 22, 2026 Rifat Gmail Pair (2 businesses)
+
+*Cross-checked against 540-business exclusion list. Zero duplicates. Drafted for Rifat's Gmail.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 541 | 6 Ways Yoga | Cheltenham UK | mary@6waysyoga.co.uk | Wellness | Drafted | Jun 22 |
+| 542 | Westside Ale Works | South Melbourne AU | info@westsidealeworks.com.au | FMCG | Drafted | Jun 22 |
