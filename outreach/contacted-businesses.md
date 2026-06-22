@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 22, 2026
-**Total unique businesses:** 512
+**Total unique businesses:** 540
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -690,3 +690,42 @@
 | 510 | Harlau House Cafe | Timaru NZ | admin@harlauhousecafe.co.nz | F&B | Drafted | Jun 22 |
 | 511 | The Grindhouse Cafe | Timaru NZ | grindhouse@outlook.co.nz | F&B | Drafted | Jun 22 |
 | 512 | Zuni Restaurant | Kilkenny IE | info@zuni.ie | F&B | Drafted | Jun 22 |
+
+---
+
+### Section N — June 22, 2026 Multi-City Batch #11 (28 businesses)
+
+*Note: 2 duplicates removed (M3Yoga + Feel Free Yoga — already in Section M). Net new: 28.*
+*Cities: Taupo, (NZ) · Bathurst NSW, Coffs Harbour NSW (AU) · Cambridge, Shrewsbury, Bournemouth (UK) · Athens GA, Baton Rouge LA, Green Bay WI, Eau Claire WI, Evansville IN, Rapid City SD, Great Falls MT, Salem OR (US)*
+*All 28 confirmed new — cross-checked against 512-business exclusion list. Zero duplicates. All NINE-compliant. Drafts sent externally; no Gmail drafts created this batch.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 513 | Yoga Tree Taupo | Taupo NZ | hello@yogatreetaupo.co.nz | Wellness | Drafted | Jun 22 |
+| 514 | Boom Town Brewing Co. | Taupo NZ | sales@boomtown.nz | FMCG | Drafted | Jun 22 |
+| 515 | Southern Alps Brewing Co. | Timaru NZ | hello@southernalpsbrewing.com | FMCG | Drafted | Jun 22 |
+| 516 | 11:11 Yoga | NSW, AU | hello@1111yoga.com.au | Wellness | Drafted | Jun 22 |
+| 517 | Pranayoga Bathurst | Bathurst NSW, AU | pranayoga@optusnet.com.au | Wellness | Drafted | Jun 22 |
+| 518 | Studio Benefit | NSW, AU | studiobenefit@icloud.com | Wellness | Drafted | Jun 22 |
+| 519 | CAMYOGA | Cambridge UK | info@camyoga.co.uk | Wellness | Drafted | Jun 22 |
+| 520 | Fancett's Bistro | Shrewsbury UK | contact@fancetts.com | F&B | Drafted | Jun 22 |
+| 521 | Market House | UK | enquiry@markethouse.co.uk | F&B | Drafted | Jun 22 |
+| 522 | Yoga Lounge Bournemouth | Bournemouth UK | info@yoga-lounge.co.uk | Wellness | Drafted | Jun 22 |
+| 523 | Creature Comforts Brewing | Athens GA, US | curious@ccbeerco.com | FMCG | Drafted | Jun 22 |
+| 524 | Fuel Hot Yoga | Athens GA, US | hi@fuelhotyoga.com | Wellness | Drafted | Jun 22 |
+| 525 | Akademia Brewing Company | Athens GA, US | brewpub@akademiabc.com | F&B | Drafted | Jun 22 |
+| 526 | Cecelia Creole Bistro | Baton Rouge LA, US | sara@ceceliabr.com | F&B | Drafted | Jun 22 |
+| 527 | Leela Yoga Lifestyle | Baton Rouge LA, US | allie@leelayogalifestyle.com | Wellness | Drafted | Jun 22 |
+| 528 | Evolve Studio | Baton Rouge LA, US | info@evolvestudiosla.com | Wellness | Drafted | Jun 22 |
+| 529 | Rally Cap Brewing Company | Baton Rouge LA, US | info@rallycapbrewing.com | FMCG | Drafted | Jun 22 |
+| 530 | Hinterland Brewery | Green Bay WI, US | info@hinterlandbeer.com | FMCG | Drafted | Jun 22 |
+| 531 | Jenstar Movement Studio | Green Bay WI, US | hello@jenstaryoga.com | Wellness | Drafted | Jun 22 |
+| 532 | Modicum Brewing Co. | Eau Claire WI, US | eric@modicumbrewing.com | FMCG | Drafted | Jun 22 |
+| 533 | Latitude 44 Yoga Studio | Eau Claire WI, US | info@latitude44yoga.com | Wellness | Drafted | Jun 22 |
+| 534 | Barker Brewhouse | Evansville IN, US | info@barkerbrewhouse.com | F&B | Drafted | Jun 22 |
+| 535 | The Yoga Space | Evansville IN, US | Evansville.YogaSpace@gmail.com | Wellness | Drafted | Jun 22 |
+| 536 | Loam Yoga | Rapid City SD, US | rapidcityyoga@yahoo.com | Wellness | Drafted | Jun 22 |
+| 537 | Firehouse Brewing Company | Rapid City SD, US | gm@firehousebrewing.com | FMCG | Drafted | Jun 22 |
+| 538 | habit, Yoga Studio | Great Falls MT, US | info@habitmt.com | Wellness | Drafted | Jun 22 |
+| 539 | Mighty Mo Brewing Company | Great Falls MT, US | taproom@mightymobrewco.com | FMCG | Drafted | Jun 22 |
+| 540 | Resonance Yoga Collective | Salem OR, US | hello@resonanceyogacollective.com | Wellness | Drafted | Jun 22 |
