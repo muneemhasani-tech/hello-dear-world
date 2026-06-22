@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 19, 2026
-**Total unique businesses:** 482
+**Last updated:** June 22, 2026
+**Total unique businesses:** 512
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
 
 ---
@@ -650,3 +650,43 @@
 | 480 | ONE Hot Studio | Ocala FL, US | onehotocala@gmail.com | Wellness | Drafted | Jun 19 |
 | 481 | Dancing Avocado Kitchen | Daytona Beach FL, US | dancingavocadokitchen@gmail.com | F&B | Drafted | Jun 19 |
 | 482 | Studio 311 Yoga & Fitness | Daytona Beach FL, US | hello@studio311yoga.com | Wellness | Drafted | Jun 19 |
+
+---
+
+### Section M — June 22, 2026 Multi-City Batch #10 (30 businesses)
+
+*Cities: New Orleans LA, Memphis TN, Jacksonville FL, Naples FL, Myrtle Beach SC, Virginia Beach VA, Roanoke VA, Greensboro NC, Winston-Salem NC, Athens GA (US) · Tamworth NSW, Port Macquarie NSW, Coffs Harbour NSW (AU) · Taupo, Timaru (NZ) · Kilkenny (IE)*
+*All 30 confirmed new — cross-checked against 482-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebFetch/WebSearch. 30 Gmail drafts saved.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 483 | Free To Be Power Yoga | New Orleans LA, US | info@freetobepoweryoga.com | Wellness | Drafted | Jun 22 |
+| 484 | Legacy Ale Works | Jacksonville FL, US | info@legacyaleworks.com | FMCG | Drafted | Jun 22 |
+| 485 | Be Hot Yoga | Naples FL, US | BeHot@behot.yoga | Wellness | Drafted | Jun 22 |
+| 486 | Yoga In Common | Myrtle Beach SC, US | info@yogaincommon.com | Wellness | Drafted | Jun 22 |
+| 487 | Steinhilber's Restaurant | Virginia Beach VA, US | service@steinys.com | F&B | Drafted | Jun 22 |
+| 488 | Terrapin Restaurant | Virginia Beach VA, US | info@terrapinvb.com | F&B | Drafted | Jun 22 |
+| 489 | Doc Taylor's | Virginia Beach VA, US | thedoctor@doctaylors.com | F&B | Drafted | Jun 22 |
+| 490 | Ursula's Cafe | Roanoke VA, US | ursulascaferoanoke@gmail.com | F&B | Drafted | Jun 22 |
+| 491 | Cast Plates & Pints | Roanoke VA, US | castroanoke@gmail.com | F&B | Drafted | Jun 22 |
+| 492 | Wildflour Cafe | Roanoke VA, US | wildflourcafe@gmail.com | F&B | Drafted | Jun 22 |
+| 493 | Embodhi Yoga Studio | Greensboro NC, US | info@embodhiyogastudios.com | Wellness | Drafted | Jun 22 |
+| 494 | Greensboro Power Studios | Greensboro NC, US | hello@greensboropoweryoga.com | Wellness | Drafted | Jun 22 |
+| 495 | Triad Yoga Institute | Greensboro NC, US | terry@triadyoga.com | Wellness | Drafted | Jun 22 |
+| 496 | Fiddlin' Fish Brewing Co. | Winston-Salem NC, US | info@fiddlinfish.com | FMCG | Drafted | Jun 22 |
+| 497 | Wise Man Brewing | Winston-Salem NC, US | wiseup@wisemanbrewing.com | FMCG | Drafted | Jun 22 |
+| 498 | Memphis Made Brewing Co. | Memphis TN, US | info@memphismadebrewing.com | FMCG | Drafted | Jun 22 |
+| 499 | High Cotton Brewing Co. | Memphis TN, US | beerme@highcottonbrewing.com | FMCG | Drafted | Jun 22 |
+| 500 | Urban Consequence Brewing | Memphis TN, US | talk.to.us@urbanconsequencebrewing.com | FMCG | Drafted | Jun 22 |
+| 501 | M3Yoga | Athens GA, US | team@m3yoga.com | Wellness | Drafted | Jun 22 |
+| 502 | Feel Free Yoga & Wellness | Athens GA, US | info@feelfreeyogawellness.com | Wellness | Drafted | Jun 22 |
+| 503 | Tamworth Remedial Massage | Tamworth NSW, AU | reception@tamworthremedialmassage.com.au | Wellness | Drafted | Jun 22 |
+| 504 | Break Away Beauty | Tamworth NSW, AU | breakawaybeauty@outlook.com | Wellness | Drafted | Jun 22 |
+| 505 | Port Macquarie Day Spa | Port Macquarie NSW, AU | relax@portdayspa.com.au | Wellness | Drafted | Jun 22 |
+| 506 | Ansu Yoga | Coffs Harbour NSW, AU | ansuyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 507 | Storehouse Cafe | Taupo NZ | infoshcafe@gmail.com | F&B | Drafted | Jun 22 |
+| 508 | The Steak House Taupo | Taupo NZ | thesteakhousetaupo@gmail.com | F&B | Drafted | Jun 22 |
+| 509 | The Village Cafe | Timaru NZ | thevillagecafetimaru9@gmail.com | F&B | Drafted | Jun 22 |
+| 510 | Harlau House Cafe | Timaru NZ | admin@harlauhousecafe.co.nz | F&B | Drafted | Jun 22 |
+| 511 | The Grindhouse Cafe | Timaru NZ | grindhouse@outlook.co.nz | F&B | Drafted | Jun 22 |
+| 512 | Zuni Restaurant | Kilkenny IE | info@zuni.ie | F&B | Drafted | Jun 22 |
