@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 23, 2026
-**Total unique businesses:** 572
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30)
+**Total unique businesses:** 602
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30)
 
 ---
 
@@ -781,3 +781,44 @@
 | 570 | The Yoga CoOp | Tupelo MS, US | yogacooptupelo@gmail.com | Wellness | Drafted | Jun 22 |
 | 571 | Hot Yoga Club | Chico CA, US | HYC.management@hotyogaclubchico.com | Wellness | Drafted | Jun 22 |
 | 572 | Chico Holistic Wellness Center | Chico CA, US | cheri@chicoholisticwellness.com | Wellness | Drafted | Jun 22 |
+
+---
+
+### Section Q — June 23, 2026 Multi-City Batch #12 (30 businesses)
+
+*Cities: Blenheim, Masterton (NZ) · Ballarat VIC, Warrnambool VIC, Horsham VIC, Albury NSW, Launceston TAS, Devonport TAS (AU) · Lancaster, Preston, Middlesbrough, Durham (UK) · Drogheda, Killarney (IE) · Johnson City TN (US-ET) · Murfreesboro TN, Tyler TX (US-CT) · Missoula MT, Kalispell MT (US-MT) · Wenatchee WA, Port Townsend WA, Astoria OR (US-PT)*
+*All 30 confirmed new — cross-checked against 572-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 Gmail drafts saved.*
+*Named contacts: Mia (Studio Sukha), Aileen (Drogheda Holistic Centre), Karina (Flourish Yoga), Bridget (iLa Yoga), Christine (Jade Forest Yoga).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 573 | Wellness Station | Blenheim NZ | hello@wellnessstation.co.nz | Wellness | Drafted | Jun 23 |
+| 574 | Raupo Café | Blenheim NZ | info@raupocafe.co.nz | F&B | Drafted | Jun 23 |
+| 575 | CBK | Masterton NZ | info@cbkmasterton.co.nz | FMCG | Drafted | Jun 23 |
+| 576 | Don Luciano Cafe | Masterton NZ | donlucianocafemasterton@gmail.com | F&B | Drafted | Jun 23 |
+| 577 | IneXterior Cafe | Ballarat VIC, AU | mahony123@bigpond.com | F&B | Drafted | Jun 23 |
+| 578 | The Space Wellbeing | Warrnambool VIC, AU | info@thespacewellbeing.com | Wellness | Drafted | Jun 23 |
+| 579 | Studio Sukha | Horsham VIC, AU | mia@studiosukha.com.au | Wellness | Drafted | Jun 23 |
+| 580 | Canvas Eatery | Albury NSW, AU | info@canvas-eatery.com.au | F&B | Drafted | Jun 23 |
+| 581 | Inside Café | Launceston TAS, AU | enquiries@insidecafe.com.au | F&B | Drafted | Jun 23 |
+| 582 | Drift Cafe Restaurant | Devonport TAS, AU | eat@driftdevonport.com | F&B | Drafted | Jun 23 |
+| 583 | SOMA | Lancaster UK | info@somawellbeing.org.uk | Wellness | Drafted | Jun 23 |
+| 584 | Jyai | Preston UK | info@jyai.co.uk | Wellness | Drafted | Jun 23 |
+| 585 | Oven | Middlesbrough UK | theovenmiddlesbrough@hotmail.com | F&B | Drafted | Jun 23 |
+| 586 | Bazaar | Middlesbrough UK | info@bazaarrestaurant.co.uk | F&B | Drafted | Jun 23 |
+| 587 | Cafédral | Durham UK | contact@cafedraldurham.co.uk | F&B | Drafted | Jun 23 |
+| 588 | Drogheda Holistic Centre | Drogheda IE | aileenholistic@gmail.com | Wellness | Drafted | Jun 23 |
+| 589 | Bricin | Killarney IE | info@bricin.ie | F&B | Drafted | Jun 23 |
+| 590 | Yoga Killarney | Killarney IE | info@yogakillarney.ie | Wellness | Drafted | Jun 23 |
+| 591 | Ross Castle Garden Café | Killarney IE | info@rosscastlegardencafe.ie | F&B | Drafted | Jun 23 |
+| 592 | Breathe Yoga Center | Johnson City TN, US | breatheyogacenter@gmail.com | Wellness | Drafted | Jun 23 |
+| 593 | Soluna Sage | Johnson City TN, US | studio@solunasage.com | Wellness | Drafted | Jun 23 |
+| 594 | Royal Massage & Yoga | Murfreesboro TN, US | info@royalmassageandyoga.com | Wellness | Drafted | Jun 23 |
+| 595 | Barre 11 | Murfreesboro TN, US | barre11fitness@gmail.com | Wellness | Drafted | Jun 23 |
+| 596 | ETX Brewing Co | Tyler TX, US | info@etxbrew.com | FMCG | Drafted | Jun 23 |
+| 597 | True Vine Brewing | Tyler TX, US | hello@truevinebrewing.com | FMCG | Drafted | Jun 23 |
+| 598 | The Well | Missoula MT, US | info@thewellmsla.com | Wellness | Drafted | Jun 23 |
+| 599 | Flourish Yoga | Kalispell MT, US | karinaek@flourish-yoga.com | Wellness | Drafted | Jun 23 |
+| 600 | iLa Yoga | Wenatchee WA, US | bridget@ilayoga.com | Wellness | Drafted | Jun 23 |
+| 601 | Jade Forest Yoga | Port Townsend WA, US | cschoper@yahoo.com | Wellness | Drafted | Jun 23 |
+| 602 | Fire Station Yoga | Astoria OR, US | info@thefirestation.yoga | Wellness | Drafted | Jun 23 |
