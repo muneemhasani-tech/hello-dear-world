@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 22, 2026
-**Total unique businesses:** 542
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30)
+**Last updated:** June 23, 2026
+**Total unique businesses:** 572
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30)
 
 ---
 
@@ -740,3 +740,44 @@
 |---|---|---|---|---|---|---|
 | 541 | 6 Ways Yoga | Cheltenham UK | mary@6waysyoga.co.uk | Wellness | Drafted | Jun 22 |
 | 542 | Westside Ale Works | South Melbourne AU | info@westsidealeworks.com.au | FMCG | Drafted | Jun 22 |
+
+---
+
+### Section P — June 22, 2026 Multi-City Batch #11 (30 businesses)
+
+*Cities: Timaru (NZ) · Hervey Bay QLD, Ballina NSW (AU) · Reading, Dundee, Swansea, Aberdeen, Guildford, Winchester, Stirling, Truro (UK) · Macon GA, Huntington WV, Appleton WI, Jackson MS, Murfreesboro TN, Clarksville TN, Hattiesburg MS, Tupelo MS, Chico CA (US)*
+*All 30 confirmed new — cross-checked against 542-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 drafts displayed in terminal.*
+*Named contacts: Helen (Ballina Yoga), Kelly (Soul Flow Yoga), Sarah (Yoga at The Oaks), Rob (Hooked), Christa (Sparks Yoga), Maya (Split Rebel Yoga), Jane (NBalance), Emmalee (Hattiesburg Hot Yoga), Kaye (Yoga CoOp), Cheri (Chico Holistic Wellness).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 543 | Pier 64 | Timaru NZ | info@pier64.co.nz | F&B | Drafted | Jun 22 |
+| 544 | Aquavue Beachfront Bar & Eatery | Hervey Bay QLD, AU | team@aquavue.com.au | F&B | Drafted | Jun 22 |
+| 545 | My Wellness Bar | Hervey Bay QLD, AU | admin@mywellnessbar.net | Wellness | Drafted | Jun 22 |
+| 546 | Ocean Tree Yoga Studio | Hervey Bay QLD, AU | oceantreeyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 547 | Ballina Yoga | Ballina NSW, AU | info@ballinayoga.com | Wellness | Drafted | Jun 22 |
+| 548 | Feel Hot Yoga | Reading UK | info@feelhotyoga.co.uk | Wellness | Drafted | Jun 22 |
+| 549 | Thames Lido | Reading UK | reservations@thameslido.com | F&B | Drafted | Jun 22 |
+| 550 | Nomad Yoga Dundee | Dundee UK | hello@nomadyogadundee.com | Wellness | Drafted | Jun 22 |
+| 551 | Soul Flow Yoga | Swansea UK | Kelly.soulflowyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 552 | Cafe 52 | Aberdeen UK | info@cafe52.net | F&B | Drafted | Jun 22 |
+| 553 | Corner Tree Cafe | Aberdeen UK | hello@cornertreecafe.co.uk | F&B | Drafted | Jun 22 |
+| 554 | Yoga at The Oaks | Guildford UK | sarahchurchyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 555 | Chesil Rectory | Winchester UK | manager@chesilrectory.co.uk | F&B | Drafted | Jun 22 |
+| 556 | Winchester Wellness | Winchester UK | hello@winchesterwellness.co.uk | Wellness | Drafted | Jun 22 |
+| 557 | Mauve Pilates | Stirling UK | hello@mauvepilates.com | Wellness | Drafted | Jun 22 |
+| 558 | Arts Cafe Truro | Truro UK | artscafe@truroartscompany.co.uk | F&B | Drafted | Jun 22 |
+| 559 | Hooked Restaurant | Truro UK | eating@hookedrestaurantandbar.co.uk | F&B | Drafted | Jun 22 |
+| 560 | Bread & Butter | Truro UK | hello@breadandbuttertruro.com | F&B | Drafted | Jun 22 |
+| 561 | Sparks Yoga | Macon GA, US | christa@sparksyogamacon.com | Wellness | Drafted | Jun 22 |
+| 562 | Studio 8 | Huntington WV, US | studio8wv@gmail.com | Wellness | Drafted | Jun 22 |
+| 563 | Appleton Beer Factory | Appleton WI, US | drink@appletonbeerfactory.com | FMCG | Drafted | Jun 22 |
+| 564 | Vault 202 Brewery | Appleton WI, US | info@vault202brewery.com | FMCG | Drafted | Jun 22 |
+| 565 | Split Rebel Yoga | Jackson MS, US | splitrebelyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 566 | Hop Springs Beer Park | Murfreesboro TN, US | info@lifeisbrewing.com | FMCG | Drafted | Jun 22 |
+| 567 | NBalance Hot Yoga | Clarksville TN, US | nbalancehotyoga@gmail.com | Wellness | Drafted | Jun 22 |
+| 568 | Hattiesburg Hot Yoga | Hattiesburg MS, US | info@hattiesburghotyoga.com | Wellness | Drafted | Jun 22 |
+| 569 | Jobos | Tupelo MS, US | jobos.hoteltupelo@gmail.com | F&B | Drafted | Jun 22 |
+| 570 | The Yoga CoOp | Tupelo MS, US | yogacooptupelo@gmail.com | Wellness | Drafted | Jun 22 |
+| 571 | Hot Yoga Club | Chico CA, US | HYC.management@hotyogaclubchico.com | Wellness | Drafted | Jun 22 |
+| 572 | Chico Holistic Wellness Center | Chico CA, US | cheri@chicoholisticwellness.com | Wellness | Drafted | Jun 22 |
