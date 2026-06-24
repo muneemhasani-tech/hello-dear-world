@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 23, 2026
-**Total unique businesses:** 631
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29)
+**Total unique businesses:** 661
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30)
 
 ---
 
@@ -862,3 +862,44 @@
 | 629 | Denton Yoga Center | Denton TX, US | becky@dentonyogacenter.com | Wellness | Drafted | Jun 24 |
 | 630 | Galveston Island Brewing | Galveston TX, US | info@galvestonislandbrewing.com | FMCG | Drafted | Jun 24 |
 | 631 | True Self Yoga | Olympia WA, US | info@trueself.yoga | Wellness | Drafted | Jun 24 |
+
+---
+
+### Section S — June 24, 2026 US-Only Batch #14 (30 businesses)
+
+*Cities: Knoxville TN · St. Augustine FL · Panama City FL · Savannah GA · Florence SC · Pensacola FL · Charlottesville VA · Wilmington NC (US-ET) · San Marcos TX · Midland TX · College Station TX · Lubbock TX · Abilene TX (US-CT) · Las Cruces NM · Bozeman MT · Idaho Falls ID · Pocatello ID · Twin Falls ID (US-MT) · Flagstaff AZ · Sequim WA · Bellingham WA · Anacortes WA · Burlington WA · La Grande OR · Pendleton OR · Ashland OR (US-PT)*
+*All 30 confirmed new — cross-checked against 631-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 Gmail drafts saved.*
+*Named contacts: Amy (Collective Soul Yoga), Sydney (Golden Hour), Cyndi (Midland Yoga Works), Julia (Blue Mountain Yoga+), Scott (Quantum Health).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 632 | Blue Ridge Yoga & Wellness Center | Knoxville TN, US | studio@blueridgeyogatn.com | Wellness | Drafted | Jun 24 |
+| 633 | Real Hot Yoga | Knoxville TN, US | knoxville@realhotyoga.net | Wellness | Drafted | Jun 24 |
+| 634 | The Yoga Collective | St. Augustine FL, US | info@theyogacollectivestaug.com | Wellness | Drafted | Jun 24 |
+| 635 | Collective Soul Yoga | Panama City FL, US | amy@collectivesoulpc.com | Wellness | Drafted | Jun 24 |
+| 636 | Cove Yoga Wellness | Panama City FL, US | coveyogapanamacity@gmail.com | Wellness | Drafted | Jun 24 |
+| 637 | Savannah Yoga Center | Savannah GA, US | manager@savannahyoga.com | Wellness | Drafted | Jun 24 |
+| 638 | Service Brewing Co | Savannah GA, US | info@servicebrewing.com | FMCG | Drafted | Jun 24 |
+| 639 | SOULIFT | Florence SC, US | connect@souliftflo.com | Wellness | Drafted | Jun 24 |
+| 640 | Golden Hour Yoga & Tea House | Pensacola FL, US | sydneygeci@protonmail.com | Wellness | Drafted | Jun 24 |
+| 641 | Ashtanga Yoga Charlottesville | Charlottesville VA, US | ashtangayogacville@gmail.com | Wellness | Drafted | Jun 24 |
+| 642 | terra sol sanctuary | Wilmington NC, US | info@terrasolsanctuary.com | Wellness | Drafted | Jun 24 |
+| 643 | Port City Power Yoga | Wilmington NC, US | hello@portcitypoweryoga.com | Wellness | Drafted | Jun 24 |
+| 644 | Wild Rice Studio | San Marcos TX, US | info@wildricestudiosmtx.com | Wellness | Drafted | Jun 24 |
+| 645 | Midland Yoga Works | Midland TX, US | cyndi@midlandyogaworks.com | Wellness | Drafted | Jun 24 |
+| 646 | The Bridge Yoga | College Station TX, US | thebridgeyogabcs@gmail.com | Wellness | Drafted | Jun 24 |
+| 647 | Soul Yoga Studio | Lubbock TX, US | support@soulyogalbk.com | Wellness | Drafted | Jun 24 |
+| 648 | Abilene Yoga House | Abilene TX, US | ayogahouse@icloud.com | Wellness | Drafted | Jun 24 |
+| 649 | Indigo Yoga | Las Cruces NM, US | lascrucesyoga@gmail.com | Wellness | Drafted | Jun 24 |
+| 650 | Ekam Yoga | Bozeman MT, US | info@ekamyogamt.com | Wellness | Drafted | Jun 24 |
+| 651 | Yoga Wellness Connection | Idaho Falls ID, US | theyogawellnessconnection@gmail.com | Wellness | Drafted | Jun 24 |
+| 652 | Soulscape Yoga Studio | Pocatello ID, US | soulscapeyogastudio@gmail.com | Wellness | Drafted | Jun 24 |
+| 653 | Hive Hot Yoga | Twin Falls ID, US | info@hivehotyoga.com | Wellness | Drafted | Jun 24 |
+| 654 | Northern Arizona Yoga Center | Flagstaff AZ, US | info@northernarizonayogacenter.com | Wellness | Drafted | Jun 24 |
+| 655 | Blue Mountain Yoga+ | Sequim WA, US | juliafbuggy@gmail.com | Wellness | Drafted | Jun 24 |
+| 656 | Barkley Yoga | Bellingham WA, US | info@barkleyyoga.com | Wellness | Drafted | Jun 24 |
+| 657 | Anacortes Yoga Sanctuary | Anacortes WA, US | hello@anacortesyogasanctuary.com | Wellness | Drafted | Jun 24 |
+| 658 | Quantum Health Pilates & Yoga Lounge | Burlington WA, US | scott@qhyogalounge.com | Wellness | Drafted | Jun 24 |
+| 659 | Side A Brewing | La Grande OR, US | sideabrewing@gmail.com | FMCG | Drafted | Jun 24 |
+| 660 | 7GEN Wellness | Pendleton OR, US | acosiaredelk@gmail.com | Wellness | Drafted | Jun 24 |
+| 661 | Ashland Hot Yoga | Ashland OR, US | ashlandhotyoga@yahoo.com | Wellness | Drafted | Jun 24 |
