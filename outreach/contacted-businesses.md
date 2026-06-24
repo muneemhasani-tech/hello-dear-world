@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 22, 2026
-**Total unique businesses:** 542
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch #10 (30) + June 22 Multi-City Batch #11 (30)
+**Last updated:** June 24, 2026
+**Total unique businesses:** 572
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch #10 (30) + June 22 Multi-City Batch #11 (30) + June 24 Multi-City Batch #12 (30)
 
 ---
 
@@ -636,3 +636,44 @@
 | 540 | The Yoga CoOp | Tupelo MS, US | yogacooptupelo@gmail.com | Wellness | Drafted | Jun 22 |
 | 541 | Hot Yoga Club | Chico CA, US | HYC.management@hotyogaclubchico.com | Wellness | Drafted | Jun 22 |
 | 542 | Chico Holistic Wellness Center | Chico CA, US | cheri@chicoholisticwellness.com | Wellness | Drafted | Jun 22 |
+
+---
+
+### Section O — June 24, 2026 Multi-City Batch #12 (30 businesses)
+
+*Cities: Ashburton, Masterton (NZ) · Coffs Harbour NSW, Port Macquarie NSW (AU) · Peterborough, Northampton, Derby, Ipswich, Lincoln (UK) · Waterford, Kilkenny, Ennis, Drogheda (IE) · La Crosse WI, Mankato MN, Grand Forks ND, Bismarck ND, Oshkosh WI, Wausau WI, Tyler TX, Denton TX, Galveston TX, Bellingham WA, Olympia WA (US)*
+*All 30 confirmed new — cross-checked against 542-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 drafts displayed in terminal.*
+*Named contacts: Suzanne (Beyond Movement Studio), Sandra (Equilibrium Yoga), Carrieanne (Yoga Freedom), Martina (Inside Out Yoga), Marian (Yoga For All), Becky (Denton Yoga Center).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 543 | One Ninety Nine Cafe | Ashburton NZ | oneninetyninecafe@gmail.com | F&B | Drafted | Jun 24 |
+| 544 | Entice Cafe | Masterton NZ | info@entice.co.nz | F&B | Drafted | Jun 24 |
+| 545 | Beyond Movement Studio | Coffs Harbour NSW, AU | office@beyondmovementstudio.com.au | Wellness | Drafted | Jun 24 |
+| 546 | Whalebone Wharf | Port Macquarie NSW, AU | enquiries@whalebonewharf.com.au | F&B | Drafted | Jun 24 |
+| 547 | Dockside Restaurant | Port Macquarie NSW, AU | info@docksiderestaurant.com.au | F&B | Drafted | Jun 24 |
+| 548 | Equilibrium Yoga | Peterborough UK | info@equilibriumyoga.co.uk | Wellness | Drafted | Jun 24 |
+| 549 | Yoga Freedom | Northampton UK | carrieanne@yogafreedom.co.uk | Wellness | Drafted | Jun 24 |
+| 550 | Cartel | Northampton UK | info@cartelnorthampton.com | F&B | Drafted | Jun 24 |
+| 551 | Oblique Restaurant | Northampton UK | contact@oblique-northampton.co.uk | F&B | Drafted | Jun 24 |
+| 552 | Breathing Space Yoga Studio | Derby UK | team@breathingspaceyogastudio.co.uk | Wellness | Drafted | Jun 24 |
+| 553 | Derby Iyengar Yoga | Derby UK | derbyiyengaryoga@gmail.com | Wellness | Drafted | Jun 24 |
+| 554 | Ipswich Inn Cafe | Ipswich UK | ipswichinncafe@gmail.com | F&B | Drafted | Jun 24 |
+| 555 | Cafe St Paul's | Lincoln UK | cafestpauls@gmail.com | F&B | Drafted | Jun 24 |
+| 556 | House of Yoga Waterford | Waterford IE | info@houseofyogawaterford.com | Wellness | Drafted | Jun 24 |
+| 557 | Inside Out Yoga | Waterford IE | insideoutyogawaterford@gmail.com | Wellness | Drafted | Jun 24 |
+| 558 | Yoga For All | Kilkenny IE | marian@yogaforall.ie | Wellness | Drafted | Jun 24 |
+| 559 | The Ennis Yoga Studio | Ennis IE | info@theennisyogastudio.ie | Wellness | Drafted | Jun 24 |
+| 560 | Aisha's Cafe & Bistro | Drogheda IE | aishascafebistro@gmail.com | F&B | Drafted | Jun 24 |
+| 561 | 608 Brewing Company | La Crosse WI, US | contact@608brewingcompany.com | FMCG | Drafted | Jun 24 |
+| 562 | Root Down Yoga Studio | La Crosse WI, US | ask@rootdownyogastudio.com | Wellness | Drafted | Jun 24 |
+| 563 | LocAle Brewing Co | Mankato MN, US | info@localebrew.com | FMCG | Drafted | Jun 24 |
+| 564 | Lotus Yoga | Grand Forks ND, US | lotusyogagf@gmail.com | Wellness | Drafted | Jun 24 |
+| 565 | Laughing Sun Brewing | Bismarck ND, US | info@laughingsun.com | FMCG | Drafted | Jun 24 |
+| 566 | Arise Balanced Wellness | Oshkosh WI, US | info@arisebw.com | Wellness | Drafted | Jun 24 |
+| 567 | 5 Koshas Yoga & Wellness | Wausau WI, US | office@5koshasyoga.com | Wellness | Drafted | Jun 24 |
+| 568 | Flow Yoga | Tyler TX, US | contact@flowyogatyler.com | Wellness | Drafted | Jun 24 |
+| 569 | Denton Yoga Center | Denton TX, US | becky@dentonyogacenter.com | Wellness | Drafted | Jun 24 |
+| 570 | Galveston Island Brewing | Galveston TX, US | info@galvestonislandbrewing.com | FMCG | Drafted | Jun 24 |
+| 571 | Bellingham Yoga Collective | Bellingham WA, US | bellinghamyogacollective@gmail.com | Wellness | Drafted | Jun 24 |
+| 572 | True Self Yoga | Olympia WA, US | info@trueself.yoga | Wellness | Drafted | Jun 24 |
