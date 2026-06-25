@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 26, 2026
-**Total unique businesses:** 721
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5)
+**Total unique businesses:** 751
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30)
 
 ---
 
@@ -991,3 +991,44 @@
 | 719 | Movement Hub | Oamaru NZ | info@movementhub.co.nz | Wellness | Drafted | Jun 26 |
 | 720 | Hereford Yoga Centre | Hereford UK | info@herefordyoga.co.uk | Wellness | Drafted | Jun 26 |
 | 721 | The Sangha House | Taunton UK | reception@thesanghahouse.co.uk | Wellness | Drafted | Jun 26 |
+
+---
+
+### Section W — June 26, 2026 US-Only Batch #18 (30 businesses)
+
+*Cities: Tampa FL, Charlotte NC (x2), Orlando FL, Fredericksburg VA, Huntsville AL, Savannah GA (x2) (US-ET) · Fort Worth TX, Milwaukee WI, Frisco TX (x2), Omaha NE (x2), Baton Rouge LA (x2) (US-CT) · Denver CO (x2), Albuquerque NM, Salt Lake City UT (x2) (US-MT) · Tempe AZ (x2), Tucson AZ, Henderson NV, Las Vegas NV, Tacoma WA (x2), Spokane WA, Eugene OR (US-PT)*
+*All 30 confirmed new — cross-checked against 721-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 Gmail drafts saved.*
+*Named contacts: Matt (Empower Yoga), Kim (Move Your Body Yoga).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 722 | Lucky Cat Yoga | Tampa FL, US | luckycatyoga@gmail.com | Wellness | Drafted | Jun 26 |
+| 723 | Heist Brewery | Charlotte NC, US | info@heistbrewery.com | FMCG | Drafted | Jun 26 |
+| 724 | Feel Better Yoga | Charlotte NC, US | feelbettercharlotte@fbyyoga.com | Wellness | Drafted | Jun 26 |
+| 725 | The Yoga Lab | Orlando FL, US | yogalaborlando@gmail.com | Wellness | Drafted | Jun 26 |
+| 726 | Fredericksburg Yoga & Wellness | Fredericksburg VA, US | info@fxbgyoga.com | Wellness | Drafted | Jun 26 |
+| 727 | Hot Yoga of Huntsville | Huntsville AL, US | hotyogaofhuntsville101@gmail.com | Wellness | Drafted | Jun 26 |
+| 728 | Otium Studios | Savannah GA, US | info@otiumsavannah.com | Wellness | Drafted | Jun 26 |
+| 729 | New Yoga Savannah | Savannah GA, US | frontdesk@newyogasavannah.com | Wellness | Drafted | Jun 26 |
+| 730 | Urban Yoga | Fort Worth TX, US | info@urbanyogafw.com | Wellness | Drafted | Jun 26 |
+| 731 | Empower Yoga | Milwaukee WI, US | matt@empoweryoga.com | Wellness | Drafted | Jun 26 |
+| 732 | The Alchemy Yoga | Frisco TX, US | info@thealchemyyoga.com | Wellness | Drafted | Jun 26 |
+| 733 | Ignyte Yoga | Frisco TX, US | hello@ignyteyoga.com | Wellness | Drafted | Jun 26 |
+| 734 | One Tree Yoga | Omaha NE, US | info@onetreeyoga.com | Wellness | Drafted | Jun 26 |
+| 735 | Still + Flow Yoga | Omaha NE, US | jenbealyoga@gmail.com | Wellness | Drafted | Jun 26 |
+| 736 | Grace Yoga | Baton Rouge LA, US | graceyogaonhighland@gmail.com | Wellness | Drafted | Jun 26 |
+| 737 | Move Your Body Yoga | Baton Rouge LA, US | kimwalker@moveyourbodyyoga.com | Wellness | Drafted | Jun 26 |
+| 738 | Society Denver | Denver CO, US | staffing@societycolorado.com | Wellness | Drafted | Jun 26 |
+| 739 | Yoga Center of Denver | Denver CO, US | info@yogacenterdenver.com | Wellness | Drafted | Jun 26 |
+| 740 | Blissful Spirits Yoga | Albuquerque NM, US | info@blissfulspirits.com | Wellness | Drafted | Jun 26 |
+| 741 | Lila Studio | Salt Lake City UT, US | hello@lilastudio.com | Wellness | Drafted | Jun 26 |
+| 742 | Centered City Yoga | Salt Lake City UT, US | info@centeredcityyoga.com | Wellness | Drafted | Jun 26 |
+| 743 | Arizona Yoga Co | Tempe AZ, US | info@arizonayogaco.com | Wellness | Drafted | Jun 26 |
+| 744 | One Tribe Wellness Studio | Tempe AZ, US | behappy@onetribe.life | Wellness | Drafted | Jun 26 |
+| 745 | Flourish Yoga | Tucson AZ, US | info@flourishyogatucson.com | Wellness | Drafted | Jun 26 |
+| 746 | Vibe Yoga | Henderson NV, US | namaste@vibeyogalv.com | Wellness | Drafted | Jun 26 |
+| 747 | Sin City Yoga | Las Vegas NV, US | info@sincityyoga.com | Wellness | Drafted | Jun 26 |
+| 748 | Yoga Bywater | Tacoma WA, US | yogabywater@gmail.com | Wellness | Drafted | Jun 26 |
+| 749 | Expand Yoga | Tacoma WA, US | expandyoga@gmail.com | Wellness | Drafted | Jun 26 |
+| 750 | Harmony Yoga | Spokane WA, US | yoga@harmonyspokane.com | Wellness | Drafted | Jun 26 |
+| 751 | Balanced Hot Yoga | Eugene OR, US | balancedhotyogaeugene@gmail.com | Wellness | Drafted | Jun 26 |
