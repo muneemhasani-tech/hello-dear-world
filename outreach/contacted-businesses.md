@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 25, 2026
+**Last updated:** June 26, 2026
 **Total unique businesses:** 721
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (30)
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5)
 
 ---
 
@@ -958,26 +958,36 @@
 | 696 | Absolute Yoga & Pilates | Ballarat VIC, AU | tracey@absoluteyoga.com.au | Wellness | Drafted | Jun 25 |
 | 697 | Stillwater Restaurant | Launceston TAS, AU | dine@stillwater.net.au | F&B | Drafted | Jun 25 |
 | 698 | Kawan Dining | Launceston TAS, AU | office@kawandining.com.au | F&B | Drafted | Jun 25 |
-| 699 | Bloom Holistic Collective | Toowoomba QLD, AU | hello@bloomholistic.com.au | Wellness | Drafted | Jun 25 |
-| 700 | YAW Cafe | Mackay QLD, AU | info@yawfoods.com.au | F&B | Drafted | Jun 25 |
-| 701 | Breathing Space Yoga Studio | Derby UK | team@breathingspaceyogastudio.co.uk | Wellness | Drafted | Jun 25 |
-| 702 | Benoli Restaurant | Norwich UK | info@benolirestaurant.com | F&B | Drafted | Jun 25 |
-| 703 | House of Yoga | Plymouth UK | contact@houseofyoga.co.uk | Wellness | Drafted | Jun 25 |
-| 704 | Hot Yoga Coventry | Coventry UK | info@hotyogacoventry.co.uk | Wellness | Drafted | Jun 25 |
-| 705 | A Bar Bistro | Portsmouth UK | info@abarbistro.co.uk | F&B | Drafted | Jun 25 |
-| 706 | Heart Space Yoga | Dundee Scotland | info@heartspacedundee.co.uk | Wellness | Drafted | Jun 25 |
-| 707 | Yoga Nectar | Leicester UK | perry@yoganectar.co.uk | Wellness | Drafted | Jun 25 |
-| 708 | House Limerick | Limerick IE | welcome@houselimerick.ie | F&B | Drafted | Jun 25 |
-| 709 | Setu Studio | Galway IE | setustudiospace@gmail.com | Wellness | Drafted | Jun 25 |
-| 710 | Savannah Yoga Center | Savannah GA, US | manager@savannahyoga.com | Wellness | Drafted | Jun 25 |
-| 711 | Sakara Holistic Center | Fayetteville NC, US | SakaraHolistic@gmail.com | Wellness | Drafted | Jun 25 |
-| 712 | Space Yoga + Wellness Studio | Augusta GA, US | info@spaceyogastudio.com | Wellness | Drafted | Jun 25 |
-| 713 | yogaErie | Erie PA, US | info@yogaerie.com | Wellness | Drafted | Jun 25 |
-| 714 | Flow Yoga & Pilates Studio | Amarillo TX, US | info@flowyogaandpilates.com | Wellness | Drafted | Jun 25 |
-| 715 | Essential Yoga Studio | Springfield MO, US | Sunnshineyogallc@gmail.com | Wellness | Drafted | Jun 25 |
-| 716 | Ecce Yoga | Fargo ND, US | ecceyoga@gmail.com | Wellness | Drafted | Jun 25 |
-| 717 | Lava Yoga | Topeka KS, US | Lavayoga@gmail.com | Wellness | Drafted | Jun 25 |
-| 718 | Mandala Montana | Missoula MT, US | mmhotyoga@gmail.com | Wellness | Drafted | Jun 25 |
-| 719 | Yoga V Studio | Grand Junction CO, US | info@yogavstudio.com | Wellness | Drafted | Jun 25 |
-| 720 | The Chi Room Yoga Studio | Medford OR, US | thechiroomyogastudio@gmail.com | Wellness | Drafted | Jun 25 |
-| 721 | Balance Yoga Center | Redding CA, US | jana@balance-yogacenter.com | Wellness | Drafted | Jun 25 |
+| 699 | YAW Cafe | Mackay QLD, AU | info@yawfoods.com.au | F&B | Drafted | Jun 25 |
+| 700 | Benoli Restaurant | Norwich UK | info@benolirestaurant.com | F&B | Drafted | Jun 25 |
+| 701 | Hot Yoga Coventry | Coventry UK | info@hotyogacoventry.co.uk | Wellness | Drafted | Jun 25 |
+| 702 | A Bar Bistro | Portsmouth UK | info@abarbistro.co.uk | F&B | Drafted | Jun 25 |
+| 703 | Heart Space Yoga | Dundee Scotland | info@heartspacedundee.co.uk | Wellness | Drafted | Jun 25 |
+| 704 | Yoga Nectar | Leicester UK | perry@yoganectar.co.uk | Wellness | Drafted | Jun 25 |
+| 705 | Setu Studio | Galway IE | setustudiospace@gmail.com | Wellness | Drafted | Jun 25 |
+| 706 | Sakara Holistic Center | Fayetteville NC, US | SakaraHolistic@gmail.com | Wellness | Drafted | Jun 25 |
+| 707 | Space Yoga + Wellness Studio | Augusta GA, US | info@spaceyogastudio.com | Wellness | Drafted | Jun 25 |
+| 708 | yogaErie | Erie PA, US | info@yogaerie.com | Wellness | Drafted | Jun 25 |
+| 709 | Flow Yoga & Pilates Studio | Amarillo TX, US | info@flowyogaandpilates.com | Wellness | Drafted | Jun 25 |
+| 710 | Essential Yoga Studio | Springfield MO, US | Sunnshineyogallc@gmail.com | Wellness | Drafted | Jun 25 |
+| 711 | Ecce Yoga | Fargo ND, US | ecceyoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 712 | Lava Yoga | Topeka KS, US | Lavayoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 713 | Mandala Montana | Missoula MT, US | mmhotyoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 714 | Yoga V Studio | Grand Junction CO, US | info@yogavstudio.com | Wellness | Drafted | Jun 25 |
+| 715 | The Chi Room Yoga Studio | Medford OR, US | thechiroomyogastudio@gmail.com | Wellness | Drafted | Jun 25 |
+| 716 | Balance Yoga Center | Redding CA, US | jana@balance-yogacenter.com | Wellness | Drafted | Jun 25 |
+
+---
+
+### Section V — June 26, 2026 Replacement Batch #17 (5 businesses)
+
+*Replacing 5 duplicates removed from Section U. Cities: Kumara/Greymouth NZ, Oamaru NZ (x2) · Hereford UK, Taunton UK.*
+*All 5 confirmed new — cross-checked against 716-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebFetch.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 717 | Greenstone Retreat | Kumara/Greymouth NZ | greenstoneretreat@outlook.com | Wellness | Drafted | Jun 26 |
+| 718 | Restore Yourself | Oamaru NZ | Rosey@restoreyourself.co.nz | Wellness | Drafted | Jun 26 |
+| 719 | Movement Hub | Oamaru NZ | info@movementhub.co.nz | Wellness | Drafted | Jun 26 |
+| 720 | Hereford Yoga Centre | Hereford UK | info@herefordyoga.co.uk | Wellness | Drafted | Jun 26 |
+| 721 | The Sangha House | Taunton UK | reception@thesanghahouse.co.uk | Wellness | Drafted | Jun 26 |
