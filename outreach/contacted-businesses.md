@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** June 25, 2026
-**Total unique businesses:** 691
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30)
+**Total unique businesses:** 721
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (30)
 
 ---
 
@@ -942,3 +942,42 @@
 | 689 | YogaSource | Santa Fe NM, US | staff@yogasource-santafe.com | Wellness | Drafted | Jun 25 |
 | 690 | YogaSix Reno | Reno NV, US | renonorthwest@yogasix.com | Wellness | Drafted | Jun 25 |
 | 691 | The Yoga Place | Eugene OR, US | info@yogaplaceeugene.com | Wellness | Drafted | Jun 25 |
+
+### Section U — June 25, 2026 Multi-City Batch #16 (30 businesses)
+
+*Cities: Palmerston North, Napier, Nelson (NZ) · Ballarat VIC, Launceston TAS, Toowoomba QLD, Mackay QLD (AU) · Derby, Norwich, Plymouth, Coventry, Portsmouth, Dundee, Leicester (UK) · Limerick, Galway (IE) · Savannah GA, Fayetteville NC, Augusta GA, Erie PA (US-ET) · Amarillo TX, Springfield MO, Fargo ND, Topeka KS (US-CT) · Missoula MT, Grand Junction CO (US-MT) · Medford OR, Redding CA (US-PT)*
+*All 30 confirmed new — cross-checked against 691-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch.*
+*Named contacts: Susan (Nelson Yoga Room), Tracey (Absolute Yoga & Pilates), Perry (Yoga Nectar), Jana (Balance Yoga Center).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 692 | Boho Cafe | Palmerston North NZ | hello@bohocafe.co.nz | F&B | Drafted | Jun 25 |
+| 693 | Boat Ramp Eatery | Napier NZ | boatrampeatery@gmail.com | F&B | Drafted | Jun 25 |
+| 694 | Elicious Eatery | Napier NZ | info@eliciouseatery.co.nz | F&B | Drafted | Jun 25 |
+| 695 | Nelson Yoga Room | Nelson NZ | susan@nelsonyogaroom.nz | Wellness | Drafted | Jun 25 |
+| 696 | Absolute Yoga & Pilates | Ballarat VIC, AU | tracey@absoluteyoga.com.au | Wellness | Drafted | Jun 25 |
+| 697 | Stillwater Restaurant | Launceston TAS, AU | dine@stillwater.net.au | F&B | Drafted | Jun 25 |
+| 698 | Kawan Dining | Launceston TAS, AU | office@kawandining.com.au | F&B | Drafted | Jun 25 |
+| 699 | Bloom Holistic Collective | Toowoomba QLD, AU | hello@bloomholistic.com.au | Wellness | Drafted | Jun 25 |
+| 700 | YAW Cafe | Mackay QLD, AU | info@yawfoods.com.au | F&B | Drafted | Jun 25 |
+| 701 | Breathing Space Yoga Studio | Derby UK | team@breathingspaceyogastudio.co.uk | Wellness | Drafted | Jun 25 |
+| 702 | Benoli Restaurant | Norwich UK | info@benolirestaurant.com | F&B | Drafted | Jun 25 |
+| 703 | House of Yoga | Plymouth UK | contact@houseofyoga.co.uk | Wellness | Drafted | Jun 25 |
+| 704 | Hot Yoga Coventry | Coventry UK | info@hotyogacoventry.co.uk | Wellness | Drafted | Jun 25 |
+| 705 | A Bar Bistro | Portsmouth UK | info@abarbistro.co.uk | F&B | Drafted | Jun 25 |
+| 706 | Heart Space Yoga | Dundee Scotland | info@heartspacedundee.co.uk | Wellness | Drafted | Jun 25 |
+| 707 | Yoga Nectar | Leicester UK | perry@yoganectar.co.uk | Wellness | Drafted | Jun 25 |
+| 708 | House Limerick | Limerick IE | welcome@houselimerick.ie | F&B | Drafted | Jun 25 |
+| 709 | Setu Studio | Galway IE | setustudiospace@gmail.com | Wellness | Drafted | Jun 25 |
+| 710 | Savannah Yoga Center | Savannah GA, US | manager@savannahyoga.com | Wellness | Drafted | Jun 25 |
+| 711 | Sakara Holistic Center | Fayetteville NC, US | SakaraHolistic@gmail.com | Wellness | Drafted | Jun 25 |
+| 712 | Space Yoga + Wellness Studio | Augusta GA, US | info@spaceyogastudio.com | Wellness | Drafted | Jun 25 |
+| 713 | yogaErie | Erie PA, US | info@yogaerie.com | Wellness | Drafted | Jun 25 |
+| 714 | Flow Yoga & Pilates Studio | Amarillo TX, US | info@flowyogaandpilates.com | Wellness | Drafted | Jun 25 |
+| 715 | Essential Yoga Studio | Springfield MO, US | Sunnshineyogallc@gmail.com | Wellness | Drafted | Jun 25 |
+| 716 | Ecce Yoga | Fargo ND, US | ecceyoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 717 | Lava Yoga | Topeka KS, US | Lavayoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 718 | Mandala Montana | Missoula MT, US | mmhotyoga@gmail.com | Wellness | Drafted | Jun 25 |
+| 719 | Yoga V Studio | Grand Junction CO, US | info@yogavstudio.com | Wellness | Drafted | Jun 25 |
+| 720 | The Chi Room Yoga Studio | Medford OR, US | thechiroomyogastudio@gmail.com | Wellness | Drafted | Jun 25 |
+| 721 | Balance Yoga Center | Redding CA, US | jana@balance-yogacenter.com | Wellness | Drafted | Jun 25 |
