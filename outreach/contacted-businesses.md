@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 23, 2026
-**Total unique businesses:** 661
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30)
+**Last updated:** June 25, 2026
+**Total unique businesses:** 691
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30)
 
 ---
 
@@ -903,3 +903,42 @@
 | 659 | Side A Brewing | La Grande OR, US | sideabrewing@gmail.com | FMCG | Drafted | Jun 24 |
 | 660 | 7GEN Wellness | Pendleton OR, US | acosiaredelk@gmail.com | Wellness | Drafted | Jun 24 |
 | 661 | Ashland Hot Yoga | Ashland OR, US | ashlandhotyoga@yahoo.com | Wellness | Drafted | Jun 24 |
+
+### Section T — June 25, 2026 Multi-City Batch #15 (30 businesses)
+
+*Cities: Oamaru, Kerikeri, Westport (NZ) · Townsville QLD, Gympie QLD, Alice Springs NT, Hobart TAS (AU) · Blackpool, Hull, Carlisle, Shrewsbury, Swindon, Bath, Exeter (UK) · Kilkenny, Athlone (IE) · Tallahassee FL, Greenville SC, Hickory NC (US-ET) · Sioux City IA, Lincoln NE, Oklahoma City OK, Wichita Falls TX (US-CT) · Cheyenne WY, Santa Fe NM (US-MT) · Reno NV, Eugene OR (US-PT)*
+*All 30 confirmed new — cross-checked against 661-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch.*
+*Named contacts: Kim (Yoga Studio Kerikeri), Frankie (Yoga with Frankie), Emma (The Yoga Studio Carlisle), Celine (Eat Unique), Jaclyn (BE Yoga Studio).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 662 | Riverstone Kitchen | Oamaru NZ | mail@riverstonekitchen.co.nz | F&B | Drafted | Jun 25 |
+| 663 | Star and Garter | Oamaru NZ | starandgarteroamaru@gmail.com | F&B | Drafted | Jun 25 |
+| 664 | Yoga Studio Kerikeri | Kerikeri NZ | kim@yogastudiokerikeri.co.nz | Wellness | Drafted | Jun 25 |
+| 665 | Denniston Dog | Westport NZ | bookings@dennistondog.co.nz | F&B | Drafted | Jun 25 |
+| 666 | The Gypsea Collective | Townsville QLD, AU | gypseas.nqld@gmail.com | F&B | Drafted | Jun 25 |
+| 667 | Elevate Studios NQ | Townsville QLD, AU | elevatestudiosnq@protonmail.com | Wellness | Drafted | Jun 25 |
+| 668 | Yoga with Frankie | Gympie QLD, AU | yogawithfrankie@protonmail.com | Wellness | Drafted | Jun 25 |
+| 669 | Epilogue Lounge | Alice Springs NT, AU | info@epiloguelounge.com | F&B | Drafted | Jun 25 |
+| 670 | Page 27 Cafe | Alice Springs NT, AU | page27cafe@gmail.com | F&B | Drafted | Jun 25 |
+| 671 | Wildheart Hobart | Hobart TAS, AU | info@wildhearthobart.com.au | Wellness | Drafted | Jun 25 |
+| 672 | West Coast Rock Cafe | Blackpool UK | eat@westcoastrock.co.uk | F&B | Drafted | Jun 25 |
+| 673 | Hull Yoga | Hull UK | hullyoga@outlook.com | Wellness | Drafted | Jun 25 |
+| 674 | The Yoga Studio Carlisle | Carlisle UK | emma@theyogastudiocarlisle.co.uk | Wellness | Drafted | Jun 25 |
+| 675 | La Piazzetta | Shrewsbury UK | hello@lapiazzettashrewsbury.co.uk | F&B | Drafted | Jun 25 |
+| 676 | ZenDen | Swindon UK | namaste@zenden-uk.com | Wellness | Drafted | Jun 25 |
+| 677 | Bath Yoga Shala | Bath UK | bathyogashala@gmail.com | Wellness | Drafted | Jun 25 |
+| 678 | Exeter Wellness | Exeter UK | enquiries@exeterwellness.co.uk | Wellness | Drafted | Jun 25 |
+| 679 | Langtons Hotel | Kilkenny IE | dining@langtons.ie | F&B | Drafted | Jun 25 |
+| 680 | Eat Unique | Athlone IE | eatunique1@gmail.com | F&B | Drafted | Jun 25 |
+| 681 | Tallahassee Yoga & Meditation Center | Tallahassee FL, US | info@tallahasseeyogameditationcenter.com | Wellness | Drafted | Jun 25 |
+| 682 | Soul Yoga Studio | Greenville SC, US | downtown@soulyogastudio.com | Wellness | Drafted | Jun 25 |
+| 683 | Hickory Yoga & Wellness | Hickory NC, US | info@hickoryyogawellness.com | Wellness | Drafted | Jun 25 |
+| 684 | BE Yoga Studio | Sioux City IA, US | jaclynpaulson@gmail.com | Wellness | Drafted | Jun 25 |
+| 685 | Healthy Start Yoga & Fitness | Lincoln NE, US | frontdesk@healthystartchiro.com | Wellness | Drafted | Jun 25 |
+| 686 | Prairie Artisan Ales | Oklahoma City OK, US | info@prairieales.com | FMCG | Drafted | Jun 25 |
+| 687 | Wichita Falls Brewing | Wichita Falls TX, US | info@wichitafallsbrewing.com | FMCG | Drafted | Jun 25 |
+| 688 | Blossom Yoga | Cheyenne WY, US | blossomyogacheyenne@gmail.com | Wellness | Drafted | Jun 25 |
+| 689 | YogaSource | Santa Fe NM, US | staff@yogasource-santafe.com | Wellness | Drafted | Jun 25 |
+| 690 | YogaSix Reno | Reno NV, US | renonorthwest@yogasix.com | Wellness | Drafted | Jun 25 |
+| 691 | The Yoga Place | Eugene OR, US | info@yogaplaceeugene.com | Wellness | Drafted | Jun 25 |
