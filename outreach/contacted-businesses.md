@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 26, 2026
-**Total unique businesses:** 751
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30)
+**Last updated:** June 27, 2026
+**Total unique businesses:** 781
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30)
 
 ---
 
@@ -1032,3 +1032,44 @@
 | 749 | Expand Yoga | Tacoma WA, US | expandyoga@gmail.com | Wellness | Drafted | Jun 26 |
 | 750 | Harmony Yoga | Spokane WA, US | yoga@harmonyspokane.com | Wellness | Drafted | Jun 26 |
 | 751 | Balanced Hot Yoga | Eugene OR, US | balancedhotyogaeugene@gmail.com | Wellness | Drafted | Jun 26 |
+
+---
+
+### Section X — June 27, 2026 US-Only Batch #19 (30 businesses)
+
+*Cities: Pittsburgh PA (x2), Portland OR, US (x4 US-ET misc) · Baltimore MD, Detroit MI, Raleigh NC, Grand Rapids MI, North Hampton NH, Vermont (US-ET) · St. Louis MO (x2), US-CT misc (x4) · Colorado Springs CO, Fort Collins CO, US-MT misc (x2) · US-PT misc (x5)*
+*All 30 confirmed new — cross-checked against 751-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed. All 30 Gmail drafts saved.*
+*Named contacts: Jess (Portland Yoga Collective), Kate (Grand Rapids Yoga Company), Melanie (Be Free Healing Center).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 752 | Nourish & Move Wellness Studio | Pittsburgh, PA, US | about@nourishandmovepgh.com | Wellness | Drafted | Jun 27 |
+| 753 | Ignite Yoga Pittsburgh | Pittsburgh, PA, US | management@igniteyogapgh.com | Wellness | Drafted | Jun 27 |
+| 754 | Portland Yoga Collective | Portland, OR, US | jess@portlandyogacollective.com | Wellness | Drafted | Jun 27 |
+| 755 | Creating Space Yoga | US | info@creatingspaceyoga.com | Wellness | Drafted | Jun 27 |
+| 756 | Amrita Yoga & Wellness | US | info@amritayogawellness.com | Wellness | Drafted | Jun 27 |
+| 757 | Yoga Union Baltimore | Baltimore, MD, US | yogaunionbaltimore@gmail.com | Wellness | Drafted | Jun 27 |
+| 758 | Imagine Fitness & Yoga | US | imagine@imaginefitnessandyoga.com | Wellness | Drafted | Jun 27 |
+| 759 | Midtown Yoga Detroit | Detroit, MI, US | info@midtownyogadetroit.com | Wellness | Drafted | Jun 27 |
+| 760 | Zion Well | US | info@zionwell.com | Wellness | Drafted | Jun 27 |
+| 761 | InoarG | US | BlueInoarG@gmail.com | Wellness | Drafted | Jun 27 |
+| 762 | Heartspace Yoga | Northeastern PA, US | heartspacenepa@gmail.com | Wellness | Drafted | Jun 27 |
+| 763 | Raleigh Yoga Company | Raleigh, NC, US | raleighyogacompany@gmail.com | Wellness | Drafted | Jun 27 |
+| 764 | Grand Rapids Yoga Company | Grand Rapids, MI, US | kate@gryoco.com | Wellness | Drafted | Jun 27 |
+| 765 | Throwback Brewery | North Hampton, NH, US | info@throwbackbrewery.com | FMCG | Drafted | Jun 27 |
+| 766 | Zen Revolution VT | Vermont, US | Zenrevolutionvt@gmail.com | Wellness | Drafted | Jun 27 |
+| 767 | Vybe Hot Yoga | US | vybehotyoga@gmail.com | Wellness | Drafted | Jun 27 |
+| 768 | Inner G Juice and Yoga | US | innergjuice@gmail.com | Wellness | Drafted | Jun 27 |
+| 769 | Shanti Yoga + Wellness | St. Louis, MO, US | info@shantistl.com | Wellness | Drafted | Jun 27 |
+| 770 | Joy of Yoga | St. Louis, MO, US | JoyOfYogaSTL@gmail.com | Wellness | Drafted | Jun 27 |
+| 771 | AIMWell Yoga | US | admin@aim-well.org | Wellness | Drafted | Jun 27 |
+| 772 | Brick City Yoga | US | hello@brickcityyoga.com | Wellness | Drafted | Jun 27 |
+| 773 | Hot Asana Studio | Colorado Springs, CO, US | hotasanacos@icloud.com | Wellness | Drafted | Jun 27 |
+| 774 | Elevate Yoga Collective | Fort Collins, CO, US | eycfoco@gmail.com | Wellness | Drafted | Jun 27 |
+| 775 | Be Free Healing Center | US | melanie@befreehealing.com | Wellness | Drafted | Jun 27 |
+| 776 | Fountain of Health Yoga Studio | US | yogagypsee@comcast.net | Wellness | Drafted | Jun 27 |
+| 777 | Blue Buddha Collective | US | hello@ilovebluebuddha.com | Wellness | Drafted | Jun 27 |
+| 778 | Solfire Yoga | US | solfirejstreet@gmail.com | Wellness | Drafted | Jun 27 |
+| 779 | Be One Yoga Studio | US | info@beoneyogastudio.com | Wellness | Drafted | Jun 27 |
+| 780 | Alive and Shine Center | US | info@aliveandshinecenter.com | Wellness | Drafted | Jun 27 |
+| 781 | Shala Living Yoga | US | slivingyogasupport@gmail.com | Wellness | Drafted | Jun 27 |
