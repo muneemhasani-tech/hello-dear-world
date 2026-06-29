@@ -1109,4 +1109,4 @@
 | 808 | Yogahub | Dublin, IE | hello@yogahub.ie | Wellness | Drafted | Jun 29 |
 | 809 | The Yoga Room Prescott | Prescott, AZ, US | conscious.yoga@outlook.com | Wellness | Drafted | Jun 29 |
 | 810 | Ritual Yoga Missoula | Missoula, MT, US | hello@ritualyogamissoula.com | Wellness | Drafted | Jun 29 |
-| 811 | Setu Studio | Galway, IE | setustudiospace@gmail.com | Wellness | Drafted | Jun 29 |
+| 811 | Quay Yoga | Cork, IE | yogasutra@quayyoga.com | Wellness | Drafted | Jun 29 |
