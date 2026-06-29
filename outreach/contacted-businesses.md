@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 27, 2026
-**Total unique businesses:** 781
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30)
+**Last updated:** June 29, 2026
+**Total unique businesses:** 811
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30)
 
 ---
 
@@ -1073,3 +1073,40 @@
 | 779 | Be One Yoga Studio | US | info@beoneyogastudio.com | Wellness | Drafted | Jun 27 |
 | 780 | Alive and Shine Center | US | info@aliveandshinecenter.com | Wellness | Drafted | Jun 27 |
 | 781 | Shala Living Yoga | US | slivingyogasupport@gmail.com | Wellness | Drafted | Jun 27 |
+
+---
+
+## Section Y — June 29, 2026 Multi-City Batch 20 (30 businesses, #782–#811)
+
+| # | Business | City | Email | Industry | Status | Date |
+|---|---|---|---|---|---|---|
+| 782 | Border Brewing Company | Kansas City, MO, US | info@borderbrewco.com | FMCG | Drafted | Jun 29 |
+| 783 | True Love Yoga KC | Kansas City, MO, US | info@trueloveyogakc.com | Wellness | Drafted | Jun 29 |
+| 784 | Blue Bird Bistro | Kansas City, MO, US | events@bluebirdbistro.com | F&B | Drafted | Jun 29 |
+| 785 | Callsign Brewery | N. Kansas City, MO, US | contact@callsignbrewing.com | FMCG | Drafted | Jun 29 |
+| 786 | Westport Cafe | Kansas City, MO, US | bonjour@westportcafe.com | F&B | Drafted | Jun 29 |
+| 787 | Maitri Studio | Belfast, UK | info@maitristudio.net | Wellness | Drafted | Jun 29 |
+| 788 | Hot Yoga West | Belfast, UK | hotyogawest@hotmail.com | Wellness | Drafted | Jun 29 |
+| 789 | Ginger Bistro | Belfast, UK | info@gingerbistro.com | F&B | Drafted | Jun 29 |
+| 790 | Tioga-Sequoia Brewing | Fresno, CA, US | store@tioga-sequoia.com | FMCG | Drafted | Jun 29 |
+| 791 | Yoga Center of Fresno | Fresno, CA, US | info@yogacenterfresno.com | Wellness | Drafted | Jun 29 |
+| 792 | Energize Hot Yoga | Santa Rosa, CA, US | info@energizehotyoga.com | Wellness | Drafted | Jun 29 |
+| 793 | Napa Hot Yoga | Napa, CA, US | celeste@napahotyoga.com | Wellness | Drafted | Jun 29 |
+| 794 | Inversion Yoga + Pilates | Jackson Hole, WY, US | info@inversionyoga.com | Wellness | Drafted | Jun 29 |
+| 795 | Roadhouse Brewing Co. | Jackson Hole, WY, US | tours@roadhousebrewery.com | FMCG | Drafted | Jun 29 |
+| 796 | Meta Yoga Studios | Breckenridge, CO, US | info@metayogastudios.com | Wellness | Drafted | Jun 29 |
+| 797 | The Annex at Studio Pulse | Anchorage, AK, US | StudioPulseAK@gmail.com | Wellness | Drafted | Jun 29 |
+| 798 | Namaste North Yoga | Anchorage, AK, US | info@namastenorthak.com | Wellness | Drafted | Jun 29 |
+| 799 | Biga Pizza | Missoula, MT, US | info@bigapizza.com | F&B | Drafted | Jun 29 |
+| 800 | Hot Yoga Health | Newport, Wales, UK | hello@hotyogahealth.uk | Wellness | Drafted | Jun 29 |
+| 801 | Magpie Café | Whitby, UK | info@magpiecafe.co.uk | F&B | Drafted | Jun 29 |
+| 802 | Albany Yoga Room | Albany, WA, AU | joy@albanyyogaroom.com.au | Wellness | Drafted | Jun 29 |
+| 803 | OrangeYoga Studio | Cheltenham, UK | studio@orangeyoga.co.uk | Wellness | Drafted | Jun 29 |
+| 804 | Yogomotiv | Milton Keynes, UK | hello@yogomotiv.com | Wellness | Drafted | Jun 29 |
+| 805 | Elli Yoga | Milton Keynes, UK | info@elli.yoga | Wellness | Drafted | Jun 29 |
+| 806 | Little Bird Cafe & Yoga | Dublin, IE | yoga@little-bird.ie | F&B/Wellness | Drafted | Jun 29 |
+| 807 | Hot Yoga Dublin | Dublin, IE | hotyogadublin@gmail.com | Wellness | Drafted | Jun 29 |
+| 808 | Yogahub | Dublin, IE | hello@yogahub.ie | Wellness | Drafted | Jun 29 |
+| 809 | The Yoga Room Prescott | Prescott, AZ, US | conscious.yoga@outlook.com | Wellness | Drafted | Jun 29 |
+| 810 | Ritual Yoga Missoula | Missoula, MT, US | hello@ritualyogamissoula.com | Wellness | Drafted | Jun 29 |
+| 811 | Setu Studio | Galway, IE | setustudiospace@gmail.com | Wellness | Drafted | Jun 29 |
