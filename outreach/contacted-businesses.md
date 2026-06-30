@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 29, 2026
-**Total unique businesses:** 811
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30)
+**Last updated:** June 30, 2026
+**Total unique businesses:** 841
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30)
 
 ---
 
@@ -1110,3 +1110,40 @@
 | 809 | The Yoga Room Prescott | Prescott, AZ, US | conscious.yoga@outlook.com | Wellness | Drafted | Jun 29 |
 | 810 | Ritual Yoga Missoula | Missoula, MT, US | hello@ritualyogamissoula.com | Wellness | Drafted | Jun 29 |
 | 811 | Quay Yoga | Cork, IE | yogasutra@quayyoga.com | Wellness | Drafted | Jun 29 |
+
+---
+
+## Section Z — June 30, 2026 UK-IE-AU Batch 21 (30 businesses, #812–#841)
+
+| # | Business | City | Email | Industry | Status | Date |
+|---|---|---|---|---|---|---|
+| 812 | Bilates | Bristol, UK | hello@bilates.co.uk | Wellness | Drafted | Jun 30 |
+| 813 | Soul Pilates | Bristol, UK | info@soulpilates.co.uk | Wellness | Drafted | Jun 30 |
+| 814 | Higher Ground | Manchester, UK | hello@highergroundmcr.co.uk | F&B | Drafted | Jun 30 |
+| 815 | Yoga North | Leeds, UK | hello@yoga-north.co.uk | Wellness | Drafted | Jun 30 |
+| 816 | Kuwa Pilates | Leeds, UK | info@kuwapilates.co.uk | Wellness | Drafted | Jun 30 |
+| 817 | Pause Pilates Studios | Birmingham, UK | hello@pausepilatesstudios.co.uk | Wellness | Drafted | Jun 30 |
+| 818 | Burnt Orange | Brighton, UK | info@burnt-orange.co.uk | F&B | Drafted | Jun 30 |
+| 819 | The Roar Movement | Nottingham, UK | hello@theroarmovement.co.uk | Wellness | Drafted | Jun 30 |
+| 820 | Coia's Cafe | Glasgow, UK | hello@coiascafe.co.uk | F&B | Drafted | Jun 30 |
+| 821 | Gloriosa | Glasgow, UK | hello@gloriosaglasgow.com | F&B | Drafted | Jun 30 |
+| 822 | Cardiff Pilates Studio | Cardiff, UK | info@cardiffpilatesstudio.com | Wellness | Drafted | Jun 30 |
+| 823 | Jam Restaurant | Liverpool, UK | info@jamrestaurants.co.uk | F&B | Drafted | Jun 30 |
+| 824 | Belzan | Liverpool, UK | hello@belzan.co.uk | F&B | Drafted | Jun 30 |
+| 825 | Fade Street Social | Dublin, IE | info@fadestreetsocial.com | F&B | Drafted | Jun 30 |
+| 826 | The Brazen Head | Dublin, IE | info@brazenhead.com | F&B | Drafted | Jun 30 |
+| 827 | The Bank on College Green | Dublin, IE | info@bankoncollegegreen.com | F&B | Drafted | Jun 30 |
+| 828 | Kai Restaurant | Galway, IE | hello@kaiglway.com | F&B | Drafted | Jun 30 |
+| 829 | Brasserie on the Corner | Galway, IE | info@brasseriegalway.com | F&B | Drafted | Jun 30 |
+| 830 | Salt & Soul | Sligo, IE | info@saltandsoul.ie | Wellness | Drafted | Jun 30 |
+| 831 | Luna Yoga | Melbourne, AU | info@lunayoga.com.au | Wellness | Drafted | Jun 30 |
+| 832 | ALL DAY | Brisbane, AU | hello@all-day.com.au | F&B | Drafted | Jun 30 |
+| 833 | Yogita Yoga | Adelaide, AU | info@yogitayoga.com | Wellness | Drafted | Jun 30 |
+| 834 | Alceme | Hobart, AU | info@alceme.com | Wellness | Drafted | Jun 30 |
+| 835 | South Hobart Yoga & Meditation | Hobart, AU | hello@shyam.net.au | Wellness | Drafted | Jun 30 |
+| 836 | Hot Yoga Gold Coast | Gold Coast, AU | info@hotyogagoldcoast.com.au | Wellness | Drafted | Jun 30 |
+| 837 | Yoga West | Auckland, NZ | info@yogawest.co.nz | Wellness | Drafted | Jun 30 |
+| 838 | Sala Studio | Auckland, NZ | hello@sala.studio | Wellness | Drafted | Jun 30 |
+| 839 | Flow Hot Yoga | Christchurch, NZ | admin@flowhotyoga.co.nz | Wellness | Drafted | Jun 30 |
+| 840 | Yoga loft Newcastle | Newcastle, AU | info@yogaloft.com.au | Wellness | Drafted | Jun 30 |
+| 841 | Ashtanga Yoga Newcastle | Newcastle, AU | info@ashtangayoganewcastle.com | Wellness | Drafted | Jun 30 |
