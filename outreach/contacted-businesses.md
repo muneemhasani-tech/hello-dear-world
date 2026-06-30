@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 27, 2026
-**Total unique businesses:** 781
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30)
+**Last updated:** June 30, 2026
+**Total unique businesses:** 811
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30)
 
 ---
 
@@ -1073,3 +1073,40 @@
 | 779 | Be One Yoga Studio | US | info@beoneyogastudio.com | Wellness | Drafted | Jun 27 |
 | 780 | Alive and Shine Center | US | info@aliveandshinecenter.com | Wellness | Drafted | Jun 27 |
 | 781 | Shala Living Yoga | US | slivingyogasupport@gmail.com | Wellness | Drafted | Jun 27 |
+
+### Section Y — June 30, 2026 Multi-City Batch 20 (30 emails)
+
+**Cities:** Wellington NZ · Shepparton VIC AU · Gloucester UK · Chelmsford UK · Cork IE · Columbus GA US · Bowling Green KY US · Dothan AL US
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 782 | Pravda Café | Wellington, NZ | info@pravdacafe.co.nz | F&B | Drafted | Jun 30 |
+| 783 | Now Yoga | Wellington, NZ | kiaora@nowyoga.nz | Wellness | Drafted | Jun 30 |
+| 784 | Hot Yoga Wellington | Wellington, NZ | info@hotyogawellington.co.nz | Wellness | Drafted | Jun 30 |
+| 785 | Anahata Yoga Studio | Wellington, NZ | anahatastudiopetone@gmail.com | Wellness | Drafted | Jun 30 |
+| 786 | Yoga for the People | Wellington, NZ | wgtn@yogaforthepeople.co.nz | Wellness | Drafted | Jun 30 |
+| 787 | Space Studio | Wellington, NZ | info@spaceyoga.nz | Wellness | Drafted | Jun 30 |
+| 788 | Iyengar Yoga Centre Wellington | Wellington, NZ | tessa@wellingtonyoga.co.nz | Wellness | Drafted | Jun 30 |
+| 789 | Elsewhere at SAM | Shepparton, VIC, AU | hello@elsewhereatsam.com.au | F&B | Drafted | Jun 30 |
+| 790 | BelCibo & Co | Shepparton, VIC, AU | hello@belciboandco.com.au | F&B | Drafted | Jun 30 |
+| 791 | Little Lipari | Shepparton, VIC, AU | Littlelipari2024@gmail.com | F&B | Drafted | Jun 30 |
+| 792 | Friars Cafe | Shepparton, VIC, AU | Cafefriars@gmail.com | F&B | Drafted | Jun 30 |
+| 793 | Mister's Cafe & Bistro | Gloucester, UK | hello@misterscafe.co.uk | F&B | Drafted | Jun 30 |
+| 794 | Café René | Gloucester, UK | info@caferene.co.uk | F&B | Drafted | Jun 30 |
+| 795 | Gloucester Brewery | Gloucester, UK | enquiries@gloucesterbrewery.co.uk | FMCG | Drafted | Jun 30 |
+| 796 | Quay Yoga Studio | Gloucester, UK | team@quayyogastudio.co.uk | Wellness | Drafted | Jun 30 |
+| 797 | Amalfi Bistro | Chelmsford, UK | hello@amalfi-bistro.co.uk | F&B | Drafted | Jun 30 |
+| 798 | Chelmsford Brewing Company | Chelmsford, UK | info@chelmsfordbrewco.co.uk | FMCG | Drafted | Jun 30 |
+| 799 | Driink Coffee Club | Chelmsford, UK | driink@icloud.com | F&B | Drafted | Jun 30 |
+| 800 | Soul Yoga Cork | Cork, IE | soulyogacork@gmail.com | Wellness | Drafted | Jun 30 |
+| 801 | Sacred Body Studio | Cork, IE | info@sacredbodystudio.com | Wellness | Drafted | Jun 30 |
+| 802 | River Flow Yoga and Wellness | Columbus, GA, US | dana@riverflowyogacolumbus.com | Wellness | Drafted | Jun 30 |
+| 803 | Art of Yoga Columbus | Columbus, GA, US | artofyogacolumbusga@gmail.com | Wellness | Drafted | Jun 30 |
+| 804 | Plug & Play Namaste | Columbus, GA, US | plugandplaynamaste@gmail.com | Wellness | Drafted | Jun 30 |
+| 805 | The Cannon Brewpub | Columbus, GA, US | cannon@valleyhospitality.com | F&B | Drafted | Jun 30 |
+| 806 | EPI Restaurant | Columbus, GA, US | info@epiccuisine.com | F&B | Drafted | Jun 30 |
+| 807 | Bodega 1205 | Columbus, GA, US | admin@bodega1205.com | F&B | Drafted | Jun 30 |
+| 808 | Be Happy Yoga & Salt Cave | Bowling Green, KY, US | support@behappybg.com | Wellness | Drafted | Jun 30 |
+| 809 | Core Element Yoga | Bowling Green, KY, US | craig@coreelementyoga.com | Wellness | Drafted | Jun 30 |
+| 810 | The Nightingale Studio | Bowling Green, KY, US | mamabird@thenightingalestudio.com | Wellness | Drafted | Jun 30 |
+| 811 | Folklore Brewing & Meadery | Dothan, AL, US | info@folklorebrewing.com | FMCG | Drafted | Jun 30 |
