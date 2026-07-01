@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 30, 2026
-**Total unique businesses:** 841
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30)
+**Last updated:** July 1, 2026
+**Total unique businesses:** 871
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30)
 
 ---
 
@@ -1147,3 +1147,40 @@
 | 839 | Flow Hot Yoga | Christchurch, NZ | admin@flowhotyoga.co.nz | Wellness | Drafted | Jun 30 |
 | 840 | Yoga loft Newcastle | Newcastle, AU | info@yogaloft.com.au | Wellness | Drafted | Jun 30 |
 | 841 | Ashtanga Yoga Newcastle | Newcastle, AU | info@ashtangayoganewcastle.com | Wellness | Drafted | Jun 30 |
+
+---
+
+## Section AA — July 1, 2026 (US-Only Batch 22)
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 842 | Asheville Pilates Studio | Asheville, NC | info@ashevillepilates.com | Wellness | Drafted | Jul 1 |
+| 843 | Happy Body Pilates | Asheville, NC | info@ashevillehappybody.com | Wellness | Drafted | Jul 1 |
+| 844 | Cafe M Savannah | Savannah, GA | owner@cafemsavannah.com | F&B | Drafted | Jul 1 |
+| 845 | Still Water Yoga | Bend, OR | info@stillwateryoga.org | Wellness | Drafted | Jul 1 |
+| 846 | Tula Movement Arts | Bend, OR | info@tulamovementarts.com | Wellness | Drafted | Jul 1 |
+| 847 | The Hot Room | Portsmouth, NH | info@thehotroomnh.com | Wellness | Drafted | Jul 1 |
+| 848 | Mind Body Knox | Knoxville, TN | admin@mindbodyknox.com | Wellness | Drafted | Jul 1 |
+| 849 | Burlington Beer Company | Burlington, VT | hello@burlingtonbeercompany.com | FMCG | Drafted | Jul 1 |
+| 850 | Wilmington Yoga Center | Wilmington, NC | info@wilmingtonyogacenter.com | Wellness | Drafted | Jul 1 |
+| 851 | Corazon Holistic Health | Columbia, SC | info@corazonholistichealth.com | Wellness | Drafted | Jul 1 |
+| 852 | Santa Fe Community Yoga Center | Santa Fe, NM | info@santafecommunityyoga.org | Wellness | Drafted | Jul 1 |
+| 853 | Elsie's Daughters | Chattanooga, TN | hello@elsiesdaughters.com | F&B | Drafted | Jul 1 |
+| 854 | Precision Pilates of Spokane | Spokane, WA | info@precisionpilatesofspokane.com | Wellness | Drafted | Jul 1 |
+| 855 | Cafe Florabella | Missoula, MT | hello@florabellamissoula.com | F&B | Drafted | Jul 1 |
+| 856 | Little Bull | Durham, NC | info@littlebullnc.com | F&B | Drafted | Jul 1 |
+| 857 | Zweli's Ekhaya | Durham, NC | info@zwelis.com | F&B | Drafted | Jul 1 |
+| 858 | Twisted Grit Yoga | Madison, WI | info@twistedgrityoga.com | Wellness | Drafted | Jul 1 |
+| 859 | Sava's Ann Arbor | Ann Arbor, MI | info@savasannarbor.com | F&B | Drafted | Jul 1 |
+| 860 | Aventura Ann Arbor | Ann Arbor, MI | info@aventuraannarbor.com | F&B | Drafted | Jul 1 |
+| 861 | EZ Foods Olympia | Olympia, WA | info@ezfoods.com | F&B | Drafted | Jul 1 |
+| 862 | Eugene Pilates | Eugene, OR | info@eugenepilates.com | Wellness | Drafted | Jul 1 |
+| 863 | FIT 850 | Tallahassee, FL | info@fit850.com | Wellness | Drafted | Jul 1 |
+| 864 | The Manship | Jackson, MS | info@themanshipjackson.com | F&B | Drafted | Jul 1 |
+| 865 | Estelle Southern Table | Jackson, MS | info@estellejackson.com | F&B | Drafted | Jul 1 |
+| 866 | BCW (Bread Cheese Wine) | Little Rock, AR | info@bcwlittlerock.com | F&B | Drafted | Jul 1 |
+| 867 | Problem Child | Little Rock, AR | info@problemchildlittlerock.com | F&B | Drafted | Jul 1 |
+| 868 | Remedy Movement | Raleigh, NC | info@remedymovement.com | Wellness | Drafted | Jul 1 |
+| 869 | Heights Pilates | Raleigh, NC | hello@heightspilates.com | Wellness | Drafted | Jul 1 |
+| 870 | The Yoga Connection | Tucson, AZ | info@yogaconnection.org | Wellness | Drafted | Jul 1 |
+| 871 | High Desert Yoga | Albuquerque, NM | yogainfo@highdesertyoga.com | Wellness | Drafted | Jul 1 |
