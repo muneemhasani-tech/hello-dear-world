@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** June 30, 2026
-**Total unique businesses:** 811
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30)
+**Last updated:** July 1, 2026
+**Total unique businesses:** 841
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30)
 
 ---
 
@@ -1110,3 +1110,40 @@
 | 809 | Core Element Yoga | Bowling Green, KY, US | craig@coreelementyoga.com | Wellness | Drafted | Jun 30 |
 | 810 | The Nightingale Studio | Bowling Green, KY, US | mamabird@thenightingalestudio.com | Wellness | Drafted | Jun 30 |
 | 811 | Folklore Brewing & Meadery | Dothan, AL, US | info@folklorebrewing.com | FMCG | Drafted | Jun 30 |
+
+### Section Z — July 1, 2026 Multi-City Batch 21 (30 emails)
+
+**Cities:** Christchurch NZ · Dunedin NZ · Geelong VIC AU · Launceston TAS AU · Shrewsbury UK · Chichester UK · Galway IE · Limerick IE · Fort Wayne IN US · Wichita KS US · Tulsa OK US
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 812 | Fiddlesticks Restaurant & Bar | Christchurch, NZ | info@fiddlesticksbar.co.nz | F&B | Drafted | Jul 1 |
+| 813 | Milieu Cafe | Christchurch, NZ | info@milieu.net.nz | F&B | Drafted | Jul 1 |
+| 814 | The Yoga Place | Christchurch, NZ | jo@theyogaplace.co.nz | Wellness | Drafted | Jul 1 |
+| 815 | YogaIntuition | Christchurch, NZ | contact@yogaintuition.nz | Wellness | Drafted | Jul 1 |
+| 816 | Flow Yoga Christchurch | Christchurch, NZ | info@flowhotyoga.co.nz | Wellness | Drafted | Jul 1 |
+| 817 | Alto Cafe | Dunedin, NZ | info@altocafe.co.nz | F&B | Drafted | Jul 1 |
+| 818 | tītī Restaurant | Dunedin, NZ | hello@titi.co.nz | F&B | Drafted | Jul 1 |
+| 819 | Cafe Go | Geelong, VIC, AU | cafe@cafego.com.au | F&B | Drafted | Jul 1 |
+| 820 | Pavilion Geelong | Geelong, VIC, AU | info@paviliongeelong.com.au | F&B | Drafted | Jul 1 |
+| 821 | Satsang Yoga Sanctuary | Launceston, TAS, AU | satsangtas@gmail.com | Wellness | Drafted | Jul 1 |
+| 822 | CSONS | Shrewsbury, UK | eat@csons-shrewsbury.co.uk | F&B | Drafted | Jul 1 |
+| 823 | House of the Rising Sun | Shrewsbury, UK | info@hotrs.co.uk | F&B | Drafted | Jul 1 |
+| 824 | Yogalicious Studio | Shrewsbury, UK | info@yogaliciousonline.co.uk | Wellness | Drafted | Jul 1 |
+| 825 | LANO Life | Chichester, UK | info@lanoyoga.com | Wellness | Drafted | Jul 1 |
+| 826 | The Vale Café & Wellness Studio | Chichester, UK | team@thevalecafestudio.co.uk | Wellness | Drafted | Jul 1 |
+| 827 | SoulMoves | Galway, IE | info@soulmoves.ie | Wellness | Drafted | Jul 1 |
+| 828 | Treat Cafe | Galway, IE | catering@treatcafe.ie | F&B | Drafted | Jul 1 |
+| 829 | Blackrock Cottage | Salthill, Galway, IE | enquiries@blackrockcottage.ie | F&B | Drafted | Jul 1 |
+| 830 | The Hot Rooms | Limerick, IE | info@thehotrooms.ie | Wellness | Drafted | Jul 1 |
+| 831 | Discover Yoga | Fort Wayne, IN, US | Chelsea@DiscoverYogaFw.com | Wellness | Drafted | Jul 1 |
+| 832 | Tolon Restaurant | Fort Wayne, IN, US | info@tolonrestaurant.com | F&B | Drafted | Jul 1 |
+| 833 | Loving Cafe | Fort Wayne, IN, US | info@lovingcafefw.com | F&B | Drafted | Jul 1 |
+| 834 | PranaYoga School | Fort Wayne, IN, US | dani@pranayogaschool.com | Wellness | Drafted | Jul 1 |
+| 835 | Living Yoga Collective | Wichita, KS, US | livingyogacollective@gmail.com | Wellness | Drafted | Jul 1 |
+| 836 | Ganesh Yoga Studio | Wichita, KS, US | ganeshyogastudio@gmail.com | Wellness | Drafted | Jul 1 |
+| 837 | Satya Moon Yoga | Wichita, KS, US | satyamoonyoga@gmail.com | Wellness | Drafted | Jul 1 |
+| 838 | Wichita Body Studio | Wichita, KS, US | staff@wichitabodystudio.com | Wellness | Drafted | Jul 1 |
+| 839 | Updog Yoga | Tulsa, OK, US | info@updogyogatulsa.com | Wellness | Drafted | Jul 1 |
+| 840 | Through Breath Yoga | Wichita, KS, US | hope@throughbreath.com | Wellness | Drafted | Jul 1 |
+| 841 | Tor Brewing | Wichita, KS, US | torbrewing@gmail.com | FMCG | Drafted | Jul 1 |
