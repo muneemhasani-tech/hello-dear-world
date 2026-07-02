@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 1, 2026
-**Total unique businesses:** 841
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30)
+**Last updated:** July 2, 2026
+**Total unique businesses:** 871
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30)
 
 ---
 
@@ -1147,3 +1147,40 @@
 | 839 | Updog Yoga | Tulsa, OK, US | info@updogyogatulsa.com | Wellness | Drafted | Jul 1 |
 | 840 | Through Breath Yoga | Wichita, KS, US | hope@throughbreath.com | Wellness | Drafted | Jul 1 |
 | 841 | Tor Brewing | Wichita, KS, US | torbrewing@gmail.com | FMCG | Drafted | Jul 1 |
+
+### Section AA — July 2, 2026 Multi-City Batch 22 (30 emails)
+
+**Cities:** Armidale NSW AU · Stratford-upon-Avon UK · Salisbury UK · Wexford IE · Westport IE · Annapolis MD US · Kingsport TN US · Springfield IL US · Helena MT US · Casper WY US
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 842 | Altitude Coffee Roastery | Armidale, NSW, AU | info@altitudecoffeeroastery.com.au | F&B | Drafted | Jul 2 |
+| 843 | Easy As Coffee | Armidale, NSW, AU | easyasarmidale@gmail.com | F&B | Drafted | Jul 2 |
+| 844 | Six Counties Cafe | Armidale, NSW, AU | functions@sixcounties.com.au | F&B | Drafted | Jul 2 |
+| 845 | The Loft Studio | Stratford-upon-Avon, UK | info@theloft-studio.co.uk | Wellness | Drafted | Jul 2 |
+| 846 | Emily B Yoga | Salisbury, UK | emilybyogasalisbury@gmail.com | Wellness | Drafted | Jul 2 |
+| 847 | Radiant Yoga | Salisbury, UK | radiantyoga.jane@gmail.com | Wellness | Drafted | Jul 2 |
+| 848 | Rifleman's Table | Salisbury, UK | Info@riflemanstable.co.uk | F&B | Drafted | Jul 2 |
+| 849 | Brucester's Coffee | Stratford-upon-Avon, UK | brucesterscoffee@gmail.com | F&B | Drafted | Jul 2 |
+| 850 | Wellness with Majella | Wexford, IE | hotyogawexford@gmail.com | Wellness | Drafted | Jul 2 |
+| 851 | Earthwise Yoga | Wexford, IE | earthwiseyoga@gmail.com | Wellness | Drafted | Jul 2 |
+| 852 | Krēm Gelateria & Cafe | Westport, IE | info@krem.ie | F&B | Drafted | Jul 2 |
+| 853 | Servd. | Westport, IE | hello@servd.ie | F&B | Drafted | Jul 2 |
+| 854 | The Creel | Westport, IE | Info@thecreel.ie | F&B | Drafted | Jul 2 |
+| 855 | Crafty | Wexford, IE | craftywexford@gmail.com | F&B | Drafted | Jul 2 |
+| 856 | Blue Lotus Yoga | Annapolis, MD, US | info@bluelotusannapolis.com | Wellness | Drafted | Jul 2 |
+| 857 | Groundswell Yoga | Annapolis, MD, US | duffy@groundswellannapolis.com | Wellness | Drafted | Jul 2 |
+| 858 | Align Yoga Studio | Annapolis, MD, US | info@alignyogastudio.com | Wellness | Drafted | Jul 2 |
+| 859 | Evolutions | Annapolis, MD, US | info@evolutionsannapolis.com | Wellness | Drafted | Jul 2 |
+| 860 | 6ix Grist & Grind | Kingsport, TN, US | TalkToUs@6ixbrews.com | F&B | Drafted | Jul 2 |
+| 861 | The Mustard Seed Café | Kingsport, TN, US | info@mustardseedcafekingsport.com | F&B | Drafted | Jul 2 |
+| 862 | Latin Love Kitchen | Kingsport, TN, US | LatinLOVEkitchen@gmail.com | F&B | Drafted | Jul 2 |
+| 863 | Flanagan Brothers Bierworks | Kingsport, TN, US | Michael.Flanagan@flanaganbros.com | F&B | Drafted | Jul 2 |
+| 864 | Ahh Yoga | Springfield, IL, US | info@ahhyoga.net | Wellness | Drafted | Jul 2 |
+| 865 | Balance Yoga | Springfield, IL, US | balanceyoga217@gmail.com | Wellness | Drafted | Jul 2 |
+| 866 | FLOW Midwest Yoga & Meditation | Springfield, IL, US | yoga@flowspf.com | Wellness | Drafted | Jul 2 |
+| 867 | Half Moon Yoga Fit | Springfield, IL, US | contact@halfmoonyogafit.com | Wellness | Drafted | Jul 2 |
+| 868 | Gentle Healing Center | Helena, MT, US | Info@gentlehealinghelena.com | Wellness | Drafted | Jul 2 |
+| 869 | Hot Yoga Helena | Helena, MT, US | nicoletwitchell@gmail.com | Wellness | Drafted | Jul 2 |
+| 870 | Headwaters Crafthouse | Helena, MT, US | headwaterscrafthouse@gmail.com | F&B | Drafted | Jul 2 |
+| 871 | WyoFitness307 | Casper, WY, US | wyofitness307@gmail.com | Wellness | Drafted | Jul 2 |
