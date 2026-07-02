@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 1, 2026
-**Total unique businesses:** 871
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30)
+**Last updated:** July 2, 2026
+**Total unique businesses:** 901
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30)
 
 ---
 
@@ -1184,3 +1184,43 @@
 | 869 | Heights Pilates | Raleigh, NC | hello@heightspilates.com | Wellness | Drafted | Jul 1 |
 | 870 | The Yoga Connection | Tucson, AZ | info@yogaconnection.org | Wellness | Drafted | Jul 1 |
 | 871 | High Desert Yoga | Albuquerque, NM | yogainfo@highdesertyoga.com | Wellness | Drafted | Jul 1 |
+
+---
+
+## Section AB — July 2, 2026 (US-Only Batch 23)
+
+*Cities: Sarasota FL · Athens GA · Providence RI · Pensacola FL · Huntsville AL · Baton Rouge LA · Fort Myers FL · Augusta GA · Gainesville FL · Myrtle Beach SC · Columbus OH · Corpus Christi TX · Tulsa OK · Lexington KY · Sioux Falls SD · Des Moines IA · Billings MT · Rapid City SD · Tacoma WA · Bellingham WA · Laramie WY · Traverse City MI · Duluth MN · Savannah GA · Helena MT · Ashland OR · Cheyenne WY*
+*All 30 confirmed new — cross-checked against 871-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 Gmail drafts saved.*
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 872 | Uplift on Orange | Sarasota, FL | info@upliftonorange.com | Wellness | Drafted | Jul 2 |
+| 873 | Big City Bread Cafe | Athens, GA | info@bcbcafe.com | F&B | Drafted | Jul 2 |
+| 874 | Providence Pilates Center | Providence, RI | hello@providencepilatescenter.com | Wellness | Drafted | Jul 2 |
+| 875 | The Pilates Point Studio | Providence, RI | info@thepilatespointstudio.com | Wellness | Drafted | Jul 2 |
+| 876 | Pearl & Horn | Pensacola, FL | hello@pearlandhorn.com | F&B | Drafted | Jul 2 |
+| 877 | Havanabama | Pensacola, FL | info@havanabama.com | F&B | Drafted | Jul 2 |
+| 878 | Move Your Body Yoga | Huntsville, AL | info@moveyourbodyyoga.com | Wellness | Drafted | Jul 2 |
+| 879 | Align with Sue PT & Pilates | Huntsville, AL | info@alignptpilates.com | Wellness | Drafted | Jul 2 |
+| 880 | Fat Man's Mill Cafe | Augusta, GA | info@fatmans.com | F&B | Drafted | Jul 2 |
+| 881 | Luigi's Trattoria | Myrtle Beach, SC | info@luigismyrtlebeach.com | F&B | Drafted | Jul 2 |
+| 882 | Heated Pilates Sculpt Yoga | Columbus, OH | info@heated614.com | Wellness | Drafted | Jul 2 |
+| 883 | SOMOS Yoga | Corpus Christi, TX | info@somos.yoga | Wellness | Drafted | Jul 2 |
+| 884 | ORA: Mind + Body | Tulsa, OK | hello@oratulsa.com | Wellness | Drafted | Jul 2 |
+| 885 | Dudley's on Short | Lexington, KY | info@dudleysrestaurant.com | F&B | Drafted | Jul 2 |
+| 886 | The Wellness Collective | Sioux Falls, SD | info@wellnesscollectivesd.com | Wellness | Drafted | Jul 2 |
+| 887 | DM Wellness & Yoga | Des Moines, IA | info@dmwellnessyoga.com | Wellness | Drafted | Jul 2 |
+| 888 | Local Kitchen & Bar | Billings, MT | info@localbillings.com | F&B | Drafted | Jul 2 |
+| 889 | Sol Vibe Studio | Rapid City, SD | hello@solvibestudio.com | Wellness | Drafted | Jul 2 |
+| 890 | Tuladhara Yoga | Tacoma, WA | info@tuladharayoga.com | Wellness | Drafted | Jul 2 |
+| 891 | The Black Cat | Bellingham, WA | info@blackcatbellingham.com | F&B | Drafted | Jul 2 |
+| 892 | Storia Cucina | Bellingham, WA | info@storiacucina.com | F&B | Drafted | Jul 2 |
+| 893 | Alibi Wood Fire | Laramie, WY | info@alibiwoodfire.com | F&B | Drafted | Jul 2 |
+| 894 | Modern Bird TC | Traverse City, MI | hello@modernbirdtc.com | F&B | Drafted | Jul 2 |
+| 895 | New Scenic Cafe | Duluth, MN | hello@newsceniccafe.com | F&B | Drafted | Jul 2 |
+| 896 | Waters Pilates and Wellness | Savannah, GA | welcome@waterspilates.com | Wellness | Drafted | Jul 2 |
+| 897 | Momentum Pilates Savannah | Savannah, GA | info@pilatessavannah.com | Wellness | Drafted | Jul 2 |
+| 898 | Evolve Studio | Baton Rouge, LA | info@evolvestudiobr.com | Wellness | Drafted | Jul 2 |
+| 899 | Nagoya Steakhouse | Helena, MT | info@nagoyahouse.com | F&B | Drafted | Jul 2 |
+| 900 | Rogue Valley Yoga | Ashland, OR | info@roguevalleyyoga.com | Wellness | Drafted | Jul 2 |
+| 901 | Lady Kels Yoga | Cheyenne, WY | info@ladykelsyoga.com | Wellness | Drafted | Jul 2 |
