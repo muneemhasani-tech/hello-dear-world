@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 2, 2026
-**Total unique businesses:** 901
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30)
+**Last updated:** July 3, 2026
+**Total unique businesses:** 931
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30)
 
 ---
 
@@ -1224,3 +1224,43 @@
 | 899 | Nagoya Steakhouse | Helena, MT | info@nagoyahouse.com | F&B | Drafted | Jul 2 |
 | 900 | Rogue Valley Yoga | Ashland, OR | info@roguevalleyyoga.com | Wellness | Drafted | Jul 2 |
 | 901 | Lady Kels Yoga | Cheyenne, WY | info@ladykelsyoga.com | Wellness | Drafted | Jul 2 |
+
+---
+
+## Section AC — July 3, 2026 (UK-IE Batch 24)
+
+*Cities: Bristol UK · Leeds UK · Sheffield UK · Edinburgh UK · Belfast UK · Cardiff Wales · Liverpool UK · Glasgow UK · Brighton UK · Newcastle UK · Nottingham UK · Manchester UK · Exeter UK · Dublin IE · Cork IE*
+*All 30 confirmed new — cross-checked against 901-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch. All 30 Gmail drafts saved (UK/IE only).*
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 902 | Simply Pilates | Bristol, UK | info@simply-pilates.co.uk | Wellness | Drafted | Jul 3 |
+| 903 | Bristol Yoga Centre | Bristol, UK | hello@bristolyogacentre.co.uk | Wellness | Drafted | Jul 3 |
+| 904 | Omkari Yoga | Bristol, UK | info@omkariyoga.com | Wellness | Drafted | Jul 3 |
+| 905 | BLOC Studio | Leeds, UK | hello@blocstudio.co.uk | Wellness | Drafted | Jul 3 |
+| 906 | Ox Club | Leeds, UK | info@oxclub.co.uk | F&B | Drafted | Jul 3 |
+| 907 | South Street Kitchen | Sheffield, UK | info@southstreetkitchen.org | F&B | Drafted | Jul 3 |
+| 908 | Six and a Half | Sheffield, UK | hello@sixandahalf.co.uk | F&B | Drafted | Jul 3 |
+| 909 | Chop Shop Bar & Grill | Sheffield, UK | hello@chopshopbarandgrill.co.uk | F&B | Drafted | Jul 3 |
+| 910 | Lokanta | Sheffield, UK | info@lokanta.co.uk | F&B | Drafted | Jul 3 |
+| 911 | True Loves | Sheffield, UK | hello@true-loves.co.uk | F&B | Drafted | Jul 3 |
+| 912 | Edinburgh Larder | Edinburgh, UK | info@edinburghlarder.co.uk | F&B | Drafted | Jul 3 |
+| 913 | Scotts Kitchen | Edinburgh, UK | hello@scottskitchen.co.uk | F&B | Drafted | Jul 3 |
+| 914 | Studio 52 | Belfast, UK | hello@studio52.yoga | Wellness | Drafted | Jul 3 |
+| 915 | Align Movement Studios | Belfast, UK | info@alignmovementstudios.com | Wellness | Drafted | Jul 3 |
+| 916 | Mountain Yoga | Cardiff, Wales | info@mountainyoga.co.uk | Wellness | Drafted | Jul 3 |
+| 917 | Yoga Hub Liverpool | Liverpool, UK | info@yogahubliverpool.co.uk | Wellness | Drafted | Jul 3 |
+| 918 | YinYan Yoga & Pilates | Liverpool, UK | hello@yinyan.co.uk | Wellness | Drafted | Jul 3 |
+| 919 | Singl-end Cafe | Glasgow, UK | garnethill@thesingl-end.co.uk | F&B | Drafted | Jul 3 |
+| 920 | Ardnamurchan | Glasgow, UK | reservations@ardnamurchan.biz | F&B | Drafted | Jul 3 |
+| 921 | Lazy Fin | Brighton, UK | hello@lazyfin.co.uk | F&B | Drafted | Jul 3 |
+| 922 | Reformed Pilates | Brighton, UK | hello@reformedpilates.co.uk | Wellness | Drafted | Jul 3 |
+| 923 | Blackfriars Restaurant | Newcastle, UK | info@blackfriarsrestaurant.co.uk | F&B | Drafted | Jul 3 |
+| 924 | Knoops | Nottingham, UK | hello@knoops.co.uk | F&B | Drafted | Jul 3 |
+| 925 | Lemon & Duke | Dublin, IE | hello@lemonandduke.ie | F&B | Drafted | Jul 3 |
+| 926 | Little Lemon | Dublin, IE | hello@littlelemon.ie | F&B | Drafted | Jul 3 |
+| 927 | Borgo | Dublin, IE | hello@borgodublin.ie | F&B | Drafted | Jul 3 |
+| 928 | Eleven | Dublin, IE | info@elevendublin.ie | F&B | Drafted | Jul 3 |
+| 929 | The Blackrock | Dublin, IE | hello@theblackrock.ie | F&B | Drafted | Jul 3 |
+| 930 | Radiant Pilates | Exeter, UK | hello@radiantpilates.co.uk | Wellness | Drafted | Jul 3 |
+| 931 | Greenwich Cafe | Cork, IE | hello@greenwichcafe.ie | F&B | Drafted | Jul 3 |
