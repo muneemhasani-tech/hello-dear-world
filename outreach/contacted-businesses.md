@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 2, 2026
-**Total unique businesses:** 871
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30)
+**Last updated:** July 3, 2026
+**Total unique businesses:** 901
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30) + July 3 Multi-City Batch 23 (30)
 
 ---
 
@@ -1184,3 +1184,41 @@
 | 869 | Hot Yoga Helena | Helena, MT, US | nicoletwitchell@gmail.com | Wellness | Drafted | Jul 2 |
 | 870 | Headwaters Crafthouse | Helena, MT, US | headwaterscrafthouse@gmail.com | F&B | Drafted | Jul 2 |
 | 871 | WyoFitness307 | Casper, WY, US | wyofitness307@gmail.com | Wellness | Drafted | Jul 2 |
+
+### Section AB — July 3, 2026 Multi-City Batch 23 (30 emails)
+
+*Cities: Toowoomba QLD AU · Ballarat VIC AU · Bath UK · Kilkenny IE · Waterford IE · Chattanooga TN US · Madison WI US · Peoria IL US · Missoula MT US · Bend OR US*
+*All 30 confirmed new — cross-checked against 871-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 872 | Sweet Talk Coffee | Toowoomba, QLD, AU | hello@sweettalkcoffee.com.au | F&B | Drafted | Jul 3 |
+| 873 | Kingfishers Cafe & Restaurant | Toowoomba, QLD, AU | bookings@kingfisherscafe.com.au | F&B | Drafted | Jul 3 |
+| 874 | 95 Mary Street | Toowoomba, QLD, AU | service@95marystreet.com.au | F&B | Drafted | Jul 3 |
+| 875 | The Hydrant Food Hall | Ballarat, VIC, AU | hello@thehydrant.com.au | F&B | Drafted | Jul 3 |
+| 876 | Freda's Café Restaurant Bar | Ballarat, VIC, AU | info@fredascaferestaurantbar.com.au | F&B | Drafted | Jul 3 |
+| 877 | YogaKave | Bath, UK | team@yogakave.com | Wellness | Drafted | Jul 3 |
+| 878 | Treetop Cafe | Bath, UK | hello@treetopcafebath.co.uk | F&B | Drafted | Jul 3 |
+| 879 | Adventure Cafe Bar | Bath, UK | info@adventurecafebar.co.uk | F&B | Drafted | Jul 3 |
+| 880 | Electric Bear Brewing | Bath, UK | hello@electricbearbrewing.com | F&B | Drafted | Jul 3 |
+| 881 | Yoga Bodhi | Bath, UK | info@yogabodhi.co.uk | Wellness | Drafted | Jul 3 |
+| 882 | Arán Artisan Bakery & Bistro | Kilkenny, IE | info@arankilkenny.ie | F&B | Drafted | Jul 3 |
+| 883 | Yoga with Ginni | Waterford, IE | yogawithginni@gmail.com | Wellness | Drafted | Jul 3 |
+| 884 | Waterford Hatha Yoga Shala | Waterford, IE | waterfordhathayogashala@gmail.com | Wellness | Drafted | Jul 3 |
+| 885 | Thrive Yoga and Wellness | Chattanooga, TN, US | info@thriveyogaandwellness.com | Wellness | Drafted | Jul 3 |
+| 886 | Southern Soul Yoga | Chattanooga, TN, US | info@southernsoulyoga.com | Wellness | Drafted | Jul 3 |
+| 887 | Key to Change Wellness | Chattanooga, TN, US | kelly@keytochangewellness.com | Wellness | Drafted | Jul 3 |
+| 888 | Mad Knight Brewing Company | Chattanooga, TN, US | greg@madknightbrewing.com | F&B | Drafted | Jul 3 |
+| 889 | Inner Fire Yoga | Madison, WI, US | director@innerfireyoga.com | Wellness | Drafted | Jul 3 |
+| 890 | OM on the River | Peoria, IL, US | info@omontheriver.com | Wellness | Drafted | Jul 3 |
+| 891 | One World Cafe | Peoria, IL, US | Oneworldpeoria@gmail.com | F&B | Drafted | Jul 3 |
+| 892 | YOGA FOR YOU | Missoula, MT, US | jolyn@yogaforyoumissoula.com | Wellness | Drafted | Jul 3 |
+| 893 | Ritual Yoga Missoula | Missoula, MT, US | hello@ritualyogamissoula.com | Wellness | Drafted | Jul 3 |
+| 894 | KettleHouse Brewing | Missoula, MT, US | info@kettlehouse.com | F&B | Drafted | Jul 3 |
+| 895 | Draught Works Brewery | Missoula, MT, US | info@draughtworksbrewery.com | F&B | Drafted | Jul 3 |
+| 896 | Highlander Beer | Missoula, MT, US | Kepler@missoulabrewingcompany.com | F&B | Drafted | Jul 3 |
+| 897 | Craft Kitchen & Brewery | Bend, OR, US | craftkitchenandbrewery@gmail.com | F&B | Drafted | Jul 3 |
+| 898 | Broken Top Bottle Shop | Bend, OR, US | info@btbottleshopbend.com | F&B | Drafted | Jul 3 |
+| 899 | Bend Yoga | Bend, OR, US | hello@bendyoga.studio | Wellness | Drafted | Jul 3 |
+| 900 | Still Water Yoga & Wellness | Bend, OR, US | Info@stillwateryoga.org | Wellness | Drafted | Jul 3 |
+| 901 | Namaspa Yoga | Bend, OR, US | Info@namaspa.com | Wellness | Drafted | Jul 3 |
