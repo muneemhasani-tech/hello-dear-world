@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 931
+**Total unique businesses:** 930
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 International Batch 20 (30) + June 30 UK/IE/US Batch 21 (30) + July 1 US Batch 22 (30) + July 2 US Batch 23 (30) + July 3 UK/IE Batch 24 (30)
 
 ---
@@ -1196,7 +1196,7 @@
 
 ---
 
-### Section AB — July 2, 2026 US Batch #23 (30 businesses)
+### Section AB — July 2, 2026 US Batch #23 (29 businesses)
 
 *Cities: Savannah GA, Baton Rouge LA, Billings MT, Traverse City MI, Duluth MN, Bellingham WA, Myrtle Beach SC, Athens GA, Columbus OH, San Diego CA, Medford OR, Lexington KY, Tulsa OK, Providence RI (US)*
 *All 30 confirmed new — cross-checked against 871-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
@@ -1224,52 +1224,51 @@
 | 890 | Heated Pilates Sculpt Yoga | Columbus OH, US | info@heated614.com | Wellness | Sent | Jul 2 |
 | 891 | Uplift on Orange | US | info@upliftonorange.com | Wellness | Sent | Jul 2 |
 | 892 | The Wellness Collective | San Diego CA, US | info@wellnesscollectivesd.com | Wellness | Sent | Jul 2 |
-| 893 | Move Your Body Yoga | Baton Rouge LA, US | info@moveyourbodyyoga.com | Wellness | Sent | Jul 2 |
-| 894 | ORA: Mind + Body | Tulsa OK, US | hello@oratulsa.com | Wellness | BOUNCED | Jul 2 |
-| 895 | Providence Pilates Center | Providence RI, US | hello@providencepilatescenter.com | Wellness | BOUNCED | Jul 2 |
-| 896 | Align with Sue PT & Pilates | US | info@alignptpilates.com | Wellness | Sent | Jul 2 |
-| 897 | Fat Man's Mill Cafe | US | info@fatmans.com | F&B | Sent | Jul 2 |
-| 898 | Dudley's on Short | Lexington KY, US | info@dudleysrestaurant.com | F&B | Sent | Jul 2 |
-| 899 | DM Wellness & Yoga | US | info@dmwellnessyoga.com | Wellness | Sent | Jul 2 |
-| 900 | Havanabama | AL, US | info@havanabama.com | F&B | Sent | Jul 2 |
-| 901 | Pearl & Horn | US | hello@pearlandhorn.com | F&B | Sent | Jul 2 |
+| 893 | ORA: Mind + Body | Tulsa OK, US | hello@oratulsa.com | Wellness | BOUNCED | Jul 2 |
+| 894 | Providence Pilates Center | Providence RI, US | hello@providencepilatescenter.com | Wellness | BOUNCED | Jul 2 |
+| 895 | Align with Sue PT & Pilates | US | info@alignptpilates.com | Wellness | Sent | Jul 2 |
+| 896 | Fat Man's Mill Cafe | US | info@fatmans.com | F&B | Sent | Jul 2 |
+| 897 | Dudley's on Short | Lexington KY, US | info@dudleysrestaurant.com | F&B | Sent | Jul 2 |
+| 898 | DM Wellness & Yoga | US | info@dmwellnessyoga.com | Wellness | Sent | Jul 2 |
+| 899 | Havanabama | AL, US | info@havanabama.com | F&B | Sent | Jul 2 |
+| 900 | Pearl & Horn | US | hello@pearlandhorn.com | F&B | Sent | Jul 2 |
 
 ---
 
 ### Section AC — July 3, 2026 UK/IE Batch #24 (30 businesses)
 
 *Cities: Glasgow, Liverpool, Brighton, Newcastle, Sheffield, Leeds, Bristol, Edinburgh, Belfast (UK) · Dublin, Cork (IE)*
-*All 30 confirmed new — cross-checked against 901-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
+*All 30 confirmed new — cross-checked against 900-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
 
 | # | Business | City | Email | Industry | Status | Date Sent |
 |---|---|---|---|---|---|---|
-| 902 | Mountain Yoga | UK | info@mountainyoga.co.uk | Wellness | Sent | Jul 3 |
-| 903 | Singl-end Cafe | Glasgow, UK | garnethill@thesingl-end.co.uk | F&B | Sent | Jul 3 |
-| 904 | YinYan Yoga & Pilates | Liverpool, UK | hello@yinyan.co.uk | Wellness | Sent | Jul 3 |
-| 905 | Yoga Hub Liverpool | Liverpool, UK | info@yogahubliverpool.co.uk | Wellness | BOUNCED | Jul 3 |
-| 906 | Reformed Pilates | Brighton, UK | hello@reformedpilates.co.uk | Wellness | Sent | Jul 3 |
-| 907 | Eleven | Dublin IE | info@elevendublin.ie | F&B | Sent | Jul 3 |
-| 908 | Blackfriars Restaurant | Newcastle, UK | info@blackfriarsrestaurant.co.uk | F&B | Sent | Jul 3 |
-| 909 | Lemon & Duke | Dublin IE | hello@lemonandduke.ie | F&B | Sent | Jul 3 |
-| 910 | Little Lemon | Dublin IE | hello@littlelemon.ie | F&B | Sent | Jul 3 |
-| 911 | Greenwich Cafe | Cork IE | hello@greenwichcafe.ie | F&B | BOUNCED | Jul 3 |
-| 912 | True Loves | Sheffield, UK | hello@true-loves.co.uk | F&B | BOUNCED | Jul 3 |
-| 913 | The Blackrock | Dublin IE | hello@theblackrock.ie | F&B | Sent | Jul 3 |
-| 914 | Knoops | UK | hello@knoops.co.uk | F&B | Sent | Jul 3 |
-| 915 | Radiant Pilates | Brighton, UK | hello@radiantpilates.co.uk | Wellness | Sent | Jul 3 |
-| 916 | Lazy Fin | Brighton, UK | hello@lazyfin.co.uk | F&B | Sent | Jul 3 |
-| 917 | Borgo | Dublin IE | hello@borgodublin.ie | F&B | Sent | Jul 3 |
-| 918 | Ardnamurchan | Edinburgh, UK | reservations@ardnamurchan.biz | F&B | Sent | Jul 3 |
-| 919 | Chop Shop Bar & Grill | UK | hello@chopshopbarandgrill.co.uk | F&B | Sent | Jul 3 |
-| 920 | Studio 52 | Belfast, UK | hello@studio52.yoga | Wellness | Sent | Jul 3 |
-| 921 | Six and a Half | UK | hello@sixandahalf.co.uk | F&B | Sent | Jul 3 |
-| 922 | South Street Kitchen | UK | info@southstreetkitchen.org | F&B | Sent | Jul 3 |
-| 923 | Edinburgh Larder | Edinburgh, UK | info@edinburghlarder.co.uk | F&B | Sent | Jul 3 |
-| 924 | Scotts Kitchen | Scotland, UK | hello@scottskitchen.co.uk | F&B | Sent | Jul 3 |
-| 925 | Bristol Yoga Centre | Bristol, UK | hello@bristolyogacentre.co.uk | Wellness | Sent | Jul 3 |
-| 926 | BLOC Studio | UK | hello@blocstudio.co.uk | Wellness | Sent | Jul 3 |
-| 927 | Lokanta | UK | info@lokanta.co.uk | F&B | Sent | Jul 3 |
-| 928 | Align Movement Studios | UK | info@alignmovementstudios.com | Wellness | Sent | Jul 3 |
-| 929 | Omkari Yoga | UK | info@omkariyoga.com | Wellness | Sent | Jul 3 |
-| 930 | Simply Pilates | UK | info@simply-pilates.co.uk | Wellness | Sent | Jul 3 |
-| 931 | Ox Club | Leeds, UK | info@oxclub.co.uk | F&B | Sent | Jul 3 |
+| 901 | Mountain Yoga | UK | info@mountainyoga.co.uk | Wellness | Sent | Jul 3 |
+| 902 | Singl-end Cafe | Glasgow, UK | garnethill@thesingl-end.co.uk | F&B | Sent | Jul 3 |
+| 903 | YinYan Yoga & Pilates | Liverpool, UK | hello@yinyan.co.uk | Wellness | Sent | Jul 3 |
+| 904 | Yoga Hub Liverpool | Liverpool, UK | info@yogahubliverpool.co.uk | Wellness | BOUNCED | Jul 3 |
+| 905 | Reformed Pilates | Brighton, UK | hello@reformedpilates.co.uk | Wellness | Sent | Jul 3 |
+| 906 | Eleven | Dublin IE | info@elevendublin.ie | F&B | Sent | Jul 3 |
+| 907 | Blackfriars Restaurant | Newcastle, UK | info@blackfriarsrestaurant.co.uk | F&B | Sent | Jul 3 |
+| 908 | Lemon & Duke | Dublin IE | hello@lemonandduke.ie | F&B | Sent | Jul 3 |
+| 909 | Little Lemon | Dublin IE | hello@littlelemon.ie | F&B | Sent | Jul 3 |
+| 910 | Greenwich Cafe | Cork IE | hello@greenwichcafe.ie | F&B | BOUNCED | Jul 3 |
+| 911 | True Loves | Sheffield, UK | hello@true-loves.co.uk | F&B | BOUNCED | Jul 3 |
+| 912 | The Blackrock | Dublin IE | hello@theblackrock.ie | F&B | Sent | Jul 3 |
+| 913 | Knoops | UK | hello@knoops.co.uk | F&B | Sent | Jul 3 |
+| 914 | Radiant Pilates | Brighton, UK | hello@radiantpilates.co.uk | Wellness | Sent | Jul 3 |
+| 915 | Lazy Fin | Brighton, UK | hello@lazyfin.co.uk | F&B | Sent | Jul 3 |
+| 916 | Borgo | Dublin IE | hello@borgodublin.ie | F&B | Sent | Jul 3 |
+| 917 | Ardnamurchan | Edinburgh, UK | reservations@ardnamurchan.biz | F&B | Sent | Jul 3 |
+| 918 | Chop Shop Bar & Grill | UK | hello@chopshopbarandgrill.co.uk | F&B | Sent | Jul 3 |
+| 919 | Studio 52 | Belfast, UK | hello@studio52.yoga | Wellness | Sent | Jul 3 |
+| 920 | Six and a Half | UK | hello@sixandahalf.co.uk | F&B | Sent | Jul 3 |
+| 921 | South Street Kitchen | UK | info@southstreetkitchen.org | F&B | Sent | Jul 3 |
+| 922 | Edinburgh Larder | Edinburgh, UK | info@edinburghlarder.co.uk | F&B | Sent | Jul 3 |
+| 923 | Scotts Kitchen | Scotland, UK | hello@scottskitchen.co.uk | F&B | Sent | Jul 3 |
+| 924 | Bristol Yoga Centre | Bristol, UK | hello@bristolyogacentre.co.uk | Wellness | Sent | Jul 3 |
+| 925 | BLOC Studio | UK | hello@blocstudio.co.uk | Wellness | Sent | Jul 3 |
+| 926 | Lokanta | UK | info@lokanta.co.uk | F&B | Sent | Jul 3 |
+| 927 | Align Movement Studios | UK | info@alignmovementstudios.com | Wellness | Sent | Jul 3 |
+| 928 | Omkari Yoga | UK | info@omkariyoga.com | Wellness | Sent | Jul 3 |
+| 929 | Simply Pilates | UK | info@simply-pilates.co.uk | Wellness | Sent | Jul 3 |
+| 930 | Ox Club | Leeds, UK | info@oxclub.co.uk | F&B | Sent | Jul 3 |
