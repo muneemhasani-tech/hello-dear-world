@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 1,078
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30)
+**Total unique businesses:** 1,108
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30)
 
 ---
 
@@ -1461,3 +1461,43 @@
 | 1076 | Kula Vermont | South Burlington, VT, US | info@kulavermont.com | Wellness | Drafted | Jul 6 |
 | 1077 | YoGology | Wakefield, UK | info@yogologywakefield.co.uk | Wellness | Drafted | Jul 6 |
 | 1078 | Yoga Wakefield | Wakefield, UK | karen@yoga-wakefield.co.uk | Wellness | Drafted | Jul 6 |
+
+---
+
+### Section AI — July 6, 2026 Multi-City Batch #26 (30 businesses)
+
+*Cities: Little Rock AR · Wilmington NC · Peoria IL · Dayton OH · Grand Rapids MI · Ann Arbor MI · Des Moines IA · Springfield MO · Fayetteville AR · Wichita KS (US) · Cardiff · Exeter · Oxford · Coventry (UK) · Kinsale/Cork · Galway (IE) · Cairns · Wollongong · Sunshine Coast · Townsville (AU)*
+*All 30 confirmed new — cross-checked against 1,078-business exclusion list. Zero duplicates. All NINE-compliant independent businesses. Emails confirmed via WebSearch (WebFetch was unavailable this session — blocked at the network-egress-policy layer, returning HTTP 403 on every URL including non-target test domains). Each email is attributed directly to the business's own domain in search results, not an aggregator. 30 drafts displayed in terminal, organized by BST send window.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1079 | Rock Town Distillery | Little Rock, AR, US | info@rocktowndistillery.com | FMCG | Drafted | Jul 6 |
+| 1080 | Lost Forty Brewing | Little Rock, AR, US | info@lost40brewing.com | FMCG | Drafted | Jul 6 |
+| 1081 | Blue Surf Cafe | Wilmington, NC, US | Info@bluesurfrestaurants.com | F&B | Drafted | Jul 6 |
+| 1082 | Momentum Distillery | Wilmington, NC, US | hf@ncvodka.com | FMCG | Drafted | Jul 6 |
+| 1083 | End of Days (EOD) Distillery | Wilmington, NC, US | info@eoddistillery.com | FMCG | Drafted | Jul 6 |
+| 1084 | Ardor Breads & Provisions | Peoria, IL, US | info@ardorbp.com | F&B | Drafted | Jul 6 |
+| 1085 | Table 33 | Dayton, OH, US | info@table33dayton.com | F&B | Drafted | Jul 6 |
+| 1086 | Lily's Dayton | Dayton, OH, US | emily@lilysdayton.com | F&B | Drafted | Jul 6 |
+| 1087 | GRIT Pilates Yoga | Grand Rapids, MI, US | chris@gritpilatesyoga.com | Wellness | Drafted | Jul 6 |
+| 1088 | Bovee Pilates | Grand Rapids, MI, US | info@pilatesineast.com | Wellness | Drafted | Jul 6 |
+| 1089 | Mindo Chocolate Makers | Ann Arbor, MI, US | info@mindochocolate.com | FMCG | Drafted | Jul 6 |
+| 1090 | Yoga & Co | Des Moines, IA, US | yogaandcodsm@gmail.com | Wellness | Drafted | Jul 6 |
+| 1091 | Blue Heron Farm & Bakery | Springfield, MO, US | info@grownraisedmade.com | F&B | Drafted | Jul 6 |
+| 1092 | Rejuvenated Med Spa | Fayetteville, AR, US | info@rejuvenatedmedspa.com | Wellness | Drafted | Jul 6 |
+| 1093 | Sweet Spot | Wichita, KS, US | wichitasweetspot@gmail.com | F&B | Drafted | Jul 6 |
+| 1094 | Om Studio | Cardiff, UK | yoga@omstudio.co.uk | Wellness | Drafted | Jul 6 |
+| 1095 | Penylan Preserves | Cardiff, UK | clare@penylanpreserves.co.uk | FMCG | Drafted | Jul 6 |
+| 1096 | Copperlode Brewery Co. | Cairns, AU | venuemanager@copperlodebrewing.com.au | FMCG | Drafted | Jul 6 |
+| 1097 | The Yoga School | Cairns, AU | info@theyogaschool.com.au | Wellness | Drafted | Jul 6 |
+| 1098 | Blacks Brewing & Distilling | Kinsale, IE | info@blacksbrewingdistilling.com | FMCG | Drafted | Jul 6 |
+| 1099 | ORSO Kitchen & Bar | Cork, IE | info@orso.ie | F&B | Drafted | Jul 6 |
+| 1100 | The Great Barn Devon | Exeter, UK | info@thegreatbarndevon.co.uk | Events | Drafted | Jul 6 |
+| 1101 | Pompette | Oxford, UK | info@pompetterestaurant.co.uk | F&B | Drafted | Jul 6 |
+| 1102 | Utopia Cafe Bar | Wollongong, AU | utopia.wollongong@gmail.com | F&B | Drafted | Jul 6 |
+| 1103 | Fraternity Club | Wollongong, AU | functions@fraternityclub.com.au | Events | Drafted | Jul 6 |
+| 1104 | Sunshine Coast Brewery | Sunshine Coast, AU | admin@sunshinecoastbrewery.com | FMCG | Drafted | Jul 6 |
+| 1105 | A Touch of Salt | Townsville, AU | info@saltrestaurants.com.au | F&B | Drafted | Jul 6 |
+| 1106 | Lighten Up Studio | Townsville, AU | hello@lightenupstudio.com.au | Wellness | Drafted | Jul 6 |
+| 1107 | The Lazy Monkey Bar & Indian Kitchen | Coventry, UK | info@thelazymonkey.co.uk | F&B | Drafted | Jul 6 |
+| 1108 | Dela | Galway, IE | letseat@dela.ie | F&B | Drafted | Jul 6 |
