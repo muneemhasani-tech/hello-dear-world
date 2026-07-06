@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 930
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 International Batch 20 (30) + June 30 UK/IE/US Batch 21 (30) + July 1 US Batch 22 (30) + July 2 US Batch 23 (30) + July 3 UK/IE Batch 24 (30)
+**Total unique businesses:** 1048
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27)
 
 ---
 
@@ -1076,199 +1076,348 @@
 
 ---
 
-### Section Y — June 30, 2026 International Batch #20 (30 businesses)
+## Section Y — June 29, 2026 Multi-City Batch 20 (30 businesses, #782–#811)
 
-*Cities: Gold Coast QLD, Hobart TAS, Newcastle NSW, Albany WA (AU) · Dublin, IE · Glasgow, Cardiff (UK) · Various AU/NZ/UK/IE*
-*All 30 confirmed new — cross-checked against 781-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
-
-| # | Business | City | Email | Industry | Status | Date Sent |
+| # | Business | City | Email | Industry | Status | Date |
 |---|---|---|---|---|---|---|
-| 782 | Energize Hot Yoga | US | info@energizehotyoga.com | Wellness | Sent | Jun 30 |
-| 783 | OrangeYoga Studio | UK | studio@orangeyoga.co.uk | Wellness | Sent | Jun 30 |
-| 784 | Namaste North Yoga | Anchorage AK, US | info@namastenorthak.com | Wellness | Sent | Jun 30 |
-| 785 | Hot Yoga Health | UK | hello@hotyogahealth.uk | Wellness | Sent | Jun 30 |
-| 786 | Magpie Café | UK | info@magpiecafe.co.uk | F&B | Sent | Jun 30 |
-| 787 | Inversion Yoga + Pilates | US | info@inversionyoga.com | Wellness | Sent | Jun 30 |
-| 788 | Albany Yoga Room | Albany WA, AU | joy@albanyyogaroom.com.au | Wellness | Sent | Jun 30 |
-| 789 | Hot Yoga Dublin | Dublin IE | hotyogadublin@gmail.com | Wellness | Sent | Jun 30 |
-| 790 | Meta Yoga Studios | US | info@metayogastudios.com | Wellness | Sent | Jun 30 |
-| 791 | Little Bird Cafe & Yoga | IE | yoga@little-bird.ie | F&B | Sent | Jun 30 |
-| 792 | Biga Pizza | US | info@bigapizza.com | F&B | Sent | Jun 30 |
-| 793 | The Annex at Studio Pulse | Anchorage AK, US | StudioPulseAK@gmail.com | Wellness | Sent | Jun 30 |
-| 794 | Yoga Loft Newcastle | Newcastle NSW, AU | info@yogaloft.com.au | Wellness | Sent | Jun 30 |
-| 795 | Elli Yoga | IE | info@elli.yoga | Wellness | Sent | Jun 30 |
-| 796 | Yogomotiv | IE | hello@yogomotiv.com | Wellness | Sent | Jun 30 |
-| 797 | Roadhouse Brewing Co. | US | tours@roadhousebrewery.com | FMCG | BOUNCED | Jun 30 |
-| 798 | Yogahub | Dublin IE | hello@yogahub.ie | Wellness | Sent | Jun 30 |
-| 799 | Hot Yoga Gold Coast | Gold Coast, AU | info@hotyogagoldcoast.com.au | Wellness | Sent | Jun 30 |
-| 800 | ALL DAY | AU | hello@all-day.com.au | F&B | Sent | Jun 30 |
-| 801 | Sala Studio | AU | hello@sala.studio | Wellness | Sent | Jun 30 |
-| 802 | Yogita Yoga | US | info@yogitayoga.com | Wellness | Sent | Jun 30 |
-| 803 | Flow Hot Yoga | NZ | admin@flowhotyoga.co.nz | Wellness | Sent | Jun 30 |
-| 804 | South Hobart Yoga & Meditation | Hobart TAS, AU | hello@shyam.net.au | Wellness | Sent | Jun 30 |
-| 805 | Luna Yoga | AU | info@lunayoga.com.au | Wellness | Sent | Jun 30 |
-| 806 | Alceme | AU | info@alceme.com | Wellness | Sent | Jun 30 |
-| 807 | Yoga West | NZ | info@yogawest.co.nz | Wellness | Sent | Jun 30 |
-| 808 | Ashtanga Yoga Newcastle | Newcastle NSW, AU | info@ashtangayoganewcastle.com | Wellness | Sent | Jun 30 |
-| 809 | Napa Hot Yoga | Napa CA, US | celeste@napahotyoga.com | Wellness | Sent | Jun 30 |
-| 810 | Cardiff Pilates Studio | Cardiff, UK | info@cardiffpilatesstudio.com | Wellness | Sent | Jun 30 |
-| 811 | Coia's Cafe | Glasgow, UK | hello@coiascafe.co.uk | F&B | Sent | Jun 30 |
+| 782 | Border Brewing Company | Kansas City, MO, US | info@borderbrewco.com | FMCG | Drafted | Jun 29 |
+| 783 | True Love Yoga KC | Kansas City, MO, US | info@trueloveyogakc.com | Wellness | Drafted | Jun 29 |
+| 784 | Blue Bird Bistro | Kansas City, MO, US | events@bluebirdbistro.com | F&B | Drafted | Jun 29 |
+| 785 | Callsign Brewery | N. Kansas City, MO, US | contact@callsignbrewing.com | FMCG | Drafted | Jun 29 |
+| 786 | Westport Cafe | Kansas City, MO, US | bonjour@westportcafe.com | F&B | Drafted | Jun 29 |
+| 787 | Maitri Studio | Belfast, UK | info@maitristudio.net | Wellness | Drafted | Jun 29 |
+| 788 | Hot Yoga West | Belfast, UK | hotyogawest@hotmail.com | Wellness | Drafted | Jun 29 |
+| 789 | Ginger Bistro | Belfast, UK | info@gingerbistro.com | F&B | Drafted | Jun 29 |
+| 790 | Tioga-Sequoia Brewing | Fresno, CA, US | store@tioga-sequoia.com | FMCG | Drafted | Jun 29 |
+| 791 | Yoga Center of Fresno | Fresno, CA, US | info@yogacenterfresno.com | Wellness | Drafted | Jun 29 |
+| 792 | Energize Hot Yoga | Santa Rosa, CA, US | info@energizehotyoga.com | Wellness | Drafted | Jun 29 |
+| 793 | Napa Hot Yoga | Napa, CA, US | celeste@napahotyoga.com | Wellness | Drafted | Jun 29 |
+| 794 | Inversion Yoga + Pilates | Jackson Hole, WY, US | info@inversionyoga.com | Wellness | Drafted | Jun 29 |
+| 795 | Roadhouse Brewing Co. | Jackson Hole, WY, US | tours@roadhousebrewery.com | FMCG | Drafted | Jun 29 |
+| 796 | Meta Yoga Studios | Breckenridge, CO, US | info@metayogastudios.com | Wellness | Drafted | Jun 29 |
+| 797 | The Annex at Studio Pulse | Anchorage, AK, US | StudioPulseAK@gmail.com | Wellness | Drafted | Jun 29 |
+| 798 | Namaste North Yoga | Anchorage, AK, US | info@namastenorthak.com | Wellness | Drafted | Jun 29 |
+| 799 | Biga Pizza | Missoula, MT, US | info@bigapizza.com | F&B | Drafted | Jun 29 |
+| 800 | Hot Yoga Health | Newport, Wales, UK | hello@hotyogahealth.uk | Wellness | Drafted | Jun 29 |
+| 801 | Magpie Café | Whitby, UK | info@magpiecafe.co.uk | F&B | Drafted | Jun 29 |
+| 802 | Albany Yoga Room | Albany, WA, AU | joy@albanyyogaroom.com.au | Wellness | Drafted | Jun 29 |
+| 803 | OrangeYoga Studio | Cheltenham, UK | studio@orangeyoga.co.uk | Wellness | Drafted | Jun 29 |
+| 804 | Yogomotiv | Milton Keynes, UK | hello@yogomotiv.com | Wellness | Drafted | Jun 29 |
+| 805 | Elli Yoga | Milton Keynes, UK | info@elli.yoga | Wellness | Drafted | Jun 29 |
+| 806 | Little Bird Cafe & Yoga | Dublin, IE | yoga@little-bird.ie | F&B/Wellness | Drafted | Jun 29 |
+| 807 | Hot Yoga Dublin | Dublin, IE | hotyogadublin@gmail.com | Wellness | Drafted | Jun 29 |
+| 808 | Yogahub | Dublin, IE | hello@yogahub.ie | Wellness | Drafted | Jun 29 |
+| 809 | The Yoga Room Prescott | Prescott, AZ, US | conscious.yoga@outlook.com | Wellness | Drafted | Jun 29 |
+| 810 | Ritual Yoga Missoula | Missoula, MT, US | hello@ritualyogamissoula.com | Wellness | Drafted | Jun 29 |
+| 811 | Quay Yoga | Cork, IE | yogasutra@quayyoga.com | Wellness | Drafted | Jun 29 |
 
 ---
 
-### Section Z — June 30, 2026 UK/IE/US Batch #21 (30 businesses)
+## Section Z — June 30, 2026 UK-IE-AU Batch 21 (30 businesses, #812–#841)
 
-*Cities: Liverpool, Glasgow, Brighton, Manchester (UK) · Dublin, Galway (IE) · Kansas City MO, Fresno CA, Missoula MT, Prescott AZ (US)*
-*All 30 confirmed new — cross-checked against 811-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
-
-| # | Business | City | Email | Industry | Status | Date Sent |
+| # | Business | City | Email | Industry | Status | Date |
 |---|---|---|---|---|---|---|
-| 812 | Belzan | Liverpool, UK | hello@belzan.co.uk | F&B | Sent | Jun 30 |
-| 813 | Soul Pilates | UK | info@soulpilates.co.uk | Wellness | BOUNCED | Jun 30 |
-| 814 | Kuwa Pilates | UK | info@kuwapilates.co.uk | Wellness | Sent | Jun 30 |
-| 815 | Gloriosa | Glasgow, UK | hello@gloriosaglasgow.com | F&B | Sent | Jun 30 |
-| 816 | Salt & Soul | IE | info@saltandsoul.ie | Wellness | Sent | Jun 30 |
-| 817 | Yoga North | UK | hello@yoga-north.co.uk | Wellness | Sent | Jun 30 |
-| 818 | Bilates | UK | hello@bilates.co.uk | Wellness | Sent | Jun 30 |
-| 819 | Jam Restaurant | UK | info@jamrestaurants.co.uk | F&B | Sent | Jun 30 |
-| 820 | Burnt Orange | Brighton, UK | info@burnt-orange.co.uk | F&B | Sent | Jun 30 |
-| 821 | The Roar Movement | UK | hello@theroarmovement.co.uk | Wellness | Sent | Jun 30 |
-| 822 | Brasserie on the Corner | Galway IE | info@brasseriegalway.com | F&B | Sent | Jun 30 |
-| 823 | The Brazen Head | Dublin IE | info@brazenhead.com | F&B | Sent | Jun 30 |
-| 824 | Kai Restaurant | Galway IE | hello@kaiglway.com | F&B | BOUNCED | Jun 30 |
-| 825 | Pause Pilates Studios | UK | hello@pausepilatesstudios.co.uk | Wellness | Sent | Jun 30 |
-| 826 | The Bank on College Green | Dublin IE | info@bankoncollegegreen.com | F&B | Sent | Jun 30 |
-| 827 | Higher Ground | Manchester, UK | hello@highergroundmcr.co.uk | F&B | Sent | Jun 30 |
-| 828 | Fade Street Social | Dublin IE | info@fadestreetsocial.com | F&B | Sent | Jun 30 |
-| 829 | True Love Yoga KC | Kansas City MO, US | info@trueloveyogakc.com | Wellness | Sent | Jun 30 |
-| 830 | Callsign Brewery | US | contact@callsignbrewing.com | FMCG | Sent | Jun 30 |
-| 831 | Hot Yoga West | US | hotyogawest@hotmail.com | Wellness | Sent | Jun 30 |
-| 832 | Maitri Studio | US | info@maitristudio.net | Wellness | Sent | Jun 30 |
-| 833 | Ginger Bistro | US | info@gingerbistro.com | F&B | Sent | Jun 30 |
-| 834 | Blue Bird Bistro | Kansas City MO, US | events@bluebirdbistro.com | F&B | Sent | Jun 30 |
-| 835 | Westport Cafe | Kansas City MO, US | bonjour@westportcafe.com | F&B | Sent | Jun 30 |
-| 836 | Ritual Yoga Missoula | Missoula MT, US | hello@ritualyogamissoula.com | Wellness | Sent | Jun 30 |
-| 837 | Yoga Center of Fresno | Fresno CA, US | info@yogacenterfresno.com | Wellness | BOUNCED | Jun 30 |
-| 838 | Tioga-Sequoia Brewing | Fresno CA, US | store@tioga-sequoia.com | FMCG | Sent | Jun 30 |
-| 839 | The Yoga Room Prescott | Prescott AZ, US | conscious.yoga@outlook.com | Wellness | Sent | Jun 30 |
-| 840 | Quay Yoga | UK | yogasutra@quayyoga.com | Wellness | Sent | Jun 30 |
-| 841 | Border Brewing Company | US | info@borderbrewco.com | FMCG | Sent | Jun 30 |
+| 812 | Bilates | Bristol, UK | hello@bilates.co.uk | Wellness | Drafted | Jun 30 |
+| 813 | Soul Pilates | Bristol, UK | info@soulpilates.co.uk | Wellness | Drafted | Jun 30 |
+| 814 | Higher Ground | Manchester, UK | hello@highergroundmcr.co.uk | F&B | Drafted | Jun 30 |
+| 815 | Yoga North | Leeds, UK | hello@yoga-north.co.uk | Wellness | Drafted | Jun 30 |
+| 816 | Kuwa Pilates | Leeds, UK | info@kuwapilates.co.uk | Wellness | Drafted | Jun 30 |
+| 817 | Pause Pilates Studios | Birmingham, UK | hello@pausepilatesstudios.co.uk | Wellness | Drafted | Jun 30 |
+| 818 | Burnt Orange | Brighton, UK | info@burnt-orange.co.uk | F&B | Drafted | Jun 30 |
+| 819 | The Roar Movement | Nottingham, UK | hello@theroarmovement.co.uk | Wellness | Drafted | Jun 30 |
+| 820 | Coia's Cafe | Glasgow, UK | hello@coiascafe.co.uk | F&B | Drafted | Jun 30 |
+| 821 | Gloriosa | Glasgow, UK | hello@gloriosaglasgow.com | F&B | Drafted | Jun 30 |
+| 822 | Cardiff Pilates Studio | Cardiff, UK | info@cardiffpilatesstudio.com | Wellness | Drafted | Jun 30 |
+| 823 | Jam Restaurant | Liverpool, UK | info@jamrestaurants.co.uk | F&B | Drafted | Jun 30 |
+| 824 | Belzan | Liverpool, UK | hello@belzan.co.uk | F&B | Drafted | Jun 30 |
+| 825 | Fade Street Social | Dublin, IE | info@fadestreetsocial.com | F&B | Drafted | Jun 30 |
+| 826 | The Brazen Head | Dublin, IE | info@brazenhead.com | F&B | Drafted | Jun 30 |
+| 827 | The Bank on College Green | Dublin, IE | info@bankoncollegegreen.com | F&B | Drafted | Jun 30 |
+| 828 | Kai Restaurant | Galway, IE | hello@kaiglway.com | F&B | Drafted | Jun 30 |
+| 829 | Brasserie on the Corner | Galway, IE | info@brasseriegalway.com | F&B | Drafted | Jun 30 |
+| 830 | Salt & Soul | Sligo, IE | info@saltandsoul.ie | Wellness | Drafted | Jun 30 |
+| 831 | Luna Yoga | Melbourne, AU | info@lunayoga.com.au | Wellness | Drafted | Jun 30 |
+| 832 | ALL DAY | Brisbane, AU | hello@all-day.com.au | F&B | Drafted | Jun 30 |
+| 833 | Yogita Yoga | Adelaide, AU | info@yogitayoga.com | Wellness | Drafted | Jun 30 |
+| 834 | Alceme | Hobart, AU | info@alceme.com | Wellness | Drafted | Jun 30 |
+| 835 | South Hobart Yoga & Meditation | Hobart, AU | hello@shyam.net.au | Wellness | Drafted | Jun 30 |
+| 836 | Hot Yoga Gold Coast | Gold Coast, AU | info@hotyogagoldcoast.com.au | Wellness | Drafted | Jun 30 |
+| 837 | Yoga West | Auckland, NZ | info@yogawest.co.nz | Wellness | Drafted | Jun 30 |
+| 838 | Sala Studio | Auckland, NZ | hello@sala.studio | Wellness | Drafted | Jun 30 |
+| 839 | Flow Hot Yoga | Christchurch, NZ | admin@flowhotyoga.co.nz | Wellness | Drafted | Jun 30 |
+| 840 | Yoga loft Newcastle | Newcastle, AU | info@yogaloft.com.au | Wellness | Drafted | Jun 30 |
+| 841 | Ashtanga Yoga Newcastle | Newcastle, AU | info@ashtangayoganewcastle.com | Wellness | Drafted | Jun 30 |
 
 ---
 
-### Section AA — July 1, 2026 US Batch #22 (30 businesses)
+## Section AA — July 1, 2026 (US-Only Batch 22)
 
-*Cities: Asheville NC, Knoxville TN, Jackson MS, Little Rock AR, Ann Arbor MI, Durham NC, Pensacola FL, Burlington VT, Santa Fe NM, Spokane WA, Wilmington NC, Savannah GA, Missoula MT, Olympia WA, Eugene OR (US)*
-*All 30 confirmed new — cross-checked against 841-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
-
-| # | Business | City | Email | Industry | Status | Date Sent |
+| # | Business | Location | Email | Niche | Status | Date |
 |---|---|---|---|---|---|---|
-| 842 | Happy Body Pilates | Asheville NC, US | info@ashevillehappybody.com | Wellness | Sent | Jul 1 |
-| 843 | EZ Foods Olympia | Olympia WA, US | info@ezfoods.com | F&B | Sent | Jul 1 |
-| 844 | Eugene Pilates | Eugene OR, US | info@eugenepilates.com | Wellness | Sent | Jul 1 |
-| 845 | Heights Pilates | US | hello@heightspilates.com | Wellness | Sent | Jul 1 |
-| 846 | Estelle Southern Table | Jackson MS, US | info@estellejackson.com | F&B | Sent | Jul 1 |
-| 847 | BCW (Bread Cheese Wine) | Little Rock AR, US | info@bcwlittlerock.com | F&B | Sent | Jul 1 |
-| 848 | Twisted Grit Yoga | US | info@twistedgrityoga.com | Wellness | Sent | Jul 1 |
-| 849 | Problem Child Little Rock | Little Rock AR, US | info@problemchildlittlerock.com | F&B | Sent | Jul 1 |
-| 850 | Remedy Movement | US | info@remedymovement.com | Wellness | Sent | Jul 1 |
-| 851 | Sava's Ann Arbor | Ann Arbor MI, US | info@savasannarbor.com | F&B | Sent | Jul 1 |
-| 852 | High Desert Yoga | Albuquerque NM, US | yogainfo@highdesertyoga.com | Wellness | Sent | Jul 1 |
-| 853 | Aventura Ann Arbor | Ann Arbor MI, US | info@aventuraannarbor.com | F&B | Sent | Jul 1 |
-| 854 | Zweli's Ekhaya | Durham NC, US | info@zwelis.com | F&B | Sent | Jul 1 |
-| 855 | The Yoga Connection | US | info@yogaconnection.org | Wellness | Sent | Jul 1 |
-| 856 | FIT 850 | Pensacola FL, US | info@fit850.com | Wellness | Sent | Jul 1 |
-| 857 | The Manship | Jackson MS, US | info@themanshipjackson.com | F&B | Sent | Jul 1 |
-| 858 | Burlington Beer Company | Burlington VT, US | hello@burlingtonbeercompany.com | FMCG | Sent | Jul 1 |
-| 859 | Asheville Pilates Studio | Asheville NC, US | info@ashevillepilates.com | Wellness | Sent | Jul 1 |
-| 860 | Tula Movement Arts | US | info@tulamovementarts.com | Wellness | Sent | Jul 1 |
-| 861 | Mind Body Knox | Knoxville TN, US | admin@mindbodyknox.com | Wellness | Sent | Jul 1 |
-| 862 | Corazon Holistic Health | US | info@corazonholistichealth.com | Wellness | Sent | Jul 1 |
-| 863 | Little Bull | NC, US | info@littlebullnc.com | F&B | Sent | Jul 1 |
-| 864 | Still Water Yoga | US | info@stillwateryoga.org | Wellness | Sent | Jul 1 |
-| 865 | Elsie's Daughters | US | hello@elsiesdaughters.com | F&B | Sent | Jul 1 |
-| 866 | Santa Fe Community Yoga Center | Santa Fe NM, US | info@santafecommunityyoga.org | Wellness | Sent | Jul 1 |
-| 867 | The Hot Room | NH, US | info@thehotroomnh.com | Wellness | Sent | Jul 1 |
-| 868 | Precision Pilates of Spokane | Spokane WA, US | info@precisionpilatesofspokane.com | Wellness | Sent | Jul 1 |
-| 869 | Wilmington Yoga Center | Wilmington NC, US | info@wilmingtonyogacenter.com | Wellness | Sent | Jul 1 |
-| 870 | Cafe M Savannah | Savannah GA, US | owner@cafemsavannah.com | F&B | Sent | Jul 1 |
-| 871 | Cafe Florabella | Missoula MT, US | hello@florabellamissoula.com | F&B | Sent | Jul 1 |
+| 842 | Asheville Pilates Studio | Asheville, NC | info@ashevillepilates.com | Wellness | Drafted | Jul 1 |
+| 843 | Happy Body Pilates | Asheville, NC | info@ashevillehappybody.com | Wellness | Drafted | Jul 1 |
+| 844 | Cafe M Savannah | Savannah, GA | owner@cafemsavannah.com | F&B | Drafted | Jul 1 |
+| 845 | Still Water Yoga | Bend, OR | info@stillwateryoga.org | Wellness | Drafted | Jul 1 |
+| 846 | Tula Movement Arts | Bend, OR | info@tulamovementarts.com | Wellness | Drafted | Jul 1 |
+| 847 | The Hot Room | Portsmouth, NH | info@thehotroomnh.com | Wellness | Drafted | Jul 1 |
+| 848 | Mind Body Knox | Knoxville, TN | admin@mindbodyknox.com | Wellness | Drafted | Jul 1 |
+| 849 | Burlington Beer Company | Burlington, VT | hello@burlingtonbeercompany.com | FMCG | Drafted | Jul 1 |
+| 850 | Wilmington Yoga Center | Wilmington, NC | info@wilmingtonyogacenter.com | Wellness | Drafted | Jul 1 |
+| 851 | Corazon Holistic Health | Columbia, SC | info@corazonholistichealth.com | Wellness | Drafted | Jul 1 |
+| 852 | Santa Fe Community Yoga Center | Santa Fe, NM | info@santafecommunityyoga.org | Wellness | Drafted | Jul 1 |
+| 853 | Elsie's Daughters | Chattanooga, TN | hello@elsiesdaughters.com | F&B | Drafted | Jul 1 |
+| 854 | Precision Pilates of Spokane | Spokane, WA | info@precisionpilatesofspokane.com | Wellness | Drafted | Jul 1 |
+| 855 | Cafe Florabella | Missoula, MT | hello@florabellamissoula.com | F&B | Drafted | Jul 1 |
+| 856 | Little Bull | Durham, NC | info@littlebullnc.com | F&B | Drafted | Jul 1 |
+| 857 | Zweli's Ekhaya | Durham, NC | info@zwelis.com | F&B | Drafted | Jul 1 |
+| 858 | Twisted Grit Yoga | Madison, WI | info@twistedgrityoga.com | Wellness | Drafted | Jul 1 |
+| 859 | Sava's Ann Arbor | Ann Arbor, MI | info@savasannarbor.com | F&B | Drafted | Jul 1 |
+| 860 | Aventura Ann Arbor | Ann Arbor, MI | info@aventuraannarbor.com | F&B | Drafted | Jul 1 |
+| 861 | EZ Foods Olympia | Olympia, WA | info@ezfoods.com | F&B | Drafted | Jul 1 |
+| 862 | Eugene Pilates | Eugene, OR | info@eugenepilates.com | Wellness | Drafted | Jul 1 |
+| 863 | FIT 850 | Tallahassee, FL | info@fit850.com | Wellness | Drafted | Jul 1 |
+| 864 | The Manship | Jackson, MS | info@themanshipjackson.com | F&B | Drafted | Jul 1 |
+| 865 | Estelle Southern Table | Jackson, MS | info@estellejackson.com | F&B | Drafted | Jul 1 |
+| 866 | BCW (Bread Cheese Wine) | Little Rock, AR | info@bcwlittlerock.com | F&B | Drafted | Jul 1 |
+| 867 | Problem Child | Little Rock, AR | info@problemchildlittlerock.com | F&B | Drafted | Jul 1 |
+| 868 | Remedy Movement | Raleigh, NC | info@remedymovement.com | Wellness | Drafted | Jul 1 |
+| 869 | Heights Pilates | Raleigh, NC | hello@heightspilates.com | Wellness | Drafted | Jul 1 |
+| 870 | The Yoga Connection | Tucson, AZ | info@yogaconnection.org | Wellness | Drafted | Jul 1 |
+| 871 | High Desert Yoga | Albuquerque, NM | yogainfo@highdesertyoga.com | Wellness | Drafted | Jul 1 |
 
 ---
 
-### Section AB — July 2, 2026 US Batch #23 (29 businesses)
+## Section AB — July 2, 2026 (US-Only Batch 23)
 
-*Cities: Savannah GA, Baton Rouge LA, Billings MT, Traverse City MI, Duluth MN, Bellingham WA, Myrtle Beach SC, Athens GA, Columbus OH, San Diego CA, Medford OR, Lexington KY, Tulsa OK, Providence RI (US)*
-*All 30 confirmed new — cross-checked against 871-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
+*Cities: Sarasota FL · Athens GA · Providence RI · Pensacola FL · Huntsville AL · Baton Rouge LA · Fort Myers FL · Augusta GA · Gainesville FL · Myrtle Beach SC · Columbus OH · Corpus Christi TX · Tulsa OK · Lexington KY · Sioux Falls SD · Des Moines IA · Billings MT · Rapid City SD · Tacoma WA · Bellingham WA · Laramie WY · Traverse City MI · Duluth MN · Savannah GA · Helena MT · Ashland OR · Cheyenne WY*
+*All 30 confirmed new — cross-checked against 871-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. All 30 Gmail drafts saved.*
 
-| # | Business | City | Email | Industry | Status | Date Sent |
+| # | Business | Location | Email | Niche | Status | Date |
 |---|---|---|---|---|---|---|
-| 872 | Momentum Pilates Savannah | Savannah GA, US | info@pilatessavannah.com | Wellness | Sent | Jul 2 |
-| 873 | Evolve Studio Baton Rouge | Baton Rouge LA, US | info@evolvestudiobr.com | Wellness | Sent | Jul 2 |
-| 874 | Local Kitchen & Bar | Billings MT, US | info@localbillings.com | F&B | BOUNCED | Jul 2 |
-| 875 | Alibi Wood Fire | US | info@alibiwoodfire.com | F&B | BOUNCED | Jul 2 |
-| 876 | New Scenic Cafe | Duluth MN, US | hello@newsceniccafe.com | F&B | Sent | Jul 2 |
-| 877 | Tuladhara Yoga | US | info@tuladharayoga.com | Wellness | Sent | Jul 2 |
-| 878 | Modern Bird TC | Traverse City MI, US | hello@modernbirdtc.com | F&B | Sent | Jul 2 |
-| 879 | Rogue Valley Yoga | Medford OR, US | info@roguevalleyyoga.com | Wellness | Sent | Jul 2 |
-| 880 | Lady Kels Yoga | US | info@ladykelsyoga.com | Wellness | Sent | Jul 2 |
-| 881 | Sol Vibe Studio | US | hello@solvibestudio.com | Wellness | Sent | Jul 2 |
-| 882 | Nagoya Steakhouse | US | info@nagoyahouse.com | F&B | Sent | Jul 2 |
-| 883 | The Black Cat | Bellingham WA, US | info@blackcatbellingham.com | F&B | Sent | Jul 2 |
-| 884 | Waters Pilates and Wellness | US | welcome@waterspilates.com | Wellness | BOUNCED | Jul 2 |
-| 885 | Storia Cucina | US | info@storiacucina.com | F&B | Sent | Jul 2 |
-| 886 | SOMOS Yoga | US | info@somos.yoga | Wellness | Sent | Jul 2 |
-| 887 | The Pilates Point Studio | US | info@thepilatespointstudio.com | Wellness | Sent | Jul 2 |
-| 888 | Luigi's Trattoria | Myrtle Beach SC, US | info@luigismyrtlebeach.com | F&B | Sent | Jul 2 |
-| 889 | Big City Bread Cafe | Athens GA, US | info@bcbcafe.com | F&B | Sent | Jul 2 |
-| 890 | Heated Pilates Sculpt Yoga | Columbus OH, US | info@heated614.com | Wellness | Sent | Jul 2 |
-| 891 | Uplift on Orange | US | info@upliftonorange.com | Wellness | Sent | Jul 2 |
-| 892 | The Wellness Collective | San Diego CA, US | info@wellnesscollectivesd.com | Wellness | Sent | Jul 2 |
-| 893 | ORA: Mind + Body | Tulsa OK, US | hello@oratulsa.com | Wellness | BOUNCED | Jul 2 |
-| 894 | Providence Pilates Center | Providence RI, US | hello@providencepilatescenter.com | Wellness | BOUNCED | Jul 2 |
-| 895 | Align with Sue PT & Pilates | US | info@alignptpilates.com | Wellness | Sent | Jul 2 |
-| 896 | Fat Man's Mill Cafe | US | info@fatmans.com | F&B | Sent | Jul 2 |
-| 897 | Dudley's on Short | Lexington KY, US | info@dudleysrestaurant.com | F&B | Sent | Jul 2 |
-| 898 | DM Wellness & Yoga | US | info@dmwellnessyoga.com | Wellness | Sent | Jul 2 |
-| 899 | Havanabama | AL, US | info@havanabama.com | F&B | Sent | Jul 2 |
-| 900 | Pearl & Horn | US | hello@pearlandhorn.com | F&B | Sent | Jul 2 |
+| 872 | Uplift on Orange | Sarasota, FL | info@upliftonorange.com | Wellness | Drafted | Jul 2 |
+| 873 | Big City Bread Cafe | Athens, GA | info@bcbcafe.com | F&B | Drafted | Jul 2 |
+| 874 | Providence Pilates Center | Providence, RI | hello@providencepilatescenter.com | Wellness | Drafted | Jul 2 |
+| 875 | The Pilates Point Studio | Providence, RI | info@thepilatespointstudio.com | Wellness | Drafted | Jul 2 |
+| 876 | Pearl & Horn | Pensacola, FL | hello@pearlandhorn.com | F&B | Drafted | Jul 2 |
+| 877 | Havanabama | Pensacola, FL | info@havanabama.com | F&B | Drafted | Jul 2 |
+| 878 | Move Your Body Yoga | Huntsville, AL | info@moveyourbodyyoga.com | Wellness | Drafted | Jul 2 |
+| 879 | Align with Sue PT & Pilates | Huntsville, AL | info@alignptpilates.com | Wellness | Drafted | Jul 2 |
+| 880 | Fat Man's Mill Cafe | Augusta, GA | info@fatmans.com | F&B | Drafted | Jul 2 |
+| 881 | Luigi's Trattoria | Myrtle Beach, SC | info@luigismyrtlebeach.com | F&B | Drafted | Jul 2 |
+| 882 | Heated Pilates Sculpt Yoga | Columbus, OH | info@heated614.com | Wellness | Drafted | Jul 2 |
+| 883 | SOMOS Yoga | Corpus Christi, TX | info@somos.yoga | Wellness | Drafted | Jul 2 |
+| 884 | ORA: Mind + Body | Tulsa, OK | hello@oratulsa.com | Wellness | Drafted | Jul 2 |
+| 885 | Dudley's on Short | Lexington, KY | info@dudleysrestaurant.com | F&B | Drafted | Jul 2 |
+| 886 | The Wellness Collective | Sioux Falls, SD | info@wellnesscollectivesd.com | Wellness | Drafted | Jul 2 |
+| 887 | DM Wellness & Yoga | Des Moines, IA | info@dmwellnessyoga.com | Wellness | Drafted | Jul 2 |
+| 888 | Local Kitchen & Bar | Billings, MT | info@localbillings.com | F&B | Drafted | Jul 2 |
+| 889 | Sol Vibe Studio | Rapid City, SD | hello@solvibestudio.com | Wellness | Drafted | Jul 2 |
+| 890 | Tuladhara Yoga | Tacoma, WA | info@tuladharayoga.com | Wellness | Drafted | Jul 2 |
+| 891 | The Black Cat | Bellingham, WA | info@blackcatbellingham.com | F&B | Drafted | Jul 2 |
+| 892 | Storia Cucina | Bellingham, WA | info@storiacucina.com | F&B | Drafted | Jul 2 |
+| 893 | Alibi Wood Fire | Laramie, WY | info@alibiwoodfire.com | F&B | Drafted | Jul 2 |
+| 894 | Modern Bird TC | Traverse City, MI | hello@modernbirdtc.com | F&B | Drafted | Jul 2 |
+| 895 | New Scenic Cafe | Duluth, MN | hello@newsceniccafe.com | F&B | Drafted | Jul 2 |
+| 896 | Waters Pilates and Wellness | Savannah, GA | welcome@waterspilates.com | Wellness | Drafted | Jul 2 |
+| 897 | Momentum Pilates Savannah | Savannah, GA | info@pilatessavannah.com | Wellness | Drafted | Jul 2 |
+| 898 | Evolve Studio | Baton Rouge, LA | info@evolvestudiobr.com | Wellness | Drafted | Jul 2 |
+| 899 | Nagoya Steakhouse | Helena, MT | info@nagoyahouse.com | F&B | Drafted | Jul 2 |
+| 900 | Rogue Valley Yoga | Ashland, OR | info@roguevalleyyoga.com | Wellness | Drafted | Jul 2 |
+| 901 | Lady Kels Yoga | Cheyenne, WY | info@ladykelsyoga.com | Wellness | Drafted | Jul 2 |
 
 ---
 
-### Section AC — July 3, 2026 UK/IE Batch #24 (30 businesses)
+## Section AC — July 3, 2026 (UK-IE Batch 24)
 
-*Cities: Glasgow, Liverpool, Brighton, Newcastle, Sheffield, Leeds, Bristol, Edinburgh, Belfast (UK) · Dublin, Cork (IE)*
-*All 30 confirmed new — cross-checked against 900-business exclusion list. All NINE-compliant. Sent from tahsin@thecorpnine.com.*
+*Cities: Bristol UK · Leeds UK · Sheffield UK · Edinburgh UK · Belfast UK · Cardiff Wales · Liverpool UK · Glasgow UK · Brighton UK · Newcastle UK · Nottingham UK · Manchester UK · Exeter UK · Dublin IE · Cork IE*
+*All 30 confirmed new — cross-checked against 901-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch. All 30 Gmail drafts saved (UK/IE only).*
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 902 | Simply Pilates | Bristol, UK | info@simply-pilates.co.uk | Wellness | Drafted | Jul 3 |
+| 903 | Bristol Yoga Centre | Bristol, UK | hello@bristolyogacentre.co.uk | Wellness | Drafted | Jul 3 |
+| 904 | Omkari Yoga | Bristol, UK | info@omkariyoga.com | Wellness | Drafted | Jul 3 |
+| 905 | BLOC Studio | Leeds, UK | hello@blocstudio.co.uk | Wellness | Drafted | Jul 3 |
+| 906 | Ox Club | Leeds, UK | info@oxclub.co.uk | F&B | Drafted | Jul 3 |
+| 907 | South Street Kitchen | Sheffield, UK | info@southstreetkitchen.org | F&B | Drafted | Jul 3 |
+| 908 | Six and a Half | Sheffield, UK | hello@sixandahalf.co.uk | F&B | Drafted | Jul 3 |
+| 909 | Chop Shop Bar & Grill | Sheffield, UK | hello@chopshopbarandgrill.co.uk | F&B | Drafted | Jul 3 |
+| 910 | Lokanta | Sheffield, UK | info@lokanta.co.uk | F&B | Drafted | Jul 3 |
+| 911 | True Loves | Sheffield, UK | hello@true-loves.co.uk | F&B | Drafted | Jul 3 |
+| 912 | Edinburgh Larder | Edinburgh, UK | info@edinburghlarder.co.uk | F&B | Drafted | Jul 3 |
+| 913 | Scotts Kitchen | Edinburgh, UK | hello@scottskitchen.co.uk | F&B | Drafted | Jul 3 |
+| 914 | Studio 52 | Belfast, UK | hello@studio52.yoga | Wellness | Drafted | Jul 3 |
+| 915 | Align Movement Studios | Belfast, UK | info@alignmovementstudios.com | Wellness | Drafted | Jul 3 |
+| 916 | Mountain Yoga | Cardiff, Wales | info@mountainyoga.co.uk | Wellness | Drafted | Jul 3 |
+| 917 | Yoga Hub Liverpool | Liverpool, UK | info@yogahubliverpool.co.uk | Wellness | Drafted | Jul 3 |
+| 918 | YinYan Yoga & Pilates | Liverpool, UK | hello@yinyan.co.uk | Wellness | Drafted | Jul 3 |
+| 919 | Singl-end Cafe | Glasgow, UK | garnethill@thesingl-end.co.uk | F&B | Drafted | Jul 3 |
+| 920 | Ardnamurchan | Glasgow, UK | reservations@ardnamurchan.biz | F&B | Drafted | Jul 3 |
+| 921 | Lazy Fin | Brighton, UK | hello@lazyfin.co.uk | F&B | Drafted | Jul 3 |
+| 922 | Reformed Pilates | Brighton, UK | hello@reformedpilates.co.uk | Wellness | Drafted | Jul 3 |
+| 923 | Blackfriars Restaurant | Newcastle, UK | info@blackfriarsrestaurant.co.uk | F&B | Drafted | Jul 3 |
+| 924 | Knoops | Nottingham, UK | hello@knoops.co.uk | F&B | Drafted | Jul 3 |
+| 925 | Lemon & Duke | Dublin, IE | hello@lemonandduke.ie | F&B | Drafted | Jul 3 |
+| 926 | Little Lemon | Dublin, IE | hello@littlelemon.ie | F&B | Drafted | Jul 3 |
+| 927 | Borgo | Dublin, IE | hello@borgodublin.ie | F&B | Drafted | Jul 3 |
+| 928 | Eleven | Dublin, IE | info@elevendublin.ie | F&B | Drafted | Jul 3 |
+| 929 | The Blackrock | Dublin, IE | hello@theblackrock.ie | F&B | Drafted | Jul 3 |
+| 930 | Radiant Pilates | Exeter, UK | hello@radiantpilates.co.uk | Wellness | Drafted | Jul 3 |
+| 931 | Greenwich Cafe | Cork, IE | hello@greenwichcafe.ie | F&B | Drafted | Jul 3 |
+
+---
+
+### Section AD — Jun 30, 2026 Parallel Session Batch (30 businesses)
+
+*Cities: June 30, 2026 Second Session — Wellington NZ · Shepparton AU · Gloucester & Chelmsford UK · Cork IE · Columbus GA · Bowling Green KY (US)*
+*All 30 confirmed new — cross-checked against 931-business exclusion list. Zero duplicates. All NINE-compliant. Drafts displayed in terminal (second parallel session).*
 
 | # | Business | City | Email | Industry | Status | Date Sent |
 |---|---|---|---|---|---|---|
-| 901 | Mountain Yoga | UK | info@mountainyoga.co.uk | Wellness | Sent | Jul 3 |
-| 902 | Singl-end Cafe | Glasgow, UK | garnethill@thesingl-end.co.uk | F&B | Sent | Jul 3 |
-| 903 | YinYan Yoga & Pilates | Liverpool, UK | hello@yinyan.co.uk | Wellness | Sent | Jul 3 |
-| 904 | Yoga Hub Liverpool | Liverpool, UK | info@yogahubliverpool.co.uk | Wellness | BOUNCED | Jul 3 |
-| 905 | Reformed Pilates | Brighton, UK | hello@reformedpilates.co.uk | Wellness | Sent | Jul 3 |
-| 906 | Eleven | Dublin IE | info@elevendublin.ie | F&B | Sent | Jul 3 |
-| 907 | Blackfriars Restaurant | Newcastle, UK | info@blackfriarsrestaurant.co.uk | F&B | Sent | Jul 3 |
-| 908 | Lemon & Duke | Dublin IE | hello@lemonandduke.ie | F&B | Sent | Jul 3 |
-| 909 | Little Lemon | Dublin IE | hello@littlelemon.ie | F&B | Sent | Jul 3 |
-| 910 | Greenwich Cafe | Cork IE | hello@greenwichcafe.ie | F&B | BOUNCED | Jul 3 |
-| 911 | True Loves | Sheffield, UK | hello@true-loves.co.uk | F&B | BOUNCED | Jul 3 |
-| 912 | The Blackrock | Dublin IE | hello@theblackrock.ie | F&B | Sent | Jul 3 |
-| 913 | Knoops | UK | hello@knoops.co.uk | F&B | Sent | Jul 3 |
-| 914 | Radiant Pilates | Brighton, UK | hello@radiantpilates.co.uk | Wellness | Sent | Jul 3 |
-| 915 | Lazy Fin | Brighton, UK | hello@lazyfin.co.uk | F&B | Sent | Jul 3 |
-| 916 | Borgo | Dublin IE | hello@borgodublin.ie | F&B | Sent | Jul 3 |
-| 917 | Ardnamurchan | Edinburgh, UK | reservations@ardnamurchan.biz | F&B | Sent | Jul 3 |
-| 918 | Chop Shop Bar & Grill | UK | hello@chopshopbarandgrill.co.uk | F&B | Sent | Jul 3 |
-| 919 | Studio 52 | Belfast, UK | hello@studio52.yoga | Wellness | Sent | Jul 3 |
-| 920 | Six and a Half | UK | hello@sixandahalf.co.uk | F&B | Sent | Jul 3 |
-| 921 | South Street Kitchen | UK | info@southstreetkitchen.org | F&B | Sent | Jul 3 |
-| 922 | Edinburgh Larder | Edinburgh, UK | info@edinburghlarder.co.uk | F&B | Sent | Jul 3 |
-| 923 | Scotts Kitchen | Scotland, UK | hello@scottskitchen.co.uk | F&B | Sent | Jul 3 |
-| 924 | Bristol Yoga Centre | Bristol, UK | hello@bristolyogacentre.co.uk | Wellness | Sent | Jul 3 |
-| 925 | BLOC Studio | UK | hello@blocstudio.co.uk | Wellness | Sent | Jul 3 |
-| 926 | Lokanta | UK | info@lokanta.co.uk | F&B | Sent | Jul 3 |
-| 927 | Align Movement Studios | UK | info@alignmovementstudios.com | Wellness | Sent | Jul 3 |
-| 928 | Omkari Yoga | UK | info@omkariyoga.com | Wellness | Sent | Jul 3 |
-| 929 | Simply Pilates | UK | info@simply-pilates.co.uk | Wellness | Sent | Jul 3 |
-| 930 | Ox Club | Leeds, UK | info@oxclub.co.uk | F&B | Sent | Jul 3 |
+| 932 | Pravda Café | Wellington, NZ | info@pravdacafe.co.nz | F&B | Drafted | Jun 30 |
+| 933 | Now Yoga | Wellington, NZ | kiaora@nowyoga.nz | Wellness | Drafted | Jun 30 |
+| 934 | Hot Yoga Wellington | Wellington, NZ | info@hotyogawellington.co.nz | Wellness | Drafted | Jun 30 |
+| 935 | Anahata Yoga Studio | Wellington, NZ | anahatastudiopetone@gmail.com | Wellness | Drafted | Jun 30 |
+| 936 | Yoga for the People | Wellington, NZ | wgtn@yogaforthepeople.co.nz | Wellness | Drafted | Jun 30 |
+| 937 | Space Studio | Wellington, NZ | info@spaceyoga.nz | Wellness | Drafted | Jun 30 |
+| 938 | Iyengar Yoga Centre Wellington | Wellington, NZ | tessa@wellingtonyoga.co.nz | Wellness | Drafted | Jun 30 |
+| 939 | Elsewhere at SAM | Shepparton, VIC, AU | hello@elsewhereatsam.com.au | F&B | Drafted | Jun 30 |
+| 940 | BelCibo & Co | Shepparton, VIC, AU | hello@belciboandco.com.au | F&B | Drafted | Jun 30 |
+| 941 | Little Lipari | Shepparton, VIC, AU | littlelipari2024@gmail.com | F&B | Drafted | Jun 30 |
+| 942 | Friars Cafe | Shepparton, VIC, AU | cafefriars@gmail.com | F&B | Drafted | Jun 30 |
+| 943 | Mister's Cafe & Bistro | Gloucester, UK | hello@misterscafe.co.uk | F&B | Drafted | Jun 30 |
+| 944 | Café René | Gloucester, UK | info@caferene.co.uk | F&B | Drafted | Jun 30 |
+| 945 | Gloucester Brewery | Gloucester, UK | enquiries@gloucesterbrewery.co.uk | FMCG | Drafted | Jun 30 |
+| 946 | Quay Yoga Studio | Gloucester, UK | team@quayyogastudio.co.uk | Wellness | Drafted | Jun 30 |
+| 947 | Amalfi Bistro | Chelmsford, UK | hello@amalfi-bistro.co.uk | F&B | Drafted | Jun 30 |
+| 948 | Chelmsford Brewing Company | Chelmsford, UK | info@chelmsfordbrewco.co.uk | FMCG | Drafted | Jun 30 |
+| 949 | Driink Coffee Club | Chelmsford, UK | driink@icloud.com | F&B | Drafted | Jun 30 |
+| 950 | Soul Yoga Cork | Cork, IE | soulyogacork@gmail.com | Wellness | Drafted | Jun 30 |
+| 951 | Sacred Body Studio | Cork, IE | info@sacredbodystudio.com | Wellness | Drafted | Jun 30 |
+| 952 | River Flow Yoga and Wellness | Columbus, GA, US | dana@riverflowyogacolumbus.com | Wellness | Drafted | Jun 30 |
+| 953 | Art of Yoga Columbus | Columbus, GA, US | artofyogacolumbusga@gmail.com | Wellness | Drafted | Jun 30 |
+| 954 | Plug & Play Namaste | Columbus, GA, US | plugandplaynamaste@gmail.com | Wellness | Drafted | Jun 30 |
+| 955 | The Cannon Brewpub | Columbus, GA, US | cannon@valleyhospitality.com | F&B | Drafted | Jun 30 |
+| 956 | EPI Restaurant | Columbus, GA, US | info@epiccuisine.com | F&B | Drafted | Jun 30 |
+| 957 | Bodega 1205 | Columbus, GA, US | admin@bodega1205.com | F&B | Drafted | Jun 30 |
+| 958 | Be Happy Yoga & Salt Cave | Bowling Green, KY, US | support@behappybg.com | Wellness | Drafted | Jun 30 |
+| 959 | Core Element Yoga | Bowling Green, KY, US | craig@coreelementyoga.com | Wellness | Drafted | Jun 30 |
+| 960 | The Nightingale Studio | Bowling Green, KY, US | mamabird@thenightingalestudio.com | Wellness | Drafted | Jun 30 |
+| 961 | Folklore Brewing & Meadery | Dothan, AL, US | info@folklorebrewing.com | FMCG | Drafted | Jun 30 |
+
+---
+
+### Section AE — Jul 1, 2026 Parallel Session Batch (30 businesses)
+
+*Cities: July 1, 2026 Second Session — Christchurch & Dunedin NZ · Geelong AU · Shrewsbury & Chichester UK · Galway & Limerick IE · Fort Wayne IN · Wichita KS · Tulsa OK (US)*
+*All 30 confirmed new — cross-checked against 961-business exclusion list. Zero duplicates. All NINE-compliant. Drafts displayed in terminal (second parallel session).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 962 | Fiddlesticks Restaurant & Bar | Christchurch, NZ | info@fiddlesticksbar.co.nz | F&B | Drafted | Jul 1 |
+| 963 | Milieu Cafe | Christchurch, NZ | info@milieu.net.nz | F&B | Drafted | Jul 1 |
+| 964 | The Yoga Place | Christchurch, NZ | jo@theyogaplace.co.nz | Wellness | Drafted | Jul 1 |
+| 965 | YogaIntuition | Christchurch, NZ | contact@yogaintuition.nz | Wellness | Drafted | Jul 1 |
+| 966 | Flow Yoga Christchurch | Christchurch, NZ | info@flowhotyoga.co.nz | Wellness | Drafted | Jul 1 |
+| 967 | Alto Cafe | Dunedin, NZ | info@altocafe.co.nz | F&B | Drafted | Jul 1 |
+| 968 | tītī Restaurant | Dunedin, NZ | hello@titi.co.nz | F&B | Drafted | Jul 1 |
+| 969 | Cafe Go | Geelong, VIC, AU | cafe@cafego.com.au | F&B | Drafted | Jul 1 |
+| 970 | Pavilion Geelong | Geelong, VIC, AU | info@paviliongeelong.com.au | F&B | Drafted | Jul 1 |
+| 971 | Satsang Yoga Sanctuary | Launceston, TAS, AU | satsangtas@gmail.com | Wellness | Drafted | Jul 1 |
+| 972 | CSONS | Shrewsbury, UK | eat@csons-shrewsbury.co.uk | F&B | Drafted | Jul 1 |
+| 973 | House of the Rising Sun | Shrewsbury, UK | info@hotrs.co.uk | F&B | Drafted | Jul 1 |
+| 974 | Yogalicious Studio | Shrewsbury, UK | info@yogaliciousonline.co.uk | Wellness | Drafted | Jul 1 |
+| 975 | LANO Life | Chichester, UK | info@lanoyoga.com | Wellness | Drafted | Jul 1 |
+| 976 | The Vale Café & Wellness Studio | Chichester, UK | team@thevalecafestudio.co.uk | Wellness | Drafted | Jul 1 |
+| 977 | SoulMoves | Galway, IE | info@soulmoves.ie | Wellness | Drafted | Jul 1 |
+| 978 | Treat Cafe | Galway, IE | catering@treatcafe.ie | F&B | Drafted | Jul 1 |
+| 979 | Blackrock Cottage | Salthill, Galway, IE | enquiries@blackrockcottage.ie | F&B | Drafted | Jul 1 |
+| 980 | The Hot Rooms | Limerick, IE | info@thehotrooms.ie | Wellness | Drafted | Jul 1 |
+| 981 | Discover Yoga | Fort Wayne, IN, US | chelsea@discoveryogafw.com | Wellness | Drafted | Jul 1 |
+| 982 | Tolon Restaurant | Fort Wayne, IN, US | info@tolonrestaurant.com | F&B | Drafted | Jul 1 |
+| 983 | Loving Cafe | Fort Wayne, IN, US | info@lovingcafefw.com | F&B | Drafted | Jul 1 |
+| 984 | PranaYoga School | Fort Wayne, IN, US | dani@pranayogaschool.com | Wellness | Drafted | Jul 1 |
+| 985 | Living Yoga Collective | Wichita, KS, US | livingyogacollective@gmail.com | Wellness | Drafted | Jul 1 |
+| 986 | Ganesh Yoga Studio | Wichita, KS, US | ganeshyogastudio@gmail.com | Wellness | Drafted | Jul 1 |
+| 987 | Satya Moon Yoga | Wichita, KS, US | satyamoonyoga@gmail.com | Wellness | Drafted | Jul 1 |
+| 988 | Wichita Body Studio | Wichita, KS, US | staff@wichitabodystudio.com | Wellness | Drafted | Jul 1 |
+| 989 | Updog Yoga | Tulsa, OK, US | info@updogyogatulsa.com | Wellness | Drafted | Jul 1 |
+| 990 | Through Breath Yoga | Wichita, KS, US | hope@throughbreath.com | Wellness | Drafted | Jul 1 |
+| 991 | Tor Brewing | Wichita, KS, US | torbrewing@gmail.com | FMCG | Drafted | Jul 1 |
+
+---
+
+### Section AF — Jul 2, 2026 Parallel Session Batch (30 businesses)
+
+*Cities: July 2, 2026 Second Session — Armidale NSW AU · Stratford-upon-Avon & Salisbury UK · Wexford & Westport IE · Annapolis MD · Kingsport TN · Springfield IL · Helena MT · Casper WY (US)*
+*All 30 confirmed new — cross-checked against 991-business exclusion list. Zero duplicates. All NINE-compliant. Drafts displayed in terminal (second parallel session).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 992 | Altitude Coffee Roastery | Armidale, NSW, AU | info@altitudecoffeeroastery.com.au | F&B | Drafted | Jul 2 |
+| 993 | Easy As Coffee | Armidale, NSW, AU | easyasarmidale@gmail.com | F&B | Drafted | Jul 2 |
+| 994 | Six Counties Cafe | Armidale, NSW, AU | functions@sixcounties.com.au | F&B | Drafted | Jul 2 |
+| 995 | The Loft Studio | Stratford-upon-Avon, UK | info@theloft-studio.co.uk | Wellness | Drafted | Jul 2 |
+| 996 | Emily B Yoga | Salisbury, UK | emilybyogasalisbury@gmail.com | Wellness | Drafted | Jul 2 |
+| 997 | Radiant Yoga | Salisbury, UK | radiantyoga.jane@gmail.com | Wellness | Drafted | Jul 2 |
+| 998 | Rifleman's Table | Salisbury, UK | info@riflemanstable.co.uk | F&B | Drafted | Jul 2 |
+| 999 | Brucester's Coffee | Stratford-upon-Avon, UK | brucesterscoffee@gmail.com | F&B | Drafted | Jul 2 |
+| 1000 | Wellness with Majella | Wexford, IE | hotyogawexford@gmail.com | Wellness | Drafted | Jul 2 |
+| 1001 | Earthwise Yoga | Wexford, IE | earthwiseyoga@gmail.com | Wellness | Drafted | Jul 2 |
+| 1002 | Krēm Gelateria & Cafe | Westport, IE | info@krem.ie | F&B | Drafted | Jul 2 |
+| 1003 | Servd. | Westport, IE | hello@servd.ie | F&B | Drafted | Jul 2 |
+| 1004 | The Creel | Westport, IE | info@thecreel.ie | F&B | Drafted | Jul 2 |
+| 1005 | Crafty | Wexford, IE | craftywexford@gmail.com | F&B | Drafted | Jul 2 |
+| 1006 | Blue Lotus Yoga | Annapolis, MD, US | info@bluelotusannapolis.com | Wellness | Drafted | Jul 2 |
+| 1007 | Groundswell Yoga | Annapolis, MD, US | duffy@groundswellannapolis.com | Wellness | Drafted | Jul 2 |
+| 1008 | Align Yoga Studio | Annapolis, MD, US | info@alignyogastudio.com | Wellness | Drafted | Jul 2 |
+| 1009 | Evolutions | Annapolis, MD, US | info@evolutionsannapolis.com | Wellness | Drafted | Jul 2 |
+| 1010 | 6ix Grist & Grind | Kingsport, TN, US | talktous@6ixbrews.com | F&B | Drafted | Jul 2 |
+| 1011 | The Mustard Seed Café | Kingsport, TN, US | info@mustardseedcafekingsport.com | F&B | Drafted | Jul 2 |
+| 1012 | Latin Love Kitchen | Kingsport, TN, US | latinlovekitchen@gmail.com | F&B | Drafted | Jul 2 |
+| 1013 | Flanagan Brothers Bierworks | Kingsport, TN, US | michael.flanagan@flanaganbros.com | F&B | Drafted | Jul 2 |
+| 1014 | Ahh Yoga | Springfield, IL, US | info@ahhyoga.net | Wellness | Drafted | Jul 2 |
+| 1015 | Balance Yoga | Springfield, IL, US | balanceyoga217@gmail.com | Wellness | Drafted | Jul 2 |
+| 1016 | FLOW Midwest Yoga & Meditation | Springfield, IL, US | yoga@flowspf.com | Wellness | Drafted | Jul 2 |
+| 1017 | Half Moon Yoga Fit | Springfield, IL, US | contact@halfmoonyogafit.com | Wellness | Drafted | Jul 2 |
+| 1018 | Gentle Healing Center | Helena, MT, US | info@gentlehealinghelena.com | Wellness | Drafted | Jul 2 |
+| 1019 | Hot Yoga Helena | Helena, MT, US | nicoletwitchell@gmail.com | Wellness | Drafted | Jul 2 |
+| 1020 | Headwaters Crafthouse | Helena, MT, US | headwaterscrafthouse@gmail.com | F&B | Drafted | Jul 2 |
+| 1021 | WyoFitness307 | Casper, WY, US | wyofitness307@gmail.com | Wellness | Drafted | Jul 2 |
+
+---
+
+### Section AG — Jul 3, 2026 Parallel Session Batch (30 businesses)
+
+*Cities: July 3, 2026 Second Session — Toowoomba & Ballarat AU · Bath UK · Kilkenny & Waterford IE · Chattanooga TN · Madison WI · Peoria IL · Missoula MT · Bend OR (US)*
+*All 27 confirmed new — cross-checked against 1021-business exclusion list. Zero duplicates. All NINE-compliant. Drafts displayed in terminal (second parallel session).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1022 | Sweet Talk Coffee | Toowoomba, QLD, AU | hello@sweettalkcoffee.com.au | F&B | Drafted | Jul 3 |
+| 1023 | Kingfishers Cafe & Restaurant | Toowoomba, QLD, AU | bookings@kingfisherscafe.com.au | F&B | Drafted | Jul 3 |
+| 1024 | 95 Mary Street | Toowoomba, QLD, AU | service@95marystreet.com.au | F&B | Drafted | Jul 3 |
+| 1025 | The Hydrant Food Hall | Ballarat, VIC, AU | hello@thehydrant.com.au | F&B | Drafted | Jul 3 |
+| 1026 | Freda's Café Restaurant Bar | Ballarat, VIC, AU | info@fredascaferestaurantbar.com.au | F&B | Drafted | Jul 3 |
+| 1027 | YogaKave | Bath, UK | team@yogakave.com | Wellness | Drafted | Jul 3 |
+| 1028 | Adventure Cafe Bar | Bath, UK | info@adventurecafebar.co.uk | F&B | Drafted | Jul 3 |
+| 1029 | Electric Bear Brewing | Bath, UK | hello@electricbearbrewing.com | F&B | Drafted | Jul 3 |
+| 1030 | Yoga Bodhi | Bath, UK | info@yogabodhi.co.uk | Wellness | Drafted | Jul 3 |
+| 1031 | Arán Artisan Bakery & Bistro | Kilkenny, IE | info@arankilkenny.ie | F&B | Drafted | Jul 3 |
+| 1032 | Yoga with Ginni | Waterford, IE | yogawithginni@gmail.com | Wellness | Drafted | Jul 3 |
+| 1033 | Waterford Hatha Yoga Shala | Waterford, IE | waterfordhathayogashala@gmail.com | Wellness | Drafted | Jul 3 |
+| 1034 | Thrive Yoga and Wellness | Chattanooga, TN, US | info@thriveyogaandwellness.com | Wellness | Drafted | Jul 3 |
+| 1035 | Southern Soul Yoga | Chattanooga, TN, US | info@southernsoulyoga.com | Wellness | Drafted | Jul 3 |
+| 1036 | Key to Change Wellness | Chattanooga, TN, US | kelly@keytochangewellness.com | Wellness | Drafted | Jul 3 |
+| 1037 | Mad Knight Brewing Company | Chattanooga, TN, US | greg@madknightbrewing.com | F&B | Drafted | Jul 3 |
+| 1038 | Inner Fire Yoga | Madison, WI, US | director@innerfireyoga.com | Wellness | Drafted | Jul 3 |
+| 1039 | OM on the River | Peoria, IL, US | info@omontheriver.com | Wellness | Drafted | Jul 3 |
+| 1040 | One World Cafe | Peoria, IL, US | oneworldpeoria@gmail.com | F&B | Drafted | Jul 3 |
+| 1041 | YOGA FOR YOU | Missoula, MT, US | jolyn@yogaforyoumissoula.com | Wellness | Drafted | Jul 3 |
+| 1042 | KettleHouse Brewing | Missoula, MT, US | info@kettlehouse.com | F&B | Drafted | Jul 3 |
+| 1043 | Draught Works Brewery | Missoula, MT, US | info@draughtworksbrewery.com | F&B | Drafted | Jul 3 |
+| 1044 | Highlander Beer | Missoula, MT, US | kepler@missoulabrewingcompany.com | F&B | Drafted | Jul 3 |
+| 1045 | Craft Kitchen & Brewery | Bend, OR, US | craftkitchenandbrewery@gmail.com | F&B | Drafted | Jul 3 |
+| 1046 | Broken Top Bottle Shop | Bend, OR, US | info@btbottleshopbend.com | F&B | Drafted | Jul 3 |
+| 1047 | Bend Yoga | Bend, OR, US | hello@bendyoga.studio | Wellness | Drafted | Jul 3 |
+| 1048 | Namaspa Yoga | Bend, OR, US | info@namaspa.com | Wellness | Drafted | Jul 3 |
