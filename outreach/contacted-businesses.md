@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 1048
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27)
+**Total unique businesses:** 1,078
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30)
 
 ---
 
@@ -1421,3 +1421,43 @@
 | 1046 | Broken Top Bottle Shop | Bend, OR, US | info@btbottleshopbend.com | F&B | Drafted | Jul 3 |
 | 1047 | Bend Yoga | Bend, OR, US | hello@bendyoga.studio | Wellness | Drafted | Jul 3 |
 | 1048 | Namaspa Yoga | Bend, OR, US | info@namaspa.com | Wellness | Drafted | Jul 3 |
+
+---
+
+### Section AH — July 6, 2026 Multi-City Batch #25 (30 businesses)
+
+*Cities: Roanoke VA · Harrisonburg VA · Richmond VA · Lynchburg VA · Charlottesville VA (US-ET) · Greenville SC · Savannah GA · Macon GA (US-ET South) · South Burlington VT (US-ET NE) · Totnes Devon · Falmouth Cornwall · Lichfield · York · Norwich · Skipton · Wakefield (UK) · Inverness (Scotland) · Byron Bay NSW · Geelong VIC · Launceston TAS · Hobart TAS (AU)*
+*All 30 confirmed new — cross-checked against 1,048-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch. 30 Gmail drafts saved.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1049 | Grace Yoga and Pilates | Roanoke, VA, US | GraceYogaRoanoke@gmail.com | Wellness | Drafted | Jul 6 |
+| 1050 | LuzLife | Roanoke, VA, US | timeless@luzlife.com | Wellness | Drafted | Jul 6 |
+| 1051 | Ate O'Clock | York, UK | info@ateoclock.co.uk | F&B | Drafted | Jul 6 |
+| 1052 | Bamboo Yoga School | Byron Bay, NSW, AU | BambooYogaSchool@gmail.com | Wellness | Drafted | Jul 6 |
+| 1053 | Downtown Yoga Greenville | Greenville, SC, US | lisa@downtownyogagreenville.com | Wellness | Drafted | Jul 6 |
+| 1054 | Happy Om | Norwich, UK | happyomnorwich@gmail.com | Wellness | Drafted | Jul 6 |
+| 1055 | The Wellness Hub Falmouth | Falmouth, Cornwall, UK | info@thewellnesshubfalmouth.co.uk | Wellness | Drafted | Jul 6 |
+| 1056 | Thyme Kitchen | Lichfield, UK | hello@thymekitchen.co.uk | F&B | Drafted | Jul 6 |
+| 1057 | Geelong City Yoga | Geelong, VIC, AU | info@geelongyoga.com | Wellness | Drafted | Jul 6 |
+| 1058 | The Center Yoga Collective | Harrisonburg, VA, US | thecenteryogacollective@gmail.com | Wellness | Drafted | Jul 6 |
+| 1059 | Balance Bodywork and Yoga | Greenville, SC, US | crystal.cordoba@gmail.com | Wellness | Drafted | Jul 6 |
+| 1060 | Studio 6 Pilates | Launceston, TAS, AU | steve@studio6pilates.com.au | Wellness | Drafted | Jul 6 |
+| 1061 | Sattva Yoga and Wellness Center | Lynchburg, VA, US | sattvayogacentercv@gmail.com | Wellness | Drafted | Jul 6 |
+| 1062 | Pilates Plus | Richmond, VA, US | info@pilatesplusrva.com | Wellness | Drafted | Jul 6 |
+| 1063 | Gather | Totnes, Devon, UK | hello@gathertotnes.com | F&B | Drafted | Jul 6 |
+| 1064 | Cor Studio | Macon, GA, US | corfitnessandwellness@gmail.com | Wellness | Drafted | Jul 6 |
+| 1065 | SoulShine Pilates Yoga & Wellness | Savannah, GA, US | stacey@soulshinepilatesandyoga.com | Wellness | Drafted | Jul 6 |
+| 1066 | The HUB Savannah | Savannah, GA, US | thehubsavteam@gmail.com | Wellness | Drafted | Jul 6 |
+| 1067 | Udara Studio | Hobart, TAS, AU | hello@udarastudio.com.au | Wellness | Drafted | Jul 6 |
+| 1068 | Loosen Up Yoga Tasmania | Hobart, TAS, AU | emma@loosenup.com.au | Wellness | Drafted | Jul 6 |
+| 1069 | Aligned Living Tasmania | Hobart, TAS, AU | clare@alignedlivingtasmania.com | Wellness | Drafted | Jul 6 |
+| 1070 | Rendezvous Cafe | Inverness, Scotland, UK | info@rendezvous-cafe.co.uk | F&B | Drafted | Jul 6 |
+| 1071 | Bodywerx Studios | Norwich, UK | info@bodywerxstudios.com | Wellness | Drafted | Jul 6 |
+| 1072 | Bang Restaurant | Charlottesville, VA, US | bangrestaurant@gmail.com | F&B | Drafted | Jul 6 |
+| 1073 | James River Yoga | Lynchburg, VA, US | nallenesq@gmail.com | Wellness | Drafted | Jul 6 |
+| 1074 | Holistic House Skipton | Skipton, UK | holistichouseskipton@gmail.com | Wellness | Drafted | Jul 6 |
+| 1075 | The Loft Studio Skipton | Skipton, UK | booking@theloftskipton.co.uk | Wellness | Drafted | Jul 6 |
+| 1076 | Kula Vermont | South Burlington, VT, US | info@kulavermont.com | Wellness | Drafted | Jul 6 |
+| 1077 | YoGology | Wakefield, UK | info@yogologywakefield.co.uk | Wellness | Drafted | Jul 6 |
+| 1078 | Yoga Wakefield | Wakefield, UK | karen@yoga-wakefield.co.uk | Wellness | Drafted | Jul 6 |
