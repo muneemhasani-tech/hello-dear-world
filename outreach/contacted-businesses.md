@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 1,108
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30)
+**Total unique businesses:** 1,138
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30)
 
 ---
 
@@ -1501,3 +1501,43 @@
 | 1106 | Lighten Up Studio | Townsville, AU | hello@lightenupstudio.com.au | Wellness | Drafted | Jul 6 |
 | 1107 | The Lazy Monkey Bar & Indian Kitchen | Coventry, UK | info@thelazymonkey.co.uk | F&B | Drafted | Jul 6 |
 | 1108 | Dela | Galway, IE | letseat@dela.ie | F&B | Drafted | Jul 6 |
+
+---
+
+### Section AJ — July 6, 2026 US/North America-Only Batch #27 (30 businesses)
+
+*Cities: Chattanooga TN · Knoxville TN · Louisville KY · Talala/Tulsa OK · Tucson AZ · Providence RI · Columbia SC · Huntsville AL · Charleston SC · Lexington KY · Cincinnati OH · Omaha NE · Sioux Falls SD · Sacramento CA · Boise ID · Spokane WA · Missoula MT · Santa Fe NM · Flagstaff AZ · Sisters/Bend OR (US) · Halifax NS · Kingston ON · Courtenay BC · Kelowna BC · Victoria BC · London ON (Canada)*
+*US/North America-only batch per request — non-US/NA leads found during research were set aside, not drafted. All 30 confirmed new — cross-checked against 1,108-business exclusion list. Zero duplicates. All NINE-compliant independent businesses. First expansion into the Canadian market (6 businesses: Halifax NS, Kingston ON, Courtenay BC, Kelowna BC, Victoria BC, London ON). Emails confirmed via WebSearch (WebFetch unavailable this session — network-egress-policy block, HTTP 403 on every URL). Each email is attributed directly to the business's own domain in search results, not an aggregator. 30 drafts displayed in terminal, organized by BST send window.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1109 | Windy City Eatz Soul | Chattanooga, TN, US | windycityeatz7@gmail.com | F&B | Drafted | Jul 6 |
+| 1110 | Ebony & Ivory Brewing | Knoxville, TN, US | ebony.ivory.brewingco@gmail.com | FMCG | Drafted | Jul 6 |
+| 1111 | Holly's Pilates Village | Louisville, KY, US | holly@pilatesvillage.com | Wellness | Drafted | Jul 6 |
+| 1112 | The Steel Barn Event Center | Talala, OK, US | thesteelbarneventcenter@gmail.com | Events | Drafted | Jul 6 |
+| 1113 | Coffee X Change Bistro | Tucson, AZ, US | cxcowner@aol.com | F&B | Drafted | Jul 6 |
+| 1114 | ISCO Spirits (Industrious Spirit Company) | Providence, RI, US | Cait@iscospirits.com | FMCG | Drafted | Jul 6 |
+| 1115 | Amsa Yoga Studio | Columbia, SC, US | amsayogasc@gmail.com | Wellness | Drafted | Jul 6 |
+| 1116 | InnerSpace Brewing Company | Huntsville, AL, US | stewart@innerspace.net | FMCG | Drafted | Jul 6 |
+| 1117 | Indigo Reef Brewing Company | Charleston, SC, US | Chris@IndigoReefBrewing.com | FMCG | Drafted | Jul 6 |
+| 1118 | Wild Lab Bakery | Lexington, KY, US | wildlabky@gmail.com | FMCG | Drafted | Jul 6 |
+| 1119 | DEFINE Oakley | Cincinnati, OH, US | hello@defineoakley.com | Wellness | Drafted | Jul 6 |
+| 1120 | Weight to Go Medical Spa | Knoxville, TN, US | crystal@weightogoweightloss.com | Wellness | Drafted | Jul 6 |
+| 1121 | 610 Magnolia | Louisville, KY, US | 610@610magnolia.com | F&B | Drafted | Jul 6 |
+| 1122 | Timber Wood Fire Bistro | Omaha, NE, US | ainsleys@timberomaha.com | F&B | Drafted | Jul 6 |
+| 1123 | Riverview Barn | Sioux Falls, SD, US | Riverviewbarn.sd@gmail.com | Events | Drafted | Jul 6 |
+| 1124 | Cacio | Sacramento, CA, US | info@caciosacramento.com | F&B | Drafted | Jul 6 |
+| 1125 | Mother | Sacramento, CA, US | info@mothersacramento.com | F&B | Drafted | Jul 6 |
+| 1126 | Boise Brewing | Boise, ID, US | Restaurant@BoiseBrewing.com | FMCG | Drafted | Jul 6 |
+| 1127 | Poppy Seed Bakery + Cafe | Boise, ID, US | bakeryandcafe@poppyseedboise.com | FMCG | Drafted | Jul 6 |
+| 1128 | Brick West Brewing Co. | Spokane, WA, US | info@brickwestbrewingco.com | FMCG | Drafted | Jul 6 |
+| 1129 | Western Cider | Missoula, MT, US | matt@westerncider.com | FMCG | Drafted | Jul 6 |
+| 1130 | Unit B by Chocolate Maven | Santa Fe, NM, US | hello@unitbsantafe.com | Events | Drafted | Jul 6 |
+| 1131 | aFrite | Halifax, NS, Canada | andrew@afrite.ca | F&B | Drafted | Jul 6 |
+| 1132 | Riverhead Brewing Company | Kingston, ON, Canada | tiedhouse@riverheadbrewing.com | FMCG | Drafted | Jul 6 |
+| 1133 | Wayward Distillery | Courtenay, BC, Canada | Info@WaywardDistillery.com | FMCG | Drafted | Jul 6 |
+| 1134 | Sunny Space Studio | Kelowna, BC, Canada | info@sunnyspacestudio.ca | Wellness | Drafted | Jul 6 |
+| 1135 | Green Cuisine | Victoria, BC, Canada | contact@greencuisine.com | F&B | Drafted | Jul 6 |
+| 1136 | Yoga Shack | London, ON, Canada | info@yogashack.ca | Wellness | Drafted | Jul 6 |
+| 1137 | Revival Med Spa | Flagstaff, AZ, US | revival@flagstaffmedspa.com | Wellness | Drafted | Jul 6 |
+| 1138 | Long Hollow Ranch | Sisters, OR, US | info@thelonghollowranch.com | Events | Drafted | Jul 6 |
