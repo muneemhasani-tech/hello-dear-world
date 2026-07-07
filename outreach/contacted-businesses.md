@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 6, 2026
-**Total unique businesses:** 1,108
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30)
+**Last updated:** July 7, 2026
+**Total unique businesses:** 1,138
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30)
 
 ---
 
@@ -1501,3 +1501,43 @@
 | 1106 | Lighten Up Studio | Townsville, AU | hello@lightenupstudio.com.au | Wellness | Drafted | Jul 6 |
 | 1107 | The Lazy Monkey Bar & Indian Kitchen | Coventry, UK | info@thelazymonkey.co.uk | F&B | Drafted | Jul 6 |
 | 1108 | Dela | Galway, IE | letseat@dela.ie | F&B | Drafted | Jul 6 |
+
+---
+
+### Section AJ — July 7, 2026 Multi-City Batch #27 (30 businesses)
+
+*Cities: Bozeman MT · Bellingham WA · Medford OR · Naperville IL · Ames IA · Columbia SC · Tyler TX · Shreveport LA · Morgantown WV · Fort Collins CO · Amarillo TX · Provo UT · South Ogden UT · Logan UT (US) · Canterbury · Cheltenham · Worcester · Swindon (UK) · St Andrews, Scotland (UK) · Limerick · Sligo (IE) · Hobart · Launceston · Bendigo · Ipswich QLD · Port Macquarie NSW · Orange NSW (AU)*
+*All 30 confirmed new — cross-checked against 1,108-business exclusion list. Zero duplicates. All NINE-compliant independent businesses. Emails confirmed via WebFetch from business websites. 30 Gmail drafts saved via MCP.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1109 | Bend Beyond Hot Yoga | Bozeman, MT, US | team@bendbeyondyoga.com | Wellness | Drafted | Jul 7 |
+| 1110 | Studio A Pilates | Bozeman, MT, US | Adriane.N.Melillo@gmail.com | Wellness | Drafted | Jul 7 |
+| 1111 | Yoga Northwest | Bellingham, WA, US | doyoga@yoganorthwest.com | Wellness | Drafted | Jul 7 |
+| 1112 | Noho's Hawaiian Cafe | Medford, OR, US | hugo@nohos.com | F&B | Drafted | Jul 7 |
+| 1113 | Hot Yoga Naperville | Naperville, IL, US | hotyoganaperville@gmail.com | Wellness | Drafted | Jul 7 |
+| 1114 | Ames Yoga Center | Ames, IA, US | rahadish@amesyoga.com | Wellness | Drafted | Jul 7 |
+| 1115 | Beam Pilates & Event Studio | Columbia, SC, US | beamcolumbia@gmail.com | Wellness | Drafted | Jul 7 |
+| 1116 | Pilates Collective Tyler | Tyler, TX, US | studio@pilatescollectivetyler.com | Wellness | Drafted | Jul 7 |
+| 1117 | Kinetic Wellness | Shreveport, LA, US | support@kineticwellnessla.com | Wellness | Drafted | Jul 7 |
+| 1118 | Terra Cafe | Morgantown, WV, US | info@terracafewv.com | F&B | Drafted | Jul 7 |
+| 1119 | Gilded Goat Brewing | Fort Collins, CO, US | info@gildedgoatbrewing.com | FMCG | Drafted | Jul 7 |
+| 1120 | OHMS Cafe & Bar | Amarillo, TX, US | mary@ohmscafe.com | F&B | Drafted | Jul 7 |
+| 1121 | Urban Pilates Utah | Provo, UT, US | studio@urbanpilatesutah.com | Wellness | Drafted | Jul 7 |
+| 1122 | The Firm Pilates | South Ogden, UT, US | info@thefirm-pilates.com | Wellness | Drafted | Jul 7 |
+| 1123 | Home Range Brewing | Logan, UT, US | info@homerangebeer.com | FMCG | Drafted | Jul 7 |
+| 1124 | TOR Spa Retreat | Canterbury, UK | enq@torsparetreat.com | Wellness | Drafted | Jul 7 |
+| 1125 | Cheltenham Pilates & Yoga Studios | Cheltenham, UK | info@cheltenhampilatesandyoga.co.uk | Wellness | Drafted | Jul 7 |
+| 1126 | Balance Cafe and Yoga | Worcester, UK | hello@balancecafeandyoga.com | Wellness | Drafted | Jul 7 |
+| 1127 | Mindful Movement Studio | Swindon, UK | info@mindfulmovementstudio.co.uk | Wellness | Drafted | Jul 7 |
+| 1128 | Haar Restaurant | St Andrews, Scotland, UK | bookings@haarrestaurant.com | F&B | Drafted | Jul 7 |
+| 1129 | Bothy St Andrews | St Andrews, Scotland, UK | info@bothystandrews.co.uk | F&B | Drafted | Jul 7 |
+| 1130 | Align | Limerick, IE | info@alignlimerick.ie | Wellness | Drafted | Jul 7 |
+| 1131 | Balance Pilates | Limerick, IE | info@balancepilates.ie | Wellness | Drafted | Jul 7 |
+| 1132 | Sligo Pilates | Sligo, IE | sligopilates@gmail.com | Wellness | Drafted | Jul 7 |
+| 1133 | Harbour Lights Cafe | Hobart, TAS, AU | info@harbourlightscafe.com.au | F&B | Drafted | Jul 7 |
+| 1134 | Inside Cafe | Launceston, TAS, AU | hello@insidecafe.com.au | F&B | Drafted | Jul 7 |
+| 1135 | Be Yoga Bendigo | Bendigo, VIC, AU | beyogabendigo@gmail.com | Wellness | Drafted | Jul 7 |
+| 1136 | Sacred Cow Yoga Studio | Ipswich, QLD, AU | info@sacredcowyoga.com | Wellness | Drafted | Jul 7 |
+| 1137 | Moorebeer Brewing Co | Port Macquarie, NSW, AU | info@moorebeer.com.au | FMCG | Drafted | Jul 7 |
+| 1138 | Eat Botanic | Orange, NSW, AU | Eatbotanic2800@outlook.com | F&B | Drafted | Jul 7 |
