@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 7, 2026
-**Total unique businesses:** 1,138
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30)
+**Last updated:** July 8, 2026
+**Total unique businesses:** 1,168
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30) + July 8 UK-IE-Only Batch AK (30)
 
 ---
 
@@ -1541,3 +1541,43 @@
 | 1136 | Sacred Cow Yoga Studio | Ipswich, QLD, AU | info@sacredcowyoga.com | Wellness | Drafted | Jul 7 |
 | 1137 | Moorebeer Brewing Co | Port Macquarie, NSW, AU | info@moorebeer.com.au | FMCG | Drafted | Jul 7 |
 | 1138 | Eat Botanic | Orange, NSW, AU | Eatbotanic2800@outlook.com | F&B | Drafted | Jul 7 |
+
+---
+
+### Section AK — July 8, 2026 UK/Ireland-Only Batch #28 (30 businesses)
+
+*Cities: Athlone · Ennis · Killarney (x2) · Mullingar · Naas · Navan (x3) · Drogheda (IE) · Aberdeen · Bournemouth · Cambridge (x2) · Carlow (x2) · Clonmel (x2) · Colchester (x2) · Truro/Lostwithiel, Cornwall (x2) · Dundee · Durham · Guildford (x2) · Plymouth · Stirling · Winchester (x2) (UK)*
+*All 30 confirmed new — cross-checked against 1,138-business exclusion list by name and by exact email/domain. 5 initial candidates (Corner Tree Cafe, Ross Castle Garden Café, Ipswich Inn Cafe, The Ennis Yoga Studio, Aisha's Cafe & Bistro) were caught as duplicates and replaced. All NINE-compliant independent businesses. Emails confirmed via WebSearch, each attributed directly to the business's own domain (or a clearly business-branded Gmail/Outlook address) in search results, not an aggregator. WebFetch was unavailable this session — blocked at the network-egress-policy layer, returning HTTP 403 on every URL including non-target test domains. 30 drafts displayed in terminal per the Preferred Cold Outreach Template, organized by BST send window (all 30 fall in a single group: 2:30pm BST, since UK and Ireland share UTC+1 in July).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1139 | Athlone Physiotherapy and Pilates Clinic | Athlone, IE | anne@athlonephysio.ie | Wellness | Drafted | Jul 8 |
+| 1140 | Al Fresco | Aberdeen, UK | info@alfresco-aberdeen.com | F&B | Drafted | Jul 8 |
+| 1141 | The Pilates Shed | Bournemouth, UK | info@rebeccaspilatesshed.co.uk | Wellness | Drafted | Jul 8 |
+| 1142 | The Millworks | Cambridge, UK | info@themillworks.co.uk | F&B | Drafted | Jul 8 |
+| 1143 | Juice Pilates | Cambridge, UK | alice@juicepilates.com | Wellness | Drafted | Jul 8 |
+| 1144 | Lennons | Carlow, IE | eat@lennons.ie | F&B | Drafted | Jul 8 |
+| 1145 | Neighbourhood Espresso | Carlow, IE | neighbourhoodcarlow@gmail.com | F&B | Drafted | Jul 8 |
+| 1146 | Galileo Cafe | Clonmel, IE | hello@galileocafe.com | F&B | Drafted | Jul 8 |
+| 1147 | Central House Dining Room | Clonmel, IE | info@centralhouse.ie | F&B | Drafted | Jul 8 |
+| 1148 | Colchester Brewery | Colchester, UK | sales@colchesterbrewery.com | FMCG | Drafted | Jul 8 |
+| 1149 | Blessed Brews | Colchester, UK | jimmy@blessedbrews.co.uk | FMCG | Drafted | Jul 8 |
+| 1150 | Chycara | Truro, Cornwall, UK | info@chycara.co.uk | Events | Drafted | Jul 8 |
+| 1151 | Boconnoc | Lostwithiel, Cornwall, UK | events@boconnoc.com | Events | Drafted | Jul 8 |
+| 1152 | Harper's Restaurant | Drogheda, IE | Info@harpersrestaurant.com | F&B | Drafted | Jul 8 |
+| 1153 | Nutrio Studio | Dundee, UK | Hello@nutrio-studio.co.uk | Wellness | Drafted | Jul 8 |
+| 1154 | Restaurant Faru | Durham, UK | contact@faru.co.uk | F&B | Drafted | Jul 8 |
+| 1155 | YOUtherapies | Ennis, IE | admin@youtherapies.ie | Wellness | Drafted | Jul 8 |
+| 1156 | The Pilates Movement Studio | Guildford, UK | guildford@thepilatesmovementstudio.co.uk | Wellness | Drafted | Jul 8 |
+| 1157 | Red Hot Yoga & Pilates | Guildford, UK | info@redhotyoga.co.uk | Wellness | Drafted | Jul 8 |
+| 1158 | Murphy Brownes | Killarney, IE | info@murphybrownes.com | F&B | Drafted | Jul 8 |
+| 1159 | Reidy's Killarney | Killarney, IE | info@reidyskillarney.com | F&B | Drafted | Jul 8 |
+| 1160 | Vitalija Wellness Studio | Mullingar, IE | info@vitalijawellness.com | Wellness | Drafted | Jul 8 |
+| 1161 | Lawlor's of Naas | Naas, IE | weddings@lawlors.ie | Events | Drafted | Jul 8 |
+| 1162 | Room8 Café/Restaurant | Navan, IE | info@room8.ie | F&B | Drafted | Jul 8 |
+| 1163 | Crave | Navan, IE | info@crave.ie | F&B | Drafted | Jul 8 |
+| 1164 | Chekhov's Cafe | Navan, IE | cafechekhovs@gmail.com | F&B | Drafted | Jul 8 |
+| 1165 | Rise and Grind | Plymouth, UK | riseandgrindplymouth@outlook.com | F&B | Drafted | Jul 8 |
+| 1166 | Hermann's Restaurant | Stirling, UK | info@hermanns.co.uk | F&B | Drafted | Jul 8 |
+| 1167 | Winchester Distillery | Winchester, UK | office@winchesterdistillery.co.uk | FMCG | Drafted | Jul 8 |
+| 1168 | Kinesis Yoga Studio | Winchester, UK | gulya1@me.com | Wellness | Drafted | Jul 8 |
