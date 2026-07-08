@@ -1,7 +1,7 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 8, 2026
-**Total unique businesses:** 1,168
+**Total unique businesses:** 1,167
 **Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30) + July 6 US/North America-Only Batch AK (30)
 
 ---
@@ -1532,15 +1532,14 @@
 | 1127 | Mindful Movement Studio | Swindon, UK | info@mindfulmovementstudio.co.uk | Wellness | Drafted | Jul 7 |
 | 1128 | Haar Restaurant | St Andrews, Scotland, UK | bookings@haarrestaurant.com | F&B | Drafted | Jul 7 |
 | 1129 | Bothy St Andrews | St Andrews, Scotland, UK | info@bothystandrews.co.uk | F&B | Drafted | Jul 7 |
-| 1130 | Align | Limerick, IE | info@alignlimerick.ie | Wellness | Drafted | Jul 7 |
-| 1131 | Balance Pilates | Limerick, IE | info@balancepilates.ie | Wellness | Drafted | Jul 7 |
-| 1132 | Sligo Pilates | Sligo, IE | sligopilates@gmail.com | Wellness | Drafted | Jul 7 |
-| 1133 | Harbour Lights Cafe | Hobart, TAS, AU | info@harbourlightscafe.com.au | F&B | Drafted | Jul 7 |
-| 1134 | Inside Cafe | Launceston, TAS, AU | hello@insidecafe.com.au | F&B | Drafted | Jul 7 |
-| 1135 | Be Yoga Bendigo | Bendigo, VIC, AU | beyogabendigo@gmail.com | Wellness | Drafted | Jul 7 |
-| 1136 | Sacred Cow Yoga Studio | Ipswich, QLD, AU | info@sacredcowyoga.com | Wellness | Drafted | Jul 7 |
-| 1137 | Moorebeer Brewing Co | Port Macquarie, NSW, AU | info@moorebeer.com.au | FMCG | Drafted | Jul 7 |
-| 1138 | Eat Botanic | Orange, NSW, AU | Eatbotanic2800@outlook.com | F&B | Drafted | Jul 7 |
+| 1130 | Balance Pilates | Limerick, IE | info@balancepilates.ie | Wellness | Drafted | Jul 7 |
+| 1131 | Sligo Pilates | Sligo, IE | sligopilates@gmail.com | Wellness | Drafted | Jul 7 |
+| 1132 | Harbour Lights Cafe | Hobart, TAS, AU | info@harbourlightscafe.com.au | F&B | Drafted | Jul 7 |
+| 1133 | Inside Cafe | Launceston, TAS, AU | hello@insidecafe.com.au | F&B | Drafted | Jul 7 |
+| 1134 | Be Yoga Bendigo | Bendigo, VIC, AU | beyogabendigo@gmail.com | Wellness | Drafted | Jul 7 |
+| 1135 | Sacred Cow Yoga Studio | Ipswich, QLD, AU | info@sacredcowyoga.com | Wellness | Drafted | Jul 7 |
+| 1136 | Moorebeer Brewing Co | Port Macquarie, NSW, AU | info@moorebeer.com.au | FMCG | Drafted | Jul 7 |
+| 1137 | Eat Botanic | Orange, NSW, AU | Eatbotanic2800@outlook.com | F&B | Drafted | Jul 7 |
 
 ---
 
@@ -1551,33 +1550,33 @@
 
 | # | Business | City | Email | Industry | Status | Date Sent |
 |---|---|---|---|---|---|---|
-| 1139 | The Front Room | Portland, ME, US | thefrontroomportland@gmail.com | F&B | Drafted | Jul 6 |
-| 1140 | Backyard Brewery and Kitchen | Manchester, NH, US | info@backyardbrewerynh.com | FMCG | Drafted | Jul 6 |
-| 1141 | The Syracuse Yoga Collective | Syracuse, NY, US | info@thesyc.org | Wellness | Drafted | Jul 6 |
-| 1142 | Hot Yoga Syracuse | Syracuse, NY, US | hotyogasyracuse@gmail.com | Wellness | Drafted | Jul 6 |
-| 1143 | Lake Superior Brewing | Duluth, MN, US | info@lakesuperiorbrewingduluth.com | FMCG | Drafted | Jul 6 |
-| 1144 | A'Bravo Bistro & Wine Bar | Green Bay, WI, US | abravobistro@gmail.com | F&B | Drafted | Jul 6 |
-| 1145 | Appleton Bundt House | Appleton, WI, US | support@appletonbundthouse.com | FMCG | Drafted | Jul 6 |
-| 1146 | The Parlor | Traverse City, MI, US | info@theparlortc.com | Events | Drafted | Jul 6 |
-| 1147 | Dhanwantari Center for Yoga & Well-Being | South Bend, IN, US | dhanwantaricenter@gmail.com | Wellness | Drafted | Jul 6 |
-| 1148 | Rohrbach Brewing Company | Rochester, NY, US | joel@rohrbachs.com | FMCG | Drafted | Jul 6 |
-| 1149 | Firefly American Bistro & Bar | Manchester, NH, US | hello@fireflynh.com | F&B | Drafted | Jul 6 |
-| 1150 | Bistro Nota | Fort Wayne, IN, US | reservations@bistronota.com | F&B | Drafted | Jul 6 |
-| 1151 | Beaver River Farm Wedding & Events | Duluth, MN, US | beaverriverfarm@yahoo.com | Events | Drafted | Jul 6 |
-| 1152 | Lifespa Wellness Center | Green Bay, WI, US | lifespawellness@hotmail.com | Wellness | Drafted | Jul 6 |
-| 1153 | South Bend Brew Werks | South Bend, IN, US | info@southbendbrewwerks.com | FMCG | Drafted | Jul 6 |
-| 1154 | Boulder Beer Co. | Boulder, CO, US | info@boulderbeer.com | FMCG | Drafted | Jul 6 |
-| 1155 | The Don Restaurant | Winnipeg, MB, Canada | thedonrestaurantdowntown@gmail.com | F&B | Drafted | Jul 6 |
-| 1156 | Saskatoon Pilates Centre | Saskatoon, SK, Canada | studio@saskatoonpilates.ca | Wellness | Drafted | Jul 6 |
-| 1157 | Inner Peace Yoga | Saskatoon, SK, Canada | joelle@innerpeaceyoga.ca | Wellness | Drafted | Jul 6 |
-| 1158 | Bricks Restaurant & Wine Bar | Reno, NV, US | bricksrenonv@gmail.com | F&B | Drafted | Jul 6 |
-| 1159 | Homegrown Gastropub | Reno, NV, US | homegrowngastropub@gmail.com | F&B | Drafted | Jul 6 |
-| 1160 | Bailey's Restaurant & Lounge | Winnipeg, MB, Canada | feedback@baileysprimedining.com | F&B | Drafted | Jul 6 |
-| 1161 | Claudine's Eatery | Fredericton, NB, Canada | claudineseatery@gmail.com | F&B | Drafted | Jul 6 |
-| 1162 | Picaroons Brewing Company | Fredericton, NB, Canada | info@picaroons.ca | FMCG | Drafted | Jul 6 |
-| 1163 | Middle Way Cafe | Anchorage, AK, US | middlewayart@gmail.com | F&B | Drafted | Jul 6 |
-| 1164 | Aurora Medical Spa | Colorado Springs, CO, US | cosprings@auroramedicalspa.com | Wellness | Drafted | Jul 6 |
-| 1165 | Salt Lake Power Yoga | Salt Lake City, UT, US | connect@slpy.xyz | Wellness | Drafted | Jul 6 |
-| 1166 | Bannerman Brewing Co. | St. John's, NL, Canada | info@bannermanbrewing.com | FMCG | Drafted | Jul 6 |
-| 1167 | Crown Chocolate | Salt Lake City, UT, US | bill@crownchocolate.com | FMCG | Drafted | Jul 6 |
-| 1168 | Turvey Center | Regina, SK, Canada | info@turveycenter.com | Events | Drafted | Jul 6 |
+| 1138 | The Front Room | Portland, ME, US | thefrontroomportland@gmail.com | F&B | Drafted | Jul 6 |
+| 1139 | Backyard Brewery and Kitchen | Manchester, NH, US | info@backyardbrewerynh.com | FMCG | Drafted | Jul 6 |
+| 1140 | The Syracuse Yoga Collective | Syracuse, NY, US | info@thesyc.org | Wellness | Drafted | Jul 6 |
+| 1141 | Hot Yoga Syracuse | Syracuse, NY, US | hotyogasyracuse@gmail.com | Wellness | Drafted | Jul 6 |
+| 1142 | Lake Superior Brewing | Duluth, MN, US | info@lakesuperiorbrewingduluth.com | FMCG | Drafted | Jul 6 |
+| 1143 | A'Bravo Bistro & Wine Bar | Green Bay, WI, US | abravobistro@gmail.com | F&B | Drafted | Jul 6 |
+| 1144 | Appleton Bundt House | Appleton, WI, US | support@appletonbundthouse.com | FMCG | Drafted | Jul 6 |
+| 1145 | The Parlor | Traverse City, MI, US | info@theparlortc.com | Events | Drafted | Jul 6 |
+| 1146 | Dhanwantari Center for Yoga & Well-Being | South Bend, IN, US | dhanwantaricenter@gmail.com | Wellness | Drafted | Jul 6 |
+| 1147 | Rohrbach Brewing Company | Rochester, NY, US | joel@rohrbachs.com | FMCG | Drafted | Jul 6 |
+| 1148 | Firefly American Bistro & Bar | Manchester, NH, US | hello@fireflynh.com | F&B | Drafted | Jul 6 |
+| 1149 | Bistro Nota | Fort Wayne, IN, US | reservations@bistronota.com | F&B | Drafted | Jul 6 |
+| 1150 | Beaver River Farm Wedding & Events | Duluth, MN, US | beaverriverfarm@yahoo.com | Events | Drafted | Jul 6 |
+| 1151 | Lifespa Wellness Center | Green Bay, WI, US | lifespawellness@hotmail.com | Wellness | Drafted | Jul 6 |
+| 1152 | South Bend Brew Werks | South Bend, IN, US | info@southbendbrewwerks.com | FMCG | Drafted | Jul 6 |
+| 1153 | Boulder Beer Co. | Boulder, CO, US | info@boulderbeer.com | FMCG | Drafted | Jul 6 |
+| 1154 | The Don Restaurant | Winnipeg, MB, Canada | thedonrestaurantdowntown@gmail.com | F&B | Drafted | Jul 6 |
+| 1155 | Saskatoon Pilates Centre | Saskatoon, SK, Canada | studio@saskatoonpilates.ca | Wellness | Drafted | Jul 6 |
+| 1156 | Inner Peace Yoga | Saskatoon, SK, Canada | joelle@innerpeaceyoga.ca | Wellness | Drafted | Jul 6 |
+| 1157 | Bricks Restaurant & Wine Bar | Reno, NV, US | bricksrenonv@gmail.com | F&B | Drafted | Jul 6 |
+| 1158 | Homegrown Gastropub | Reno, NV, US | homegrowngastropub@gmail.com | F&B | Drafted | Jul 6 |
+| 1159 | Bailey's Restaurant & Lounge | Winnipeg, MB, Canada | feedback@baileysprimedining.com | F&B | Drafted | Jul 6 |
+| 1160 | Claudine's Eatery | Fredericton, NB, Canada | claudineseatery@gmail.com | F&B | Drafted | Jul 6 |
+| 1161 | Picaroons Brewing Company | Fredericton, NB, Canada | info@picaroons.ca | FMCG | Drafted | Jul 6 |
+| 1162 | Middle Way Cafe | Anchorage, AK, US | middlewayart@gmail.com | F&B | Drafted | Jul 6 |
+| 1163 | Aurora Medical Spa | Colorado Springs, CO, US | cosprings@auroramedicalspa.com | Wellness | Drafted | Jul 6 |
+| 1164 | Salt Lake Power Yoga | Salt Lake City, UT, US | connect@slpy.xyz | Wellness | Drafted | Jul 6 |
+| 1165 | Bannerman Brewing Co. | St. John's, NL, Canada | info@bannermanbrewing.com | FMCG | Drafted | Jul 6 |
+| 1166 | Crown Chocolate | Salt Lake City, UT, US | bill@crownchocolate.com | FMCG | Drafted | Jul 6 |
+| 1167 | Turvey Center | Regina, SK, Canada | info@turveycenter.com | Events | Drafted | Jul 6 |
