@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 6, 2026
-**Total unique businesses:** 1,138
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30)
+**Total unique businesses:** 1,168
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30)
 
 ---
 
@@ -1541,3 +1541,43 @@
 | 1136 | Yoga Shack | London, ON, Canada | info@yogashack.ca | Wellness | Drafted | Jul 6 |
 | 1137 | Revival Med Spa | Flagstaff, AZ, US | revival@flagstaffmedspa.com | Wellness | Drafted | Jul 6 |
 | 1138 | Long Hollow Ranch | Sisters, OR, US | info@thelonghollowranch.com | Events | Drafted | Jul 6 |
+
+---
+
+### Section AK — July 6, 2026 US/North America-Only Batch #28 (30 businesses)
+
+*Cities: Portland ME · Manchester NH · Syracuse NY · Rochester NY · Duluth MN · Green Bay WI · Appleton WI · Traverse City MI · South Bend IN · Fort Wayne IN · Boulder CO · Colorado Springs CO · Salt Lake City UT · Reno NV · Anchorage AK (US) · Winnipeg MB · Saskatoon SK · Regina SK · Fredericton NB · St. John's NL (Canada)*
+*US/North America-only batch per standing request — non-US/NA leads not researched. All 30 confirmed new — cross-checked against 1,138-business exclusion list. Zero duplicates. All NINE-compliant independent businesses. Further Canadian expansion: 8 businesses across Winnipeg MB, Saskatoon SK (×2), Regina SK, Fredericton NB (×2), St. John's NL — first-ever outreach into Saskatchewan, New Brunswick, and Newfoundland & Labrador. Emails confirmed via WebSearch (WebFetch unavailable this session — network-egress-policy block, HTTP 403 on every URL). Each email is attributed directly to the business's own domain in search results, not an aggregator. 30 drafts displayed in terminal, organized by BST send window (introduced Atlantic/Newfoundland/Saskatchewan time-zone conversions not in the original reference table, extended via the same offset formula).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1139 | The Front Room | Portland, ME, US | thefrontroomportland@gmail.com | F&B | Drafted | Jul 6 |
+| 1140 | Backyard Brewery and Kitchen | Manchester, NH, US | info@backyardbrewerynh.com | FMCG | Drafted | Jul 6 |
+| 1141 | The Syracuse Yoga Collective | Syracuse, NY, US | info@thesyc.org | Wellness | Drafted | Jul 6 |
+| 1142 | Hot Yoga Syracuse | Syracuse, NY, US | hotyogasyracuse@gmail.com | Wellness | Drafted | Jul 6 |
+| 1143 | Lake Superior Brewing | Duluth, MN, US | info@lakesuperiorbrewingduluth.com | FMCG | Drafted | Jul 6 |
+| 1144 | A'Bravo Bistro & Wine Bar | Green Bay, WI, US | abravobistro@gmail.com | F&B | Drafted | Jul 6 |
+| 1145 | Appleton Bundt House | Appleton, WI, US | support@appletonbundthouse.com | FMCG | Drafted | Jul 6 |
+| 1146 | The Parlor | Traverse City, MI, US | info@theparlortc.com | Events | Drafted | Jul 6 |
+| 1147 | Dhanwantari Center for Yoga & Well-Being | South Bend, IN, US | dhanwantaricenter@gmail.com | Wellness | Drafted | Jul 6 |
+| 1148 | Rohrbach Brewing Company | Rochester, NY, US | joel@rohrbachs.com | FMCG | Drafted | Jul 6 |
+| 1149 | Firefly American Bistro & Bar | Manchester, NH, US | hello@fireflynh.com | F&B | Drafted | Jul 6 |
+| 1150 | Bistro Nota | Fort Wayne, IN, US | reservations@bistronota.com | F&B | Drafted | Jul 6 |
+| 1151 | Beaver River Farm Wedding & Events | Duluth, MN, US | beaverriverfarm@yahoo.com | Events | Drafted | Jul 6 |
+| 1152 | Lifespa Wellness Center | Green Bay, WI, US | lifespawellness@hotmail.com | Wellness | Drafted | Jul 6 |
+| 1153 | South Bend Brew Werks | South Bend, IN, US | info@southbendbrewwerks.com | FMCG | Drafted | Jul 6 |
+| 1154 | Boulder Beer Co. | Boulder, CO, US | info@boulderbeer.com | FMCG | Drafted | Jul 6 |
+| 1155 | The Don Restaurant | Winnipeg, MB, Canada | thedonrestaurantdowntown@gmail.com | F&B | Drafted | Jul 6 |
+| 1156 | Saskatoon Pilates Centre | Saskatoon, SK, Canada | studio@saskatoonpilates.ca | Wellness | Drafted | Jul 6 |
+| 1157 | Inner Peace Yoga | Saskatoon, SK, Canada | joelle@innerpeaceyoga.ca | Wellness | Drafted | Jul 6 |
+| 1158 | Bricks Restaurant & Wine Bar | Reno, NV, US | bricksrenonv@gmail.com | F&B | Drafted | Jul 6 |
+| 1159 | Homegrown Gastropub | Reno, NV, US | homegrowngastropub@gmail.com | F&B | Drafted | Jul 6 |
+| 1160 | Bailey's Restaurant & Lounge | Winnipeg, MB, Canada | feedback@baileysprimedining.com | F&B | Drafted | Jul 6 |
+| 1161 | Claudine's Eatery | Fredericton, NB, Canada | claudineseatery@gmail.com | F&B | Drafted | Jul 6 |
+| 1162 | Picaroons Brewing Company | Fredericton, NB, Canada | info@picaroons.ca | FMCG | Drafted | Jul 6 |
+| 1163 | Middle Way Cafe | Anchorage, AK, US | middlewayart@gmail.com | F&B | Drafted | Jul 6 |
+| 1164 | Aurora Medical Spa | Colorado Springs, CO, US | cosprings@auroramedicalspa.com | Wellness | Drafted | Jul 6 |
+| 1165 | Salt Lake Power Yoga | Salt Lake City, UT, US | connect@slpy.xyz | Wellness | Drafted | Jul 6 |
+| 1166 | Bannerman Brewing Co. | St. John's, NL, Canada | info@bannermanbrewing.com | FMCG | Drafted | Jul 6 |
+| 1167 | Crown Chocolate | Salt Lake City, UT, US | bill@crownchocolate.com | FMCG | Drafted | Jul 6 |
+| 1168 | Turvey Center | Regina, SK, Canada | info@turveycenter.com | Events | Drafted | Jul 6 |
