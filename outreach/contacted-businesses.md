@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 8, 2026
-**Total unique businesses:** 1,167
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30) + July 6 US/North America-Only Batch AK (30)
+**Total unique businesses:** 1,197
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 7 Multi-City Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 8 US-Only Batch AL (30)
 
 ---
 
@@ -1580,3 +1580,43 @@
 | 1165 | Bannerman Brewing Co. | St. John's, NL, Canada | info@bannermanbrewing.com | FMCG | Drafted | Jul 6 |
 | 1166 | Crown Chocolate | Salt Lake City, UT, US | bill@crownchocolate.com | FMCG | Drafted | Jul 6 |
 | 1167 | Turvey Center | Regina, SK, Canada | info@turveycenter.com | Events | Drafted | Jul 6 |
+
+---
+
+### Section AL — July 8, 2026 US-Only Batch #29 (30 businesses)
+
+*Cities: Missoula MT · Sarasota FL · Sioux Falls SD · Bozeman MT · Providence RI · Lafayette LA · Fargo ND · West Fargo ND · Pensacola FL · Tallahassee FL · Rapid City SD · Billings MT*
+*US-only batch — all 30 confirmed new via WebSearch + WebFetch, cross-checked against 1,167-business exclusion list. Zero duplicates. 12 candidates removed during cross-check (already contacted). All 30 Gmail drafts saved (Batch AL). Emails confirmed from direct business domain pages.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1168 | Headwaters Hot Yoga | Missoula, MT, US | info@headwatershotyoga.com | Wellness | Drafted | Jul 8 |
+| 1169 | BlueAloe Day Spa | Sarasota, FL, US | bluealoe@bluealoespa.com | Wellness | Drafted | Jul 8 |
+| 1170 | Full Circle Pilates | Missoula, MT, US | denise@fullcirclepilates.com | Wellness | Drafted | Jul 8 |
+| 1171 | Roundhouse Brew Pub | Sioux Falls, SD, US | info@roundhousesf.com | FMCG | Drafted | Jul 8 |
+| 1172 | Bentley Bodies Wellness | Bozeman, MT, US | hello@bentleybodies.com | Wellness | Drafted | Jul 8 |
+| 1173 | Barre & Soul | Providence, RI, US | wsq@barresoul.com | Wellness | Drafted | Jul 8 |
+| 1174 | Ember Pilates | Sarasota, FL, US | hello@emberpilatessrq.com | Wellness | Drafted | Jul 8 |
+| 1175 | BODYBAR Pilates | Sarasota, FL, US | sarasota@bodybarpilates.com | Wellness | Drafted | Jul 8 |
+| 1176 | Zen Den Yoga | Lafayette, LA, US | zendenlafayette@yahoo.com | Wellness | Drafted | Jul 8 |
+| 1177 | Trinity Brewhouse | Providence, RI, US | Angel.w@trinitybrewhouse.com | F&B | Drafted | Jul 8 |
+| 1178 | Union Station Brewery | Providence, RI, US | Events@unionstationpvd.com | F&B | Drafted | Jul 8 |
+| 1179 | Hot Yoga Sarasota | Sarasota, FL, US | hotyogasarasota@gmail.com | Wellness | Drafted | Jul 8 |
+| 1180 | Cranky Sam Public House | Missoula, MT, US | mike@crankysam.com | F&B | Drafted | Jul 8 |
+| 1181 | Inspire Health & Wellness Spa | Fargo, ND, US | inspirehealthfm@gmail.com | Wellness | Drafted | Jul 8 |
+| 1182 | Downtown Yoga Center | Fargo, ND, US | admin@downtownyogafargo.com | Wellness | Drafted | Jul 8 |
+| 1183 | Mojo Fit Studios | Fargo, ND, US | mojo@mojofitstudios.com | Wellness | Drafted | Jul 8 |
+| 1184 | Monks Ale House | Sioux Falls, SD, US | contact@monks-sf.com | F&B | Drafted | Jul 8 |
+| 1185 | Providence Power Yoga | Providence, RI, US | info@ppyri.com | Wellness | Drafted | Jul 8 |
+| 1186 | Maxwell's Restaurant & Bar | West Fargo, ND, US | contact@maxwellsnd.com | F&B | Drafted | Jul 8 |
+| 1187 | Pensacola Bay Brewery | Pensacola, FL, US | beer@pbbrew.com | FMCG | Drafted | Jul 8 |
+| 1188 | The Society Wellness | Tallahassee, FL, US | studio@thesocietywellness.com | Wellness | Drafted | Jul 8 |
+| 1189 | Loam Yoga | Rapid City, SD, US | rapidcityyoga@yahoo.com | Wellness | Drafted | Jul 8 |
+| 1190 | Rising Om Yoga | Tallahassee, FL, US | Info@RisingOmYoga.com | Wellness | Drafted | Jul 8 |
+| 1191 | Vibrant Life Yoga & Pilates | Rapid City, SD, US | jillian@vibrantlifesd.com | Wellness | Drafted | Jul 8 |
+| 1192 | Flowstate | Tallahassee, FL, US | info@flowstatemidtown.com | Wellness | Drafted | Jul 8 |
+| 1193 | Independent Ale House | Rapid City, SD, US | jami@independentalehouse.com | F&B | Drafted | Jul 8 |
+| 1194 | By All Means Brewing | Billings, MT, US | chandler@byallmeans.beer | FMCG | Drafted | Jul 8 |
+| 1195 | Pure Pilates | Pensacola, FL, US | info@purepilatespensacola.com | Wellness | Drafted | Jul 8 |
+| 1196 | Abundance Wellness Center | Tallahassee, FL, US | awctally@gmail.com | Wellness | Drafted | Jul 8 |
+| 1197 | Woodland Republic Brewing | Rapid City, SD, US | info@woodlandrepublicbrewing.com | FMCG | Drafted | Jul 8 |
