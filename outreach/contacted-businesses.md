@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 9, 2026
-**Total unique businesses:** 961
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + July 9 AU-Only Batch 25 (30)
+**Total unique businesses:** 991
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + July 9 AU-Only Batch 25 (30) + July 9 Global Batch 26 (30)
 
 ---
 
@@ -1299,3 +1299,38 @@
 | 959 | Oh Hey Pilates | Bendigo VIC, AU | ohheypilates@gmail.com | Wellness | Drafted | Jul 9 |
 | 960 | Haven Broome | Broome WA, AU | hello@havenbroome.com.au | F&B | Drafted | Jul 9 |
 | 961 | Balance Pilates Centre | Cairns QLD, AU | caitlin@balanceperformancecentre.com | Wellness | Drafted | Jul 9 |
+
+## Section AE — Global Batch 26 (July 9, 2026)
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 962 | Circle Pilates Toronto | Toronto, CA | circlepilatestoronto@gmail.com | Wellness | Drafted | Jul 9 |
+| 963 | Medina Cafe | Vancouver, CA | info@medinacafe.com | F&B | Drafted | Jul 9 |
+| 964 | Linh Cafe | Vancouver, CA | eat@linhcafe.com | F&B | Drafted | Jul 9 |
+| 965 | Root and Rise Wellness Studio | Singapore, SG | root8rise@gmail.com | Wellness | Drafted | Jul 9 |
+| 966 | Yoga for the People Wellington | Wellington, NZ | wgtn@yogaforthepeople.co.nz | Wellness | Drafted | Jul 9 |
+| 967 | Space Yoga | Wellington, NZ | info@spaceyoga.nz | Wellness | Drafted | Jul 9 |
+| 968 | De Nieuwe Yogaschool | Amsterdam, NL | info@denieuweyogaschool.nl | Wellness | Drafted | Jul 9 |
+| 969 | CIMA Pilates and Yoga | Dubai, UAE | admin@cimauae.com | Wellness | Drafted | Jul 9 |
+| 970 | The Ivy Room | Cape Town, ZA | info@theivyroom.co.za | Wellness | Drafted | Jul 9 |
+| 971 | White Wood Green | Bangkok, TH | info@whitewoodgreen.com | Wellness/F&B | Drafted | Jul 9 |
+| 972 | Pilates Berlin | Berlin, DE | info@pilatesberlin.de | Wellness | Drafted | Jul 9 |
+| 973 | The Canggu Studio | Bali, ID | info@thecanggustudio.com | Wellness | Drafted | Jul 9 |
+| 974 | Clear Cafe | Ubud Bali, ID | info@clearcafebali.com | F&B | Drafted | Jul 9 |
+| 975 | Remedy Studio Berlin | Berlin, DE | office@remedyberlin.com | Wellness | Drafted | Jul 9 |
+| 976 | Yonder Cafe | Queenstown, NZ | hello@yonderqt.co.nz | F&B | Drafted | Jul 9 |
+| 977 | CA Downtown Porto | Porto, PT | gday@cadowntown.com | F&B | Drafted | Jul 9 |
+| 978 | E+ROSE Wellness | Nashville USA | hello@eandrose.com | F&B | Drafted | Jul 9 |
+| 979 | Studio 41 Pilates | Copenhagen, DK | info@studio41pilates.com | Wellness | Drafted | Jul 9 |
+| 980 | Contrology Pilates Studio | Medellin, CO | info@pilatesstudio.com.co | Wellness | Drafted | Jul 9 |
+| 981 | Yogalab Medellin | Medellin, CO | yogalab.medellin@gmail.com | Wellness | Drafted | Jul 9 |
+| 982 | Pilates Collective Denver | Denver USA | info@pilatescollectivedenver.com | Wellness | Drafted | Jul 9 |
+| 983 | The Cove Wellness | Christchurch, NZ | info@thecovewellness.co.nz | Wellness | Drafted | Jul 9 |
+| 984 | Light On Studios | Mexico City, MX | hola@lightonstudiosmx.com | Wellness | Drafted | Jul 9 |
+| 985 | The Kynd Space | Lisbon, PT | care@thekyndspace.com | Wellness | Drafted | Jul 9 |
+| 986 | Anjos Pilates | Lisbon, PT | admin@anjospilates.com | Wellness | Drafted | Jul 9 |
+| 987 | MorePilates | Tel Aviv, IL | morepilates.tlv@gmail.com | Wellness | Drafted | Jul 9 |
+| 988 | Welladee Wellness | Chiang Mai, TH | info@welladee.com | Wellness | Drafted | Jul 9 |
+| 989 | Sesen Skin Body Wellness | Denver USA | info@sesenskinbodywellness.com | Wellness | Drafted | Jul 9 |
+| 990 | MyWellness TLV | Tel Aviv, IL | mywellnesstlv@gmail.com | Wellness | Drafted | Jul 9 |
+| 991 | Cafe Calton | Edinburgh, UK | reservations@cafecalton.com | F&B | Drafted | Jul 9 |
