@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 6, 2026
-**Total unique businesses:** 1,168
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30)
+**Last updated:** July 9, 2026
+**Total unique businesses:** 1,198
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30)
 
 ---
 
@@ -1581,3 +1581,43 @@
 | 1166 | Bannerman Brewing Co. | St. John's, NL, Canada | info@bannermanbrewing.com | FMCG | Drafted | Jul 6 |
 | 1167 | Crown Chocolate | Salt Lake City, UT, US | bill@crownchocolate.com | FMCG | Drafted | Jul 6 |
 | 1168 | Turvey Center | Regina, SK, Canada | info@turveycenter.com | Events | Drafted | Jul 6 |
+
+---
+
+### Section AL — July 9, 2026 Australia-Only Batch #29 (30 businesses)
+
+*Cities: Shepparton VIC · Albury NSW · Dubbo NSW · Coffs Harbour NSW · Port Macquarie NSW · Wagga Wagga NSW · Ballarat VIC · Warrnambool VIC · Bundaberg QLD · Rockhampton QLD · Ipswich QLD · Hervey Bay QLD · Gladstone QLD (AEST) · Adelaide SA · Mount Gambier SA · Darwin NT (ACST) · Bunbury WA · Geraldton WA · Mandurah WA · Kalgoorlie WA (AWST)*
+*Australia-only batch per request — non-AU leads not researched. Two research subagents hit the account's session-usage limit mid-task and failed; this batch was completed via direct WebSearch by the main session instead. All 30 confirmed new — cross-checked against 1,168-business exclusion list. Zero duplicates. All NINE-compliant independent businesses. First outreach into Western Australia (Bunbury, Geraldton, Mandurah, Kalgoorlie) and further SA/NT coverage (Adelaide, Mount Gambier, Darwin). Emails confirmed via WebSearch (WebFetch unavailable this session — network-egress-policy block, HTTP 403 on every URL). No decision-maker names were confirmed in search results this round, so all drafts use "Hi there," per the template rule. 30 drafts displayed in terminal, organized by BST send window — introduced AWST and ACST conversions not in the original reference table, extended via the same offset formula used for prior batches' non-listed zones.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1169 | Shepparton Brewery | Shepparton, VIC, AU | Info@sheppartonbrewery.com.au | FMCG | Drafted | Jul 9 |
+| 1170 | Table 451 Eat + Drink | Albury, NSW, AU | table451albury@gmail.com | F&B | Drafted | Jul 9 |
+| 1171 | Dubbo Golf Club | Dubbo, NSW, AU | functions@dubbogolfclub.com.au | Events | Drafted | Jul 9 |
+| 1172 | Element Bar | Coffs Harbour, NSW, AU | pretzel@elementbar.com.au | F&B | Drafted | Jul 9 |
+| 1173 | Cocoa Cafe and Restaurant | Coffs Harbour, NSW, AU | cocoa@cocoacafe.com.au | F&B | Drafted | Jul 9 |
+| 1174 | SMART Pilates | Port Macquarie, NSW, AU | info@smartpilates.net.au | Wellness | Drafted | Jul 9 |
+| 1175 | Thirsty Crow Brewing Co | Wagga Wagga, NSW, AU | info@thirstycrow.com.au | FMCG | Drafted | Jul 9 |
+| 1176 | The Grand Ballarat | Ballarat, VIC, AU | thegrandfunctionsballarat@gmail.com | Events | Drafted | Jul 9 |
+| 1177 | FAT CHEF Ballarat | Ballarat, VIC, AU | fatchefballarat@gmail.com | F&B | Drafted | Jul 9 |
+| 1178 | 384 North Brewing | Bundaberg, QLD, AU | info@384northbeer.au | FMCG | Drafted | Jul 9 |
+| 1179 | The Goat Café & Restaurant | Rockhampton, QLD, AU | cafe@thegoatcafeandbar.com.au | F&B | Drafted | Jul 9 |
+| 1180 | Riverside Restaurant | Rockhampton, QLD, AU | bookings@riversiderestaurant.com.au | F&B | Drafted | Jul 9 |
+| 1181 | Sacred Cow Yoga Studio | Ipswich, QLD, AU | info@sacredcowyoga.com | Wellness | Drafted | Jul 9 |
+| 1182 | Pilates Shack | Ipswich, QLD, AU | info@thepilatesshack.com | Wellness | Drafted | Jul 9 |
+| 1183 | Hervey Bay Massage and Day Spa | Hervey Bay, QLD, AU | feronicankala@gmail.com | Wellness | Drafted | Jul 9 |
+| 1184 | Images Restaurant | Warrnambool, VIC, AU | info@imagesrestaurant.com.au | F&B | Drafted | Jul 9 |
+| 1185 | Myrtle Bar & Kitchen | Warrnambool, VIC, AU | info@myrtle.net.au | F&B | Drafted | Jul 9 |
+| 1186 | Granite Ridge Gardens | Gladstone, QLD, AU | graniteridgegardens@yahoo.com.au | Events | Drafted | Jul 9 |
+| 1187 | EASSA DAY SPA | Adelaide, SA, AU | info@eassadayspa.com | Wellness | Drafted | Jul 9 |
+| 1188 | Darwin Brewing Co | Darwin, NT, AU | ryan@darwinbrewing.co | FMCG | Drafted | Jul 9 |
+| 1189 | Six Tanks Brew Pub | Darwin, NT, AU | sixtanksbrew@gmail.com | FMCG | Drafted | Jul 9 |
+| 1190 | Presto Eatery | Mount Gambier, SA, AU | catering@prestoeatery.com.au | F&B | Drafted | Jul 9 |
+| 1191 | Metro Bakery and Cafe | Mount Gambier, SA, AU | Info@metrobakeryandcafe.com.au | FMCG | Drafted | Jul 9 |
+| 1192 | Foodie Bar | Mount Gambier, SA, AU | foodiebarandkitchen@gmail.com | F&B | Drafted | Jul 9 |
+| 1193 | Froth Craft Brewery | Bunbury, WA, AU | pete@frothcraft.com | FMCG | Drafted | Jul 9 |
+| 1194 | Salt Dish Cafe | Geraldton, WA, AU | saltdish@outlook.com | F&B | Drafted | Jul 9 |
+| 1195 | Flowvitality Cafe | Geraldton, WA, AU | hello@flowvitality.com | F&B | Drafted | Jul 9 |
+| 1196 | My Pilates Gym | Mandurah, WA, AU | info@mypilatesgym.com | Wellness | Drafted | Jul 9 |
+| 1197 | Aileen's Studio | Mandurah, WA, AU | aileenwood@bigpond.com | Wellness | Drafted | Jul 9 |
+| 1198 | Beaten Track Brewery | Kalgoorlie, WA, AU | info@beatentrackbrewery.com.au | FMCG | Drafted | Jul 9 |
