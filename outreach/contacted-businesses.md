@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 3, 2026
-**Total unique businesses:** 931
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30)
+**Last updated:** July 9, 2026
+**Total unique businesses:** 961
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + July 9 AU-Only Batch 25 (30)
 
 ---
 
@@ -1264,3 +1264,38 @@
 | 929 | The Blackrock | Dublin, IE | hello@theblackrock.ie | F&B | Drafted | Jul 3 |
 | 930 | Radiant Pilates | Exeter, UK | hello@radiantpilates.co.uk | Wellness | Drafted | Jul 3 |
 | 931 | Greenwich Cafe | Cork, IE | hello@greenwichcafe.ie | F&B | Drafted | Jul 3 |
+
+## Section AD — AU-Only Batch 25 (July 9, 2026)
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 932 | The Yoga Room and Pilates | Cairns QLD, AU | hello@theyogaroomandpilates.com.au | Wellness | Drafted | Jul 9 |
+| 933 | Lee and Me Cafe | Wollongong NSW, AU | hello@leeandme.com.au | F&B | Drafted | Jul 9 |
+| 934 | Canberra Yoga Space | Canberra ACT, AU | enquiries@canberrayogaspace.com.au | Wellness | Drafted | Jul 9 |
+| 935 | Bikram Yoga Canberra | Canberra ACT, AU | info@bikramcanberra.com.au | Wellness | Drafted | Jul 9 |
+| 936 | Harry's on Buderim | Sunshine Coast QLD, AU | info@harrysonbuderim.com.au | F&B | Drafted | Jul 9 |
+| 937 | Humble on Duke | Sunshine Coast QLD, AU | info@humbleonduke.com.au | F&B | Drafted | Jul 9 |
+| 938 | Bende | Byron Bay NSW, AU | hello@bende.com.au | Wellness | Drafted | Jul 9 |
+| 939 | The Bistrot Fremantle | Fremantle WA, AU | hello@thebistrotfreo.com.au | F&B | Drafted | Jul 9 |
+| 940 | Bread in Common | Fremantle WA, AU | info@breadincommon.com.au | F&B | Drafted | Jul 9 |
+| 941 | YogaHealth | Townsville QLD, AU | info@yogahealth.net.au | Wellness | Drafted | Jul 9 |
+| 942 | Lighten Up Studio | Townsville QLD, AU | hello@lightenupstudio.com.au | Wellness | Drafted | Jul 9 |
+| 943 | Antara Studios | Toowoomba QLD, AU | hello@antarastudios.com.au | Wellness | Drafted | Jul 9 |
+| 944 | Moorish Cafe | Darwin NT, AU | info@moorishcafe.com.au | F&B | Drafted | Jul 9 |
+| 945 | Florence and Me Cafe | Geelong VIC, AU | info@florenceandme.com.au | F&B | Drafted | Jul 9 |
+| 946 | Barwon Edge | Geelong VIC, AU | info@barwonedge.com.au | F&B | Drafted | Jul 9 |
+| 947 | White Elephant Cafe | Margaret River WA, AU | enquiries@whiteelephantcafe.com.au | F&B | Drafted | Jul 9 |
+| 948 | The Pilates Workshop | Wollongong NSW, AU | info@thepilatesworkshop.com.au | Wellness | Drafted | Jul 9 |
+| 949 | Pilates Haus | Illawarra NSW, AU | hello@pilateshaus.com.au | Wellness | Drafted | Jul 9 |
+| 950 | Ochre Restaurant | Cairns QLD, AU | info@ochrerestaurant.com.au | F&B | Drafted | Jul 9 |
+| 951 | Muse Pilates | Wagga Wagga NSW, AU | info@musepilates.com.au | Wellness | Drafted | Jul 9 |
+| 952 | Six Two Pilates and Yoga | Coffs Harbour NSW, AU | hello@sixtwopilatesandyoga.com.au | Wellness | Drafted | Jul 9 |
+| 953 | Shala Wellness | Coffs Harbour NSW, AU | hello@shalawellness.com.au | Wellness | Drafted | Jul 9 |
+| 954 | Pavilion Geelong | Geelong VIC, AU | info@paviliongeelong.com.au | F&B | Drafted | Jul 9 |
+| 955 | Sculpt Pilates and Barre | Bunbury WA, AU | info@sculptpilatesandbarre.com.au | Wellness | Drafted | Jul 9 |
+| 956 | Fifteen Tables | Devonport TAS, AU | admin@fifteentables.com.au | F&B | Drafted | Jul 9 |
+| 957 | The Hydrant Food Hall | Ballarat VIC, AU | hello@thehydrant.com.au | F&B | Drafted | Jul 9 |
+| 958 | Tonic Studios | Albury NSW, AU | tonicstudiosalbury@gmail.com | Wellness | Drafted | Jul 9 |
+| 959 | Oh Hey Pilates | Bendigo VIC, AU | ohheypilates@gmail.com | Wellness | Drafted | Jul 9 |
+| 960 | Haven Broome | Broome WA, AU | hello@havenbroome.com.au | F&B | Drafted | Jul 9 |
+| 961 | Balance Pilates Centre | Cairns QLD, AU | caitlin@balanceperformancecentre.com | Wellness | Drafted | Jul 9 |
