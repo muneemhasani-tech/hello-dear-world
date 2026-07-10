@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 9, 2026
-**Total unique businesses:** 991
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + July 9 AU-Only Batch 25 (30) + July 9 Global Batch 26 (30)
+**Total unique businesses:** 1021
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + July 9 AU-Only Batch 25 (30) + July 9 Global Batch 26 (30) + July 10 USA-NA Batch 27 (30)
 
 ---
 
@@ -1334,3 +1334,38 @@
 | 989 | Sesen Skin Body Wellness | Denver USA | info@sesenskinbodywellness.com | Wellness | Drafted | Jul 9 |
 | 990 | MyWellness TLV | Tel Aviv, IL | mywellnesstlv@gmail.com | Wellness | Drafted | Jul 9 |
 | 991 | Cafe Calton | Edinburgh, UK | reservations@cafecalton.com | F&B | Drafted | Jul 9 |
+
+## Section AF — USA/NA Batch 27 (July 10, 2026)
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 992 | Studio7 Pilates | Kansas City MO, USA | info@studio7pilates.com | Wellness | Drafted | Jul 10 |
+| 993 | Pilates KC | Overland Park KS, USA | info@pilateskc.com | Wellness | Drafted | Jul 10 |
+| 994 | PRISM Pilates Cincinnati | Cincinnati OH, USA | hello@prismpilatescincinnati.com | Wellness | Drafted | Jul 10 |
+| 995 | 513 Lagree | Cincinnati OH, USA | info@513lagree.com | Wellness | Drafted | Jul 10 |
+| 996 | Foundations Studio Indianapolis | Indianapolis IN, USA | info@indyfoundations.com | Wellness | Drafted | Jul 10 |
+| 997 | JuiceLife RVA | Richmond VA, USA | info@juiceliferva.co | F&B | Drafted | Jul 10 |
+| 998 | Reform Pilates PDX | Portland OR, USA | info@reformpilatespdx.com | Wellness | Drafted | Jul 10 |
+| 999 | Wildroot Cafe | Boise ID, USA | eat@wildrootcafe.com | F&B | Drafted | Jul 10 |
+| 1000 | Juniper on 8th | Boise ID, USA | info@juniperon8th.com | F&B | Drafted | Jul 10 |
+| 1001 | Cafe Ole Memphis | Memphis TN, USA | info@cafeolememphis.com | F&B | Drafted | Jul 10 |
+| 1002 | Global Cafe Memphis | Memphis TN, USA | info@globalcafememphis.com | F&B | Drafted | Jul 10 |
+| 1003 | Wellness Minneapolis | Minneapolis MN, USA | info@wellnessmpls.com | Wellness | Drafted | Jul 10 |
+| 1004 | Bend and Zen Hot Yoga | Louisville KY, USA | bendandzen@bendandzenhotyoga.com | Wellness | Drafted | Jul 10 |
+| 1005 | Yoga East Louisville | Louisville KY, USA | admin@yogaeast.org | Wellness | Drafted | Jul 10 |
+| 1006 | Body Aligned Pilates | Tampa FL, USA | info@bodyalignedtampa.com | Wellness | Drafted | Jul 10 |
+| 1007 | Tucson Independent Yoga | Tucson AZ, USA | info@tucsonindependentyoga.com | Wellness | Drafted | Jul 10 |
+| 1008 | Clayton Pilates Studio | Clayton MO, USA | info@claytonpilatesstudio.com | Wellness | Drafted | Jul 10 |
+| 1009 | Pilates House Baltimore | Baltimore MD, USA | contact@pilateshousebaltimore.com | Wellness | Drafted | Jul 10 |
+| 1010 | Rich Movement Pilates | Omaha NE, USA | info@richmovementpilates.com | Wellness | Drafted | Jul 10 |
+| 1011 | Cedar Coffee | Spokane WA, USA | info@cedar.coffee | F&B | Drafted | Jul 10 |
+| 1012 | Pilates of Jackson | Jackson MS, USA | info@pilatesofjacksonstudio.net | Wellness | Drafted | Jul 10 |
+| 1013 | Purple Door Pilates | Madison WI, USA | purpledoorpilatesmadison@gmail.com | Wellness | Drafted | Jul 10 |
+| 1014 | Your Body Pilates | Reno NV, USA | info@yourbodypilates.com | Wellness | Drafted | Jul 10 |
+| 1015 | Core Pilates Anchorage | Anchorage AK, USA | info@corepilatesak.com | Wellness | Drafted | Jul 10 |
+| 1016 | Real Roots Cafe | Chattanooga TN, USA | RealRootsWellness@gmail.com | F&B | Drafted | Jul 10 |
+| 1017 | Heni Restaurant | Montreal QC, Canada | info@heni.restaurant | F&B | Drafted | Jul 10 |
+| 1018 | Kif Kif Montreal | Montreal QC, Canada | info@kifkifmtl.com | F&B | Drafted | Jul 10 |
+| 1019 | M Pilates Calgary | Calgary AB, Canada | hello@mpilates.ca | Wellness | Drafted | Jul 10 |
+| 1020 | 7th Chakra Calgary | Calgary AB, Canada | info@7thchakra.ca | Wellness | Drafted | Jul 10 |
+| 1021 | Recharged Pilates | East Lansing MI, USA | hello@rechargedpilates.com | Wellness | Drafted | Jul 10 |
