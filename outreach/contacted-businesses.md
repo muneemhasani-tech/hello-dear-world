@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
 **Last updated:** July 10, 2026
-**Total unique businesses:** 931
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30) + July 3 Multi-City Batch 23 (30) + July 10 Multi-City Batch 24 (30)
+**Total unique businesses:** 961
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30) + July 3 Multi-City Batch 23 (30) + July 10 Multi-City Batch 24 (30) + July 10 Multi-City Batch 25 (30)
 
 ---
 
@@ -1261,3 +1261,42 @@
 | 929 | Rosieglo Yoga | Cheltenham, UK | rosie@rosieglo.co.uk | Wellness | Pending manual | Jul 10 |
 | 930 | Sligo Yoga Centre | Sligo, IE | tara@sligoyogacentre.ie | Wellness | Pending manual | Jul 10 |
 | 931 | Yoga Stretch Galway | Galway, IE | theyogastretch@gmail.com | Wellness | Pending manual | Jul 10 |
+
+---
+
+## Section AD — July 10 Multi-City Batch 25 (#932–961)
+
+*Cities: Burlington VT, Lynchburg VA (US-ET) · Springfield MO, Wichita KS, Mankato MN, Ames IA (US-CT) · Grand Junction CO (US-MT) · Salem OR, Chico CA, Redding CA (US-PT) · Napier, Whanganui, Nelson, Tasman (NZ) · Limerick, Tralee (IE) · Cairns QLD, Devonport TAS (AU) · Canterbury, Exeter (UK)*
+
+| # | Business | Location | Email | Niche | Status | Date |
+|---|---|---|---|---|---|---|
+| 932 | Burlington Yoga | Burlington VT, US | info@burlingtonyoga.com | Wellness | Drafted | Jul 10 |
+| 933 | Sangha Studio | Burlington VT, US | info@sanghastudio.org | Wellness | Drafted | Jul 10 |
+| 934 | Sattva Yoga and Wellness Center | Lynchburg VA, US | sattvayogacentercv@gmail.com | Wellness | Drafted | Jul 10 |
+| 935 | James River Yoga | Lynchburg VA, US | annealfieri@gmail.com | Wellness | Drafted | Jul 10 |
+| 936 | Sage Studio Yoga & Wellness | Springfield MO, US | shamanshaneknox@gmail.com | Wellness | Drafted | Jul 10 |
+| 937 | Marianna Evans Yoga | Wichita KS, US | marianna@mariannaevans.com | Wellness | Drafted | Jul 10 |
+| 938 | Wichita Brewing Co & Pizzeria | Wichita KS, US | west@wichitabrew.com | F&B | Drafted | Jul 10 |
+| 939 | Wooden Spoon | Mankato MN, US | natasha@woodenspoonmn.com | F&B | Drafted | Jul 10 |
+| 940 | Ames Yoga Center | Ames IA, US | rahadish@amesyoga.com | Wellness | Drafted | Jul 10 |
+| 941 | Ignite Yoga | Ames IA, US | emilyhampton@me.com | Wellness | Drafted | Jul 10 |
+| 942 | Orange Door Community Wellness | Grand Junction CO, US | admin@orangedoorgj.org | Wellness | Drafted | Jul 10 |
+| 943 | Common People Yoga | Salem OR, US | info@commonpeopleyoga.com | Wellness | Drafted | Jul 10 |
+| 944 | Powerhouse Hot Yoga | Salem OR, US | powerhousehotyoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 945 | Yoga Center of Chico | Chico CA, US | michele@yogacenterofchico.com | Wellness | Drafted | Jul 10 |
+| 946 | Simply Rooted | Redding CA, US | info@simplyrootedyoga.org | Wellness | Drafted | Jul 10 |
+| 947 | Hapī | Napier, NZ | eatwell@hapi.nz | F&B | Pending manual | Jul 10 |
+| 948 | Mischief Cafe | Whanganui, NZ | mischiefcafe@outlook.co.nz | F&B | Pending manual | Jul 10 |
+| 949 | Victus Coffee & Eatery | Nelson, NZ | hello@victus.nz | F&B | Pending manual | Jul 10 |
+| 950 | Boat Shed Cafe | Nelson, NZ | enquiry@boatshedcafe.co.nz | F&B | Pending manual | Jul 10 |
+| 951 | Jester House Café | Tasman, NZ | jesterhouse@xtra.co.nz | F&B | Pending manual | Jul 10 |
+| 952 | Ashtanga Yoga Limerick | Limerick, IE | ashtangayogalimerick@gmail.com | Wellness | Pending manual | Jul 10 |
+| 953 | Sara Cory Yoga | Limerick, IE | saracory.yoga@gmail.com | Wellness | Pending manual | Jul 10 |
+| 954 | Ebb & Flow Yoga | Tralee, IE | ebbflowyogaireland@gmail.com | Wellness | Pending manual | Jul 10 |
+| 955 | Blue Sky Brewery | Cairns QLD, AU | info@blueskybrewery.com.au | FMCG | Pending manual | Jul 10 |
+| 956 | Industry One Coffee | Cairns QLD, AU | contact@industryonecoffee.com.au | F&B | Pending manual | Jul 10 |
+| 957 | Atrium Cafe | Devonport TAS, AU | Atriumcafe@atriumcafetasmania.com | F&B | Pending manual | Jul 10 |
+| 958 | The Larder Cafe | Devonport TAS, AU | lardergirl@hotmail.com | F&B | Pending manual | Jul 10 |
+| 959 | Yoga Shala Canterbury | Canterbury, UK | yogashalacanterbury@gmail.com | Wellness | Pending manual | Jul 10 |
+| 960 | derekthedog yoga studio | Exeter, UK | fran@derekthedog.co.uk | Wellness | Pending manual | Jul 10 |
+| 961 | The Welcome Cafe | Exeter, UK | welcomecafe.reservations@gmail.com | F&B | Pending manual | Jul 10 |
