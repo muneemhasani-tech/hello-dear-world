@@ -1,8 +1,8 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 3, 2026
-**Total unique businesses:** 901
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30) + July 3 Multi-City Batch 23 (30)
+**Last updated:** July 10, 2026
+**Total unique businesses:** 931
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 30 Multi-City Batch 20 (30) + July 1 Multi-City Batch 21 (30) + July 2 Multi-City Batch 22 (30) + July 3 Multi-City Batch 23 (30) + July 10 Multi-City Batch 24 (30)
 
 ---
 
@@ -1222,3 +1222,42 @@
 | 899 | Bend Yoga | Bend, OR, US | hello@bendyoga.studio | Wellness | Drafted | Jul 3 |
 | 900 | Still Water Yoga & Wellness | Bend, OR, US | Info@stillwateryoga.org | Wellness | Drafted | Jul 3 |
 | 901 | Namaspa Yoga | Bend, OR, US | Info@namaspa.com | Wellness | Drafted | Jul 3 |
+
+### Section AC — July 10, 2026 Multi-City Batch 24 (30 emails)
+
+*Cities: Roanoke VA · Spartanburg SC · Erie PA (US-ET) · Fargo ND · Duluth MN · Eau Claire WI · Waco TX (US-CT) · Pueblo CO (US-MT) · Medford OR · Yakima WA · Olympia WA (US-PT) · Palmerston North NZ · Rotorua NZ · Launceston TAS · Mackay QLD · Geelong VIC (AU) · Worcester UK · Chester UK · Cheltenham UK · Sligo IE · Galway IE*
+*All 30 confirmed new — cross-checked against 901-business exclusion list. Zero duplicates. All NINE-compliant. Direct emails confirmed via WebSearch/WebFetch.*
+*US emails drafted (17): Nos. 902–918. Non-US businesses (13, Nos. 919–931): saved for manual sending.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 902 | Roanoke Yoga | Roanoke, VA, US | roanokeyoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 903 | Uttara Yoga Studio | Roanoke, VA, US | info@uttarayogastudio.com | Wellness | Drafted | Jul 10 |
+| 904 | WaveRoom Yoga | Spartanburg, SC, US | wr@waveroomyoga.com | Wellness | Drafted | Jul 10 |
+| 905 | Yoga Space Spartanburg | Spartanburg, SC, US | info@yogaunme.com | Wellness | Drafted | Jul 10 |
+| 906 | Infinite Love Yoga | Erie, PA, US | info@infinitelove.yoga | Wellness | Drafted | Jul 10 |
+| 907 | Moonrise Cafe | Fargo, ND, US | moonrisecafefm@gmail.com | F&B | Drafted | Jul 10 |
+| 908 | Babb's Coffee House | Fargo, ND, US | babbscoffeefargo@gmail.com | F&B | Drafted | Jul 10 |
+| 909 | Lake Superior Brewing | Duluth, MN, US | info@lakesuperiorbrewingduluth.com | F&B | Drafted | Jul 10 |
+| 910 | Bloomer Brewing Co | Eau Claire, WI, US | bloomerbrewingco@gmail.com | F&B | Drafted | Jul 10 |
+| 911 | Pinewood Coffee & Beer | Waco, TX, US | hello@pinewoodroasters.com | F&B | Drafted | Jul 10 |
+| 912 | Revival Eastside Eatery | Waco, TX, US | revivaleastsideeatery@gmail.com | F&B | Drafted | Jul 10 |
+| 913 | Open Studio Yoga | Pueblo, CO, US | openstudioyoga@yahoo.com | Wellness | Drafted | Jul 10 |
+| 914 | Nova Stella Yoga | Pueblo, CO, US | nova.stella.community@gmail.com | Wellness | Drafted | Jul 10 |
+| 915 | Noho's Hawaiian Cafe | Medford, OR, US | hugo@nohos.com | F&B | Drafted | Jul 10 |
+| 916 | Move Pilates | Medford, OR, US | movepilates101@gmail.com | Wellness | Drafted | Jul 10 |
+| 917 | Renu Hot Yoga | Yakima, WA, US | info@renuhotyoga.com | Wellness | Drafted | Jul 10 |
+| 918 | Olympic Essence Yoga Studio | Olympia, WA, US | olyessence@gmail.com | Wellness | Drafted | Jul 10 |
+| 919 | LOCAL Cafe | Palmerston North, NZ | hi@cafelocal.co.nz | F&B | Pending manual | Jul 10 |
+| 920 | Essence Bar & Restaurant | Palmerston North, NZ | essencecafepalmy@gmail.com | F&B | Pending manual | Jul 10 |
+| 921 | Artisan Cafe | Rotorua, NZ | artisancafe.rotorua@gmail.com | F&B | Pending manual | Jul 10 |
+| 922 | Le Café de Paris | Rotorua, NZ | lecafedeparis1206@gmail.com | F&B | Pending manual | Jul 10 |
+| 923 | Maple Cafe | Launceston, TAS, AU | info@maplecafe.com.au | F&B | Pending manual | Jul 10 |
+| 924 | Inside Café | Launceston, TAS, AU | hello@insidecafe.com.au | F&B | Pending manual | Jul 10 |
+| 925 | 9th Lane Grind | Mackay, QLD, AU | catering@9thlanegrind.com.au | F&B | Pending manual | Jul 10 |
+| 926 | Great Ocean Road Brewing | Geelong, VIC, AU | info@greatoceanroadbrewing.com.au | F&B | Pending manual | Jul 10 |
+| 927 | Melissa Porter Yoga | Worcester, UK | melissaporteryoga@gmail.com | Wellness | Pending manual | Jul 10 |
+| 928 | Brewhouse & Kitchen Chester | Chester, UK | chester@brewhouseandkitchen.com | F&B | Pending manual | Jul 10 |
+| 929 | Rosieglo Yoga | Cheltenham, UK | rosie@rosieglo.co.uk | Wellness | Pending manual | Jul 10 |
+| 930 | Sligo Yoga Centre | Sligo, IE | tara@sligoyogacentre.ie | Wellness | Pending manual | Jul 10 |
+| 931 | Yoga Stretch Galway | Galway, IE | theyogastretch@gmail.com | Wellness | Pending manual | Jul 10 |
