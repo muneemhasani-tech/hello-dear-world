@@ -100,6 +100,16 @@ The LinkedIn column contains a pre-built company search URL for each lead. A sep
 | `crm/week-{YYYY}-W{NN}.md` | `/crm` skill (via `/eod`) | Weekly lead tracker — all pipeline activity for the week |
 | `crm/monthly-{YYYY-MM}.md` | `crm_merge.py` | Monthly CRM report — pipeline funnel, revenue forecast, niche + city breakdown |
 
+### ⚠️ `outreach/contacted-businesses.md` integrity — read before every batch
+
+This file is the single exclusion list for all cold-outreach batches — its whole purpose is preventing the same business from being emailed twice. It has **diverged between branches before** (`claude/new-session-467CY` and `claude/new-session-467cy-bp7ezp` each independently grew a different "Section AJ/AK/AL" under the same row numbers, hiding real duplicates for several batches until a manual audit caught it — see Section AM's changelog entry in the file itself for the full incident and fix).
+
+To prevent this recurring, **every session that touches this file must**:
+1. Before researching a new batch: `git fetch` and diff `outreach/contacted-businesses.md` across `claude/new-session-467CY` and any other active session branch. If they've diverged, reconcile first (dedupe by normalized business name + city — row numbers are not a reliable identity key across branches) before appending anything new.
+2. Check new candidates against business **name + city**, not just name alone (same name can legitimately recur in different cities as a different business — don't drop those).
+3. After appending a new batch and committing: push the updated file to **both** `claude/new-session-467CY` and the working session branch so they stay byte-identical, not just your own branch.
+4. Never assume the copy on your current branch is up to date — another parallel session may have appended to the other branch since you last pulled.
+
 ## GitHub Actions
 
 All workflows have `workflow_dispatch` enabled — trigger manually from the Actions tab without waiting for the schedule.
