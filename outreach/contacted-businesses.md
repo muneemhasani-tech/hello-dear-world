@@ -1,8 +1,17 @@
 # CorpNine — Contacted Businesses Master List
 
-**Last updated:** July 9, 2026
-**Total unique businesses:** 1,198
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30)
+> **⚠️ BRANCH SYNC WARNING — READ BEFORE EDITING THIS FILE**
+> This file previously **diverged** between `claude/new-session-467CY` (the repo's actual default branch) and `claude/new-session-467cy-bp7ezp` (a parallel session branch) starting at row #1109 — two different Claude sessions each appended different "Section AJ/AK/AL" batches independently, without seeing each other's work, creating two incompatible versions of the same file with the same row numbers pointing at different businesses. This went undetected for several batches and produced hidden duplicate risk.
+>
+> **Before appending ANY new batch to this file:**
+> 1. `git fetch origin claude/new-session-467CY claude/new-session-467cy-bp7ezp` and diff `outreach/contacted-businesses.md` across both branches.
+> 2. If they've diverged, reconcile first (dedupe by business name + city, keep all genuinely unique rows, renumber sequentially) — do not append on top of a stale/diverged copy.
+> 3. After appending, push the updated file to **both** branches so they stay identical.
+> 4. Treat business-name+city (not row number) as the true identity key when checking for duplicates — row numbers are not reliable across branches.
+
+**Last updated:** July 9, 2026 (merge-reconciled)
+**Total unique businesses:** 1,253
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence)
 
 ---
 
@@ -1621,3 +1630,68 @@
 | 1196 | My Pilates Gym | Mandurah, WA, AU | info@mypilatesgym.com | Wellness | Drafted | Jul 9 |
 | 1197 | Aileen's Studio | Mandurah, WA, AU | aileenwood@bigpond.com | Wellness | Drafted | Jul 9 |
 | 1198 | Beaten Track Brewery | Kalgoorlie, WA, AU | info@beatentrackbrewery.com.au | FMCG | Drafted | Jul 9 |
+
+---
+
+### Section AM — July 9, 2026 Branch-Merge Reconciliation (55 businesses)
+
+*This section recovers businesses that existed on `claude/new-session-467CY` (the repo's default branch) but not on `claude/new-session-467cy-bp7ezp`, after the two branches were discovered to have diverged at row #1109 (each branch independently grew its own "Section AJ/AK/AL" with different businesses under the same row numbers). Source batches on the 467CY branch: "July 7, 2026 Multi-City Batch #27" (Bozeman MT · Bellingham WA · Medford OR · Naperville IL · Ames IA · Columbia SC · Tyler TX · Shreveport LA · Morgantown WV · Fort Collins CO · Amarillo TX · Provo UT · South Ogden UT · Logan UT (US) · Canterbury · Cheltenham · Worcester · Swindon (UK) · St Andrews, Scotland (UK) · Limerick · Sligo (IE) · Hobart · Launceston · Bendigo · Ipswich QLD · Port Macquarie NSW · Orange NSW (AU)) and "July 8, 2026 US-Only Batch #29" (Missoula MT · Sarasota FL · Sioux Falls SD · Bozeman MT · Providence RI · Lafayette LA · Fargo ND · West Fargo ND · Pensacola FL · Tallahassee FL · Rapid City SD · Billings MT).*
+*Original combined tail from both branches: 179 rows (90 mine + 89 theirs). Deduplication by normalized business-name + city found 34 true duplicates (30 were an exact mirror of my Section AK re-added under different row numbers; plus Sacred Cow Yoga Studio duplicated between my Section AL and their Section AJ; plus By All Means Brewing, Loam Yoga, and Inside Café/Cafe, each of which already existed in the pre-divergence shared history at #449, #536, and #581 respectively but were re-added independently on the 467CY branch). The 55 rows below are the ones confirmed genuinely new. Original "Date Sent" values preserved from the source branch. Not independently re-verified by this session — carried over as-is from the 467CY branch's own research.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1199 | Bend Beyond Hot Yoga | Bozeman, MT, US | team@bendbeyondyoga.com | Wellness | Drafted | Jul 7 |
+| 1200 | Studio A Pilates | Bozeman, MT, US | Adriane.N.Melillo@gmail.com | Wellness | Drafted | Jul 7 |
+| 1201 | Yoga Northwest | Bellingham, WA, US | doyoga@yoganorthwest.com | Wellness | Drafted | Jul 7 |
+| 1202 | Noho's Hawaiian Cafe | Medford, OR, US | hugo@nohos.com | F&B | Drafted | Jul 7 |
+| 1203 | Hot Yoga Naperville | Naperville, IL, US | hotyoganaperville@gmail.com | Wellness | Drafted | Jul 7 |
+| 1204 | Ames Yoga Center | Ames, IA, US | rahadish@amesyoga.com | Wellness | Drafted | Jul 7 |
+| 1205 | Beam Pilates & Event Studio | Columbia, SC, US | beamcolumbia@gmail.com | Wellness | Drafted | Jul 7 |
+| 1206 | Pilates Collective Tyler | Tyler, TX, US | studio@pilatescollectivetyler.com | Wellness | Drafted | Jul 7 |
+| 1207 | Kinetic Wellness | Shreveport, LA, US | support@kineticwellnessla.com | Wellness | Drafted | Jul 7 |
+| 1208 | Terra Cafe | Morgantown, WV, US | info@terracafewv.com | F&B | Drafted | Jul 7 |
+| 1209 | Gilded Goat Brewing | Fort Collins, CO, US | info@gildedgoatbrewing.com | FMCG | Drafted | Jul 7 |
+| 1210 | OHMS Cafe & Bar | Amarillo, TX, US | mary@ohmscafe.com | F&B | Drafted | Jul 7 |
+| 1211 | Urban Pilates Utah | Provo, UT, US | studio@urbanpilatesutah.com | Wellness | Drafted | Jul 7 |
+| 1212 | The Firm Pilates | South Ogden, UT, US | info@thefirm-pilates.com | Wellness | Drafted | Jul 7 |
+| 1213 | Home Range Brewing | Logan, UT, US | info@homerangebeer.com | FMCG | Drafted | Jul 7 |
+| 1214 | TOR Spa Retreat | Canterbury, UK | enq@torsparetreat.com | Wellness | Drafted | Jul 7 |
+| 1215 | Cheltenham Pilates & Yoga Studios | Cheltenham, UK | info@cheltenhampilatesandyoga.co.uk | Wellness | Drafted | Jul 7 |
+| 1216 | Balance Cafe and Yoga | Worcester, UK | hello@balancecafeandyoga.com | Wellness | Drafted | Jul 7 |
+| 1217 | Mindful Movement Studio | Swindon, UK | info@mindfulmovementstudio.co.uk | Wellness | Drafted | Jul 7 |
+| 1218 | Haar Restaurant | St Andrews, Scotland, UK | bookings@haarrestaurant.com | F&B | Drafted | Jul 7 |
+| 1219 | Bothy St Andrews | St Andrews, Scotland, UK | info@bothystandrews.co.uk | F&B | Drafted | Jul 7 |
+| 1220 | Balance Pilates | Limerick, IE | info@balancepilates.ie | Wellness | Drafted | Jul 7 |
+| 1221 | Sligo Pilates | Sligo, IE | sligopilates@gmail.com | Wellness | Drafted | Jul 7 |
+| 1222 | Harbour Lights Cafe | Hobart, TAS, AU | info@harbourlightscafe.com.au | F&B | Drafted | Jul 7 |
+| 1223 | Be Yoga Bendigo | Bendigo, VIC, AU | beyogabendigo@gmail.com | Wellness | Drafted | Jul 7 |
+| 1224 | Moorebeer Brewing Co | Port Macquarie, NSW, AU | info@moorebeer.com.au | FMCG | Drafted | Jul 7 |
+| 1225 | Eat Botanic | Orange, NSW, AU | Eatbotanic2800@outlook.com | F&B | Drafted | Jul 7 |
+| 1226 | Headwaters Hot Yoga | Missoula, MT, US | info@headwatershotyoga.com | Wellness | Drafted | Jul 8 |
+| 1227 | BlueAloe Day Spa | Sarasota, FL, US | bluealoe@bluealoespa.com | Wellness | Drafted | Jul 8 |
+| 1228 | Full Circle Pilates | Missoula, MT, US | denise@fullcirclepilates.com | Wellness | Drafted | Jul 8 |
+| 1229 | Roundhouse Brew Pub | Sioux Falls, SD, US | info@roundhousesf.com | FMCG | Drafted | Jul 8 |
+| 1230 | Bentley Bodies Wellness | Bozeman, MT, US | hello@bentleybodies.com | Wellness | Drafted | Jul 8 |
+| 1231 | Barre & Soul | Providence, RI, US | wsq@barresoul.com | Wellness | Drafted | Jul 8 |
+| 1232 | Ember Pilates | Sarasota, FL, US | hello@emberpilatessrq.com | Wellness | Drafted | Jul 8 |
+| 1233 | BODYBAR Pilates | Sarasota, FL, US | sarasota@bodybarpilates.com | Wellness | Drafted | Jul 8 |
+| 1234 | Zen Den Yoga | Lafayette, LA, US | zendenlafayette@yahoo.com | Wellness | Drafted | Jul 8 |
+| 1235 | Trinity Brewhouse | Providence, RI, US | Angel.w@trinitybrewhouse.com | F&B | Drafted | Jul 8 |
+| 1236 | Union Station Brewery | Providence, RI, US | Events@unionstationpvd.com | F&B | Drafted | Jul 8 |
+| 1237 | Hot Yoga Sarasota | Sarasota, FL, US | hotyogasarasota@gmail.com | Wellness | Drafted | Jul 8 |
+| 1238 | Cranky Sam Public House | Missoula, MT, US | mike@crankysam.com | F&B | Drafted | Jul 8 |
+| 1239 | Inspire Health & Wellness Spa | Fargo, ND, US | inspirehealthfm@gmail.com | Wellness | Drafted | Jul 8 |
+| 1240 | Downtown Yoga Center | Fargo, ND, US | admin@downtownyogafargo.com | Wellness | Drafted | Jul 8 |
+| 1241 | Mojo Fit Studios | Fargo, ND, US | mojo@mojofitstudios.com | Wellness | Drafted | Jul 8 |
+| 1242 | Monks Ale House | Sioux Falls, SD, US | contact@monks-sf.com | F&B | Drafted | Jul 8 |
+| 1243 | Providence Power Yoga | Providence, RI, US | info@ppyri.com | Wellness | Drafted | Jul 8 |
+| 1244 | Maxwell's Restaurant & Bar | West Fargo, ND, US | contact@maxwellsnd.com | F&B | Drafted | Jul 8 |
+| 1245 | Pensacola Bay Brewery | Pensacola, FL, US | beer@pbbrew.com | FMCG | Drafted | Jul 8 |
+| 1246 | The Society Wellness | Tallahassee, FL, US | studio@thesocietywellness.com | Wellness | Drafted | Jul 8 |
+| 1247 | Rising Om Yoga | Tallahassee, FL, US | Info@RisingOmYoga.com | Wellness | Drafted | Jul 8 |
+| 1248 | Vibrant Life Yoga & Pilates | Rapid City, SD, US | jillian@vibrantlifesd.com | Wellness | Drafted | Jul 8 |
+| 1249 | Flowstate | Tallahassee, FL, US | info@flowstatemidtown.com | Wellness | Drafted | Jul 8 |
+| 1250 | Independent Ale House | Rapid City, SD, US | jami@independentalehouse.com | F&B | Drafted | Jul 8 |
+| 1251 | Pure Pilates | Pensacola, FL, US | info@purepilatespensacola.com | Wellness | Drafted | Jul 8 |
+| 1252 | Abundance Wellness Center | Tallahassee, FL, US | awctally@gmail.com | Wellness | Drafted | Jul 8 |
+| 1253 | Woodland Republic Brewing | Rapid City, SD, US | info@woodlandrepublicbrewing.com | FMCG | Drafted | Jul 8 |
