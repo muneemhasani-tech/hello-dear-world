@@ -9,9 +9,9 @@
 > 3. After appending, push the updated file to **both** branches so they stay identical.
 > 4. Treat business-name+city (not row number) as the true identity key when checking for duplicates — row numbers are not reliable across branches.
 
-**Last updated:** July 9, 2026 (merge-reconciled)
-**Total unique businesses:** 1,253
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence)
+**Last updated:** July 10, 2026
+**Total unique businesses:** 1,305
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence) + July 10 User-Provided Batch AN (52, 8 duplicates excluded)
 
 ---
 
@@ -1695,3 +1695,65 @@
 | 1251 | Pure Pilates | Pensacola, FL, US | info@purepilatespensacola.com | Wellness | Drafted | Jul 8 |
 | 1252 | Abundance Wellness Center | Tallahassee, FL, US | awctally@gmail.com | Wellness | Drafted | Jul 8 |
 | 1253 | Woodland Republic Brewing | Rapid City, SD, US | info@woodlandrepublicbrewing.com | FMCG | Drafted | Jul 8 |
+
+---
+
+### Section AN — July 10, 2026 User-Provided Batch (52 businesses)
+
+*User-compiled and provided via CSV (Batch 24 & 25 relabeled from their original source — original numbering #902–961 there does not correspond to this file's numbering, which is independent). Cross-checked against the 1,253-business reconciled master list by normalized business name + city, plus a fuzzy pass (shared city + distinctive name-word overlap) to catch near-duplicate naming.*
+*8 duplicates excluded: Lake Superior Brewing (Duluth MN, already #1143), Sattva Yoga and Wellness Center (Lynchburg VA, already #1061), James River Yoga (Lynchburg VA, already #1073 — submitted email differs from master's on file), Sage Studio Yoga & Wellness (Springfield MO, already #327 as "Sage Studio Yoga" — same email), Inside Café (Launceston TAS AU, already #581 — submitted email differs from master's on file), derekthedog yoga studio (Exeter UK, already #428 as "Derekthedog Yoga & Wellbeing" — same email), Noho's Hawaiian Cafe (Medford OR, already #1202), Ames Yoga Center (Ames IA, already #1204). All 52 remaining rows confirmed new — zero duplicates.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1254 | Roanoke Yoga | Roanoke, VA, US | roanokeyoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 1255 | Uttara Yoga Studio | Roanoke, VA, US | info@uttarayogastudio.com | Wellness | Drafted | Jul 10 |
+| 1256 | WaveRoom Yoga | Spartanburg, SC, US | wr@waveroomyoga.com | Wellness | Drafted | Jul 10 |
+| 1257 | Yoga Space Spartanburg | Spartanburg, SC, US | info@yogaunme.com | Wellness | Drafted | Jul 10 |
+| 1258 | Infinite Love Yoga | Erie, PA, US | info@infinitelove.yoga | Wellness | Drafted | Jul 10 |
+| 1259 | Moonrise Cafe | Fargo, ND, US | moonrisecafefm@gmail.com | F&B | Drafted | Jul 10 |
+| 1260 | Babb's Coffee House | Fargo, ND, US | babbscoffeefargo@gmail.com | F&B | Drafted | Jul 10 |
+| 1261 | Bloomer Brewing Co | Eau Claire, WI, US | bloomerbrewingco@gmail.com | F&B | Drafted | Jul 10 |
+| 1262 | Pinewood Coffee & Beer | Waco, TX, US | hello@pinewoodroasters.com | F&B | Drafted | Jul 10 |
+| 1263 | Revival Eastside Eatery | Waco, TX, US | revivaleastsideeatery@gmail.com | F&B | Drafted | Jul 10 |
+| 1264 | Open Studio Yoga | Pueblo, CO, US | openstudioyoga@yahoo.com | Wellness | Drafted | Jul 10 |
+| 1265 | Nova Stella Yoga | Pueblo, CO, US | nova.stella.community@gmail.com | Wellness | Drafted | Jul 10 |
+| 1266 | Move Pilates | Medford, OR, US | movepilates101@gmail.com | Wellness | Drafted | Jul 10 |
+| 1267 | Renu Hot Yoga | Yakima, WA, US | info@renuhotyoga.com | Wellness | Drafted | Jul 10 |
+| 1268 | Olympic Essence Yoga Studio | Olympia, WA, US | olyessence@gmail.com | Wellness | Drafted | Jul 10 |
+| 1269 | LOCAL Cafe | Palmerston North, NZ | hi@cafelocal.co.nz | F&B | Drafted | Jul 10 |
+| 1270 | Essence Bar & Restaurant | Palmerston North, NZ | essencecafepalmy@gmail.com | F&B | Drafted | Jul 10 |
+| 1271 | Artisan Cafe | Rotorua, NZ | artisancafe.rotorua@gmail.com | F&B | Drafted | Jul 10 |
+| 1272 | Le Café de Paris | Rotorua, NZ | lecafedeparis1206@gmail.com | F&B | Drafted | Jul 10 |
+| 1273 | Maple Cafe | Launceston, TAS, AU | info@maplecafe.com.au | F&B | Drafted | Jul 10 |
+| 1274 | 9th Lane Grind | Mackay, QLD, AU | catering@9thlanegrind.com.au | F&B | Drafted | Jul 10 |
+| 1275 | Great Ocean Road Brewing | Geelong, VIC, AU | info@greatoceanroadbrewing.com.au | F&B | Drafted | Jul 10 |
+| 1276 | Melissa Porter Yoga | Worcester, UK | melissaporteryoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 1277 | Brewhouse & Kitchen Chester | Chester, UK | chester@brewhouseandkitchen.com | F&B | Drafted | Jul 10 |
+| 1278 | Rosieglo Yoga | Cheltenham, UK | rosie@rosieglo.co.uk | Wellness | Drafted | Jul 10 |
+| 1279 | Sligo Yoga Centre | Sligo, IE | tara@sligoyogacentre.ie | Wellness | Drafted | Jul 10 |
+| 1280 | Yoga Stretch Galway | Galway, IE | theyogastretch@gmail.com | Wellness | Drafted | Jul 10 |
+| 1281 | Burlington Yoga | Burlington, VT, US | info@burlingtonyoga.com | Wellness | Drafted | Jul 10 |
+| 1282 | Sangha Studio | Burlington, VT, US | info@sanghastudio.org | Wellness | Drafted | Jul 10 |
+| 1283 | Marianna Evans Yoga | Wichita, KS, US | marianna@mariannaevans.com | Wellness | Drafted | Jul 10 |
+| 1284 | Wichita Brewing Co & Pizzeria | Wichita, KS, US | west@wichitabrew.com | F&B | Drafted | Jul 10 |
+| 1285 | Wooden Spoon | Mankato, MN, US | natasha@woodenspoonmn.com | F&B | Drafted | Jul 10 |
+| 1286 | Ignite Yoga | Ames, IA, US | emilyhampton@me.com | Wellness | Drafted | Jul 10 |
+| 1287 | Orange Door Community Wellness | Grand Junction, CO, US | admin@orangedoorgj.org | Wellness | Drafted | Jul 10 |
+| 1288 | Common People Yoga | Salem, OR, US | info@commonpeopleyoga.com | Wellness | Drafted | Jul 10 |
+| 1289 | Powerhouse Hot Yoga | Salem, OR, US | powerhousehotyoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 1290 | Yoga Center of Chico | Chico, CA, US | michele@yogacenterofchico.com | Wellness | Drafted | Jul 10 |
+| 1291 | Simply Rooted | Redding, CA, US | info@simplyrootedyoga.org | Wellness | Drafted | Jul 10 |
+| 1292 | Hapī | Napier, NZ | eatwell@hapi.nz | F&B | Drafted | Jul 10 |
+| 1293 | Mischief Cafe | Whanganui, NZ | mischiefcafe@outlook.co.nz | F&B | Drafted | Jul 10 |
+| 1294 | Victus Coffee & Eatery | Nelson, NZ | hello@victus.nz | F&B | Drafted | Jul 10 |
+| 1295 | Boat Shed Cafe | Nelson, NZ | enquiry@boatshedcafe.co.nz | F&B | Drafted | Jul 10 |
+| 1296 | Jester House Café | Tasman, NZ | jesterhouse@xtra.co.nz | F&B | Drafted | Jul 10 |
+| 1297 | Ashtanga Yoga Limerick | Limerick, IE | ashtangayogalimerick@gmail.com | Wellness | Drafted | Jul 10 |
+| 1298 | Sara Cory Yoga | Limerick, IE | saracory.yoga@gmail.com | Wellness | Drafted | Jul 10 |
+| 1299 | Ebb & Flow Yoga | Tralee, IE | ebbflowyogaireland@gmail.com | Wellness | Drafted | Jul 10 |
+| 1300 | Blue Sky Brewery | Cairns, QLD, AU | info@blueskybrewery.com.au | FMCG | Drafted | Jul 10 |
+| 1301 | Industry One Coffee | Cairns, QLD, AU | contact@industryonecoffee.com.au | F&B | Drafted | Jul 10 |
+| 1302 | Atrium Cafe | Devonport, TAS, AU | Atriumcafe@atriumcafetasmania.com | F&B | Drafted | Jul 10 |
+| 1303 | The Larder Cafe | Devonport, TAS, AU | lardergirl@hotmail.com | F&B | Drafted | Jul 10 |
+| 1304 | Yoga Shala Canterbury | Canterbury, UK | yogashalacanterbury@gmail.com | Wellness | Drafted | Jul 10 |
+| 1305 | The Welcome Cafe | Exeter, UK | welcomecafe.reservations@gmail.com | F&B | Drafted | Jul 10 |
