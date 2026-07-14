@@ -10,8 +10,8 @@
 > 4. Treat business-name+city (not row number) as the true identity key when checking for duplicates — row numbers are not reliable across branches.
 
 **Last updated:** July 14, 2026
-**Total unique businesses:** 1,335
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence) + July 10 User-Provided Batch AN (52, 8 duplicates excluded) + July 14 Multi-City Batch AO (30, saved to Gmail via MCP)
+**Total unique businesses:** 1,365
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence) + July 10 User-Provided Batch AN (52, 8 duplicates excluded) + July 14 Multi-City Batch AO (30, saved to Gmail via MCP) + July 14 US-Only Batch AP (30, displayed in terminal — first 20 also exist as Gmail drafts before the display-only preference was set)
 
 ---
 
@@ -1797,3 +1797,43 @@
 | 1333 | Darleys Restaurant | Derby, UK | groupbookings@darleys.com | F&B | Drafted | Jul 14 |
 | 1334 | Ziff's Café & Bar | Invercargill, NZ | allan@ziffs.co.nz | F&B | Drafted | Jul 14 |
 | 1335 | Acacia Function Centre | Tamworth, NSW, AU | events@acaciatamworth.com.au | Events | Drafted | Jul 14 |
+
+---
+
+### Section AP — July 14, 2026 US-Only Batch (30 businesses)
+
+*Cities: Pierre SD · Cheyenne WY · Augusta ME · Concord NH · Montpelier VT · Annapolis MD · Dover DE · Trenton NJ · Frankfort KY · Jackson MS*
+*All 30 confirmed new — cross-checked against 1,335-business exclusion list by business name + city, plus a fuzzy near-name pass. Two apparent name collisions (The Village Cafe, Shakti Yoga LLC) individually verified as different businesses in different cities from existing entries. Zero duplicates. All NINE-compliant independent businesses. Emails confirmed via WebSearch (WebFetch unavailable this session — network-egress-policy block, HTTP 403 on every URL tested). First 20 rows were saved as Gmail drafts before the user asked to stop and switch to terminal-display-only for the remainder; all 30 displayed in chat regardless.*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1336 | Branding Iron Bistro | Pierre, SD, US | brandingironbistropierre@gmail.com | F&B | Drafted | Jul 14 |
+| 1337 | The Outpost Lodge | Pierre, SD, US | Brandon@outpostsd.com | Events | Drafted | Jul 14 |
+| 1338 | Rejuvenation Spa and Salon | Pierre, SD, US | info@rsspierre.com | Wellness | Drafted | Jul 14 |
+| 1339 | Ranch Eats | Cheyenne, WY, US | rancheatswyo@gmail.com | F&B | Drafted | Jul 14 |
+| 1340 | Freedom's Edge Brewing Co. | Cheyenne, WY, US | sales@freedomsedgebrewing.com | FMCG | Drafted | Jul 14 |
+| 1341 | White Antelope Barn | Cheyenne, WY, US | Heidi@whiteantelopeweddings.com | Events | Drafted | Jul 14 |
+| 1342 | Cushnoc Brewing Co. | Augusta, ME, US | info@cushnocbrewing.com | FMCG | Drafted | Jul 14 |
+| 1343 | Downtown Yoga & Healing Arts | Augusta, ME, US | info@downtownyogame.com | Wellness | Drafted | Jul 14 |
+| 1344 | Hydrapure Infusions Medspa | Augusta, ME, US | kasha@hydrapureiv.com | Wellness | Drafted | Jul 14 |
+| 1345 | Blossom Yoga & Wellness | Concord, NH, US | blossomyoganh@gmail.com | Wellness | Drafted | Jul 14 |
+| 1346 | The Barn at Bull Meadow | Concord, NH, US | weddings@bullmeadow.com | Events | Drafted | Jul 14 |
+| 1347 | Concord Craft Brewing Co. | Concord, NH, US | Information@concordcraftbrewing.com | FMCG | Drafted | Jul 14 |
+| 1348 | Blossom Wellness Center | Montpelier, VT, US | joanie.blossomwellness@gmail.com | Wellness | Drafted | Jul 14 |
+| 1349 | Cafe NOA | Montpelier, VT, US | dodoskitchen@gmail.com | F&B | Drafted | Jul 14 |
+| 1350 | Rabble-Rouser Chocolate & Craft Co. | Montpelier, VT, US | culture@rabblerouser.net | FMCG | Drafted | Jul 14 |
+| 1351 | Carrols Creek Cafe | Annapolis, MD, US | info@carrolscreek.com | F&B | Drafted | Jul 14 |
+| 1352 | Forward Brewing | Annapolis, MD, US | info@forwardeastport.com | FMCG | Drafted | Jul 14 |
+| 1353 | Sandel Duggal Center for Plastic Surgery & Medspa | Annapolis, MD, US | medspa@sandelduggal.com | Wellness | Drafted | Jul 14 |
+| 1354 | The Village Cafe | Dover, DE, US | villagecafe302@gmail.com | F&B | Drafted | Jul 14 |
+| 1355 | Touchdown Restaurant | Dover, DE, US | touchdownrest@aol.com | F&B | Drafted | Jul 14 |
+| 1356 | Shakti Yoga LLC | Dover, DE, US | Frontdesk@shaktiyogallc.com | Wellness | Drafted | Jul 14 |
+| 1357 | Cooper's Riverview | Trenton, NJ, US | tara@coopersnj.com | Events | Drafted | Jul 14 |
+| 1358 | Casa Del Estilo | Trenton, NJ, US | casa.delestilo1@gmail.com | Wellness | Drafted | Jul 14 |
+| 1359 | Trentini's Restaurant | Trenton, NJ, US | trentinis635@gmail.com | F&B | Drafted | Jul 14 |
+| 1360 | My Old Kentucky OM Yoga Center | Frankfort, KY, US | shari@myoldkentuckyom.com | Wellness | Drafted | Jul 14 |
+| 1361 | Kentucky Coffeetree Cafe | Frankfort, KY, US | info@kentuckycoffeetree.com | F&B | Drafted | Jul 14 |
+| 1362 | The Ashbrook Restaurant (Ashbrook Hotel) | Frankfort, KY, US | team@ashbrookhotel.com | F&B | Drafted | Jul 14 |
+| 1363 | Native Coffee Co. | Jackson, MS, US | hello@nativecoffeejxn.com | FMCG | Drafted | Jul 14 |
+| 1364 | Broad Street Baking Company & Cafe | Jackson, MS, US | info@broadstbakery.com | F&B | Drafted | Jul 14 |
+| 1365 | The VenU By Roseburgh | Jackson, MS, US | thevenubyroseburgh@gmail.com | Events | Drafted | Jul 14 |
