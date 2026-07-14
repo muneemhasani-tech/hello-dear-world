@@ -9,9 +9,9 @@
 > 3. After appending, push the updated file to **both** branches so they stay identical.
 > 4. Treat business-name+city (not row number) as the true identity key when checking for duplicates — row numbers are not reliable across branches.
 
-**Last updated:** July 10, 2026
-**Total unique businesses:** 1,305
-**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence) + July 10 User-Provided Batch AN (52, 8 duplicates excluded)
+**Last updated:** July 14, 2026
+**Total unique businesses:** 1,335
+**Sources:** CorpNine FINAL Leads File (Drive) + June 12 Gmail batch + June 15 Edinburgh batch + June 15 Multi-City Batch 2 + June 16 Multi-City Batch 3 + June 16 Multi-City Batch 4 + June 17 Multi-City Batch 5 + June 17 Multi-City Batch 6 (30) + June 22 Multi-City Batch 11 (30) + June 23 Multi-City Batch 12 (30) + June 24 Multi-City Batch 13 (29) + June 24 US-Only Batch 14 (30) + June 25 Multi-City Batch 15 (30) + June 25 Multi-City Batch 16 (25 net, 5 duplicates removed) + June 26 Replacement Batch 17 (5) + June 26 US-Only Batch 18 (30) + June 27 US-Only Batch 19 (30) + June 29 Multi-City Batch 20 (30) + June 30 UK-IE-AU Batch 21 (30) + July 1 US-Only Batch 22 (30) + July 2 US-Only Batch 23 (30) + July 3 UK-IE Batch 24 (30) + June 30 Parallel Batch AD (30) + July 1 Parallel Batch AE (30) + July 2 Parallel Batch AF (30) + July 3 Parallel Batch AG (27) + July 6 Multi-City Batch AH (30) + July 6 Multi-City Batch AI (30) + July 6 US/North America-Only Batch AJ (30) + July 6 US/North America-Only Batch AK (30) + July 9 Australia-Only Batch AL (30) + July 9 Branch-Merge Reconciliation Batch AM (55, recovered from claude/new-session-467CY divergence) + July 10 User-Provided Batch AN (52, 8 duplicates excluded) + July 14 Multi-City Batch AO (30, saved to Gmail via MCP)
 
 ---
 
@@ -1757,3 +1757,43 @@
 | 1303 | The Larder Cafe | Devonport, TAS, AU | lardergirl@hotmail.com | F&B | Drafted | Jul 10 |
 | 1304 | Yoga Shala Canterbury | Canterbury, UK | yogashalacanterbury@gmail.com | Wellness | Drafted | Jul 10 |
 | 1305 | The Welcome Cafe | Exeter, UK | welcomecafe.reservations@gmail.com | F&B | Drafted | Jul 10 |
+
+---
+
+### Section AO — July 14, 2026 Multi-City Batch (30 businesses)
+
+*Cities: Cedar Rapids IA · Jefferson City MO · Davenport IA · Columbia MO · Topeka KS · Lincoln NE · Springfield IL · Bismarck ND · Rochester MN · Evansville IN (US) · Lincoln UK · Preston UK · Peterborough UK · Northampton UK · Derby UK · Athlone IE · Drogheda IE · Tamworth NSW AU · Nowra NSW AU · Lismore NSW AU · New Plymouth NZ · Invercargill NZ*
+*All 30 confirmed new — cross-checked against 1,305-business exclusion list by business name + city, plus a fuzzy near-name pass to catch naming variants of existing entries. Zero duplicates, zero near-duplicates. All NINE-compliant independent businesses. Emails confirmed via WebSearch (WebFetch unavailable this session — network-egress-policy block, HTTP 403 on every URL tested). Each email attributed directly to the business's own domain/contact page in search results, not an aggregator. All 30 drafts saved to Gmail via MCP (not displayed in terminal this batch, per updated standing instructions).*
+
+| # | Business | City | Email | Industry | Status | Date Sent |
+|---|---|---|---|---|---|---|
+| 1306 | Iowa Brewing Co. | Cedar Rapids, IA, US | rob@iowabrewing.beer | FMCG | Drafted | Jul 14 |
+| 1307 | Sweetopia Artisan Chocolates | Marion (Cedar Rapids), IA, US | sweetopiachocolates@outlook.com | FMCG | Drafted | Jul 14 |
+| 1308 | The Carriage House | Cedar Rapids, IA, US | info@thecarriagehousecr.com | Events | Drafted | Jul 14 |
+| 1309 | Madison's Cafe | Jefferson City, MO, US | info@madisonscafe.com | F&B | Drafted | Jul 14 |
+| 1310 | The Grand Cafe | Jefferson City, MO, US | thegrandcafejc@gmail.com | F&B | Drafted | Jul 14 |
+| 1311 | The Phoenix Restaurant | Davenport, IA, US | thephoenixofdavenport@gmail.com | F&B | Drafted | Jul 14 |
+| 1312 | Delf's Pro Gym | Davenport, IA, US | delfsprogym@gmail.com | Wellness | Drafted | Jul 14 |
+| 1313 | Chapel Hill Pilates and Yoga Studio | Columbia, MO, US | chapelhillpilatesyoga@hotmail.com | Wellness | Drafted | Jul 14 |
+| 1314 | DogMaster Distillery | Columbia, MO, US | dogmaster@dogmasterdistillery.com | FMCG | Drafted | Jul 14 |
+| 1315 | 785 Beer Company | Topeka, KS, US | info@785beercompany.com | FMCG | Drafted | Jul 14 |
+| 1316 | Eucalyptus Day Spa | Lincoln, NE, US | eucdayspa@gmail.com | Wellness | Drafted | Jul 14 |
+| 1317 | Pao Bistro | Springfield, IL, US | PaoBistroSpringfield@gmail.com | F&B | Drafted | Jul 14 |
+| 1318 | Bistro 1100 | Bismarck, ND, US | bistro1100@hotmail.com | F&B | Drafted | Jul 14 |
+| 1319 | Kinney Creek Brewery | Rochester, MN, US | kinneycreek@kinneycreekbrewery.com | FMCG | Drafted | Jul 14 |
+| 1320 | Evansville Power Yoga | Evansville, IN, US | yoga101info@gmail.com | Wellness | Drafted | Jul 14 |
+| 1321 | The Jews House Restaurant | Lincoln, UK | info@jewshouserestaurant.co.uk | F&B | Drafted | Jul 14 |
+| 1322 | Jal Kamal Yoga | Preston, UK | jalkamalyoga@gmail.com | Wellness | Drafted | Jul 14 |
+| 1323 | Bastion Kitchen | Athlone, IE | Bastionk1tchen@gmail.com | F&B | Drafted | Jul 14 |
+| 1324 | D'Vine at Distillery House | Drogheda, IE | info@dvine.ie | F&B | Drafted | Jul 14 |
+| 1325 | Inland Cafe | Tamworth, NSW, AU | sollars1@bigpond.com | F&B | Drafted | Jul 14 |
+| 1326 | Husky Brewing | Nowra, NSW, AU | huskybrewing@hotmail.com | FMCG | Drafted | Jul 14 |
+| 1327 | Shining Peak Brewing | New Plymouth, NZ | brendan@shiningpeakbrewing.com | FMCG | Drafted | Jul 14 |
+| 1328 | Northern Rivers Pilates | Lismore, NSW, AU | info@northernriverspilates.com.au | Wellness | Drafted | Jul 14 |
+| 1329 | East Restaurant | Peterborough, UK | manager@east-restaurant.co.uk | F&B | Drafted | Jul 14 |
+| 1330 | Seriously Good Chocolate Company | Invercargill, NZ | info@seriouslygoodchocolate.com | FMCG | Drafted | Jul 14 |
+| 1331 | 360 Wellness | Northampton, UK | info@360wellnessgroup.co.uk | Wellness | Drafted | Jul 14 |
+| 1332 | The Norfolk Venue | Peterborough, UK | contact@thenorfolkvenue.co.uk | Events | Drafted | Jul 14 |
+| 1333 | Darleys Restaurant | Derby, UK | groupbookings@darleys.com | F&B | Drafted | Jul 14 |
+| 1334 | Ziff's Café & Bar | Invercargill, NZ | allan@ziffs.co.nz | F&B | Drafted | Jul 14 |
+| 1335 | Acacia Function Centre | Tamworth, NSW, AU | events@acaciatamworth.com.au | Events | Drafted | Jul 14 |
